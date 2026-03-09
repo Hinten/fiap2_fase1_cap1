@@ -25,7 +25,6 @@ Este dataset **supera** o mínimo exigido, reunindo **5 artigos científicos** d
 | **Instituições** | Centro Universitário de João Pessoa; FAMENE; Complexo Hospitalar Infantil Arlinda Marques; Instituto Dante Pazzanese de Cardiologia |
 | **Periódico** | International Journal of Cardiovascular Sciences (IJCS) |
 | **Referência** | Int J Cardiovasc Sci. 2026;39:e20240146 |
-| **DOI** | https://doi.org/10.36660/ijcs.20240146 |
 | **Fonte / Link** | https://ijcscardiol.org/article/childhood-obesity-and-systemic-arterial-hypertension-in-children-and-adolescents-a-cross-sectional-study/ |
 | **Licença / Direitos** | Acesso aberto — IJCS publica sob licença Creative Commons (CC BY); consultar site do periódico para termos completos |
 | **Recebido / Aceito** | Recebido: 07/08/2024 · Aceito: 26/03/2025 |
@@ -178,9 +177,9 @@ Antes de utilizar os textos em pipelines de NLP, recomenda-se:
 
 ## 7. Links das Fontes
 
-| Arquivo | URL da Fonte | DOI |
-|---|---|---|
-| `Childhood_Obesity.txt` | https://ijcscardiol.org/article/childhood-obesity-and-systemic-arterial-hypertension-in-children-and-adolescents-a-cross-sectional-study/ | https://doi.org/10.36660/ijcs.20240146 |
+| Arquivo | URL da Fonte | DOI                                   |
+|---|---|---------------------------------------|
+| `Childhood_Obesity.txt` | https://ijcscardiol.org/article/childhood-obesity-and-systemic-arterial-hypertension-in-children-and-adolescents-a-cross-sectional-study/ | — |
 | `Coronary_Artery_Disease.txt` | https://ijcscardiol.org/article/inflammatory-and-atherogenic-markers-as-predictors-of-coronary-artery-disease-in-patients-with-suspected-coronary-artery-disease-undergoing-coronary-angiography/ | https://doi.org/10.36660/ijcs.20250039 |
 | `Endocarditis.txt` | https://ijcscardiol.org/article/endocarditis-a-27-year-epidemiological-analysis-of-mortality-in-brazil/ | https://doi.org/10.36660/ijcs.20250124 |
 | `Obstructive_Sleep_Apnea.txt` | https://ijcscardiol.org/article/obstructive-sleep-apnea-as-a-risk-factor-for-ischemic-heart-disease/ | https://doi.org/10.36660/ijcs.20240250 |
@@ -188,13 +187,3 @@ Antes de utilizar os textos em pipelines de NLP, recomenda-se:
 | **Site do periódico (IJCS)** | https://ijcscardiol.org/ | — |
 
 ---
-
-## 8. Observações Legais
-
-- Todos os artigos são publicados em regime de **acesso aberto** pelo IJCS sob licença **Creative Commons (CC BY)**, o que permite reprodução, distribuição e adaptação com a devida atribuição aos autores originais.
-- O uso neste projeto é estritamente **acadêmico e não comercial**, em conformidade com os termos das licenças Creative Commons e com as diretrizes do projeto CardioIA (FIAP).
-- Ao utilizar ou redistribuir estes textos, citar sempre o artigo original com título, autores, periódico, volume, ano e DOI conforme os metadados listados na Seção 2.
-
----
-
-*Referência ao enunciado completo: [`enunciado/enunciado.txt`](../enunciado/enunciado.txt)*
