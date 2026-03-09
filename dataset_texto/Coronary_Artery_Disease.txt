@@ -1,0 +1,677 @@
+Int J Cardiovasc Sci. 2026;39:e20250039 1
+Original Article
+Inflammatory and Atherogenic Markers as Predictors of Coronary 
+Artery Disease in Patients with Suspected Coronary Artery Disease 
+Undergoing Coronary Angiography
+Veysi Can,1
+ Fuat Polat2
+Van Regional Training and Research Hospital,1 Van – Turkey
+Istanbul Dr Siyami Ersek Thoracic and Cardiovascular Surgery Training and Research Hospital,2 Istanbul – Turkey
+Abstract
+Background:  Coronary artery disease (CAD) remains a leading cause of death worldwide, with inflammation 
+playing a key role in its pathophysiology. Inflammatory biomarkers may offer valuable insights into disease 
+mechanisms and risk stratification, potentially informing therapeutic decisions.
+Objectives:  This study aimed to investigate the association between key inflammatory markers — C-reactive 
+protein (CRP), neutrophil-to-lymphocyte ratio (NLR), and platelet-to-lymphocyte ratio (PLR) — and both the 
+presence and severity of coronary artery stenosis (CAS) in patients with suspected CAD undergoing coronary 
+angiography.
+Methods:  This retrospective study included 767 patients referred for coronary angiography due to suspected CAD. 
+The primary outcome was the presence of significant CAS. Demographic data, medical history, and blood samples 
+were collected. Statistical analyses included descriptive methods and regression modeling as well as receiver 
+operating characteristic (ROC) curve analysis to determine optimal cutoff values for biomarkers, with area under 
+the curve (AUC) used to assess predictive performance. A p-value < 0.05 was considered statistically significant.
+Results:  Of the 767 patients (mean age 58.3±12.4 years; 56.7% men), 496 had significant CAS (≥ 50%) and 271 
+had nonsignificant CAS (< 50%). Levels of CRP (0.44 vs. 0.13 mg/dL, p = 0.01) and NLR (2.6 vs. 2.0, p = 0.05) 
+were significantly higher in patients with CAS. No significant difference was observed for PLR (129.4 vs. 118.6,  
+p = 0.13). In multivariable analysis, CRP (OR = 1.188, p = 0.044) and NLR (OR=1.567, p = 0.03) were identified 
+as independent predictors of significant CAS. However, ROC curve analysis showed limited discriminative ability 
+for both CRP (AUC = 0.526) and NLR (AUC = 0.510), with values only slightly above chance.
+Conclusion:  Increased levels of CRP and NLR are significantly associated with CAS and may serve as potential 
+biomarkers for detecting CAD.
+Keywords:  Coronary Artery Disease; C-Reactive Protein; Biomarcadores .
+Mailing Address: Fuat Polat •
+Istanbul Dr Siyami Ersek Thoracic and Cardiovascular Surgery Training and 
+Research Hospital – Cardiology. Selimiye, Tıbbiye Cd Nº 25. Postal Code 
+34668, Istanbul – Turkey
+E-mail: drfuatpolat@gmail.com
+Manuscript received February 25, 2025; revised manuscript June 17, 2025;
+accepted July 21, 2025.
+Editor responsible for the review: Glaucia Oliveira
+DOI:  https://doi.org/10.36660/ijcs.20250039Introduction
+Coronary artery disease (CAD) remains a leading cause 
+of morbidity and mortality worldwide, primarily due to the 
+progression of atherosclerosis and its associated inflammatory 
+mechanisms.1 Identifying reliable biomarkers for the early 
+detection and progression of coronary artery stenosis (CAS) — 
+a key clinical manifestation of CAD — is essential to enhance 
+diagnostic precision and inform therapeutic strategies.2Systemic inflammation and lipid dysregulation are well-
+established contributors to CAD pathogenesis.3 Biomarkers 
+such as C-reactive protein (CRP) have been widely investigated 
+for their ability to reflect inflammatory activity linked to 
+atherosclerosis.4 In addition, novel composite indices — 
+e.g., the neutrophil-to-lymphocyte ratio (NLR), platelet-to-
+lymphocyte ratio (PLR), systemic immune-inflammation index 
+(SII), and atherogenic index of plasma (AIP) — have emerged 
+as potential indicators of cardiovascular risk.5-6 These markers, 
+derived from routine laboratory tests, offer a cost-effective, 
+accessible means of evaluating inflammation and lipid-related 
+cardiovascular risk in clinical practice.7
+Despite growing interest, the predictive value of these 
+inflammatory and atherogenic markers for identifying 
+the presence and severity of CAS remains under active 
+investigation.8 Moreover, the influence of demographic and 
+clinical variables — including sex-based differences — on 
+these biomarkers is not yet fully understood.9 Negative 
+findings in this area are particularly valuable, as they help 
+prevent premature clinical adoption of ineffective markers 
+
+Int J Cardiovasc Sci. 2026;39:e20250039 2
+Original ArticleCan et al.
+Inflammatory and Atherogenic Markers in CAD
+and redirect research efforts toward more promising 
+diagnostic tools.
+This retrospective observational study seeks to address 
+these knowledge gaps by evaluating the relationship between 
+inflammatory and atherogenic markers and CAS in patients 
+with suspected CAD undergoing coronary angiography. By 
+analyzing a range of biomarkers — including CRP , NLR, PLR, 
+SII, and AIP — and comparing their predictive value across 
+sexes, this study offers a comprehensive assessment of their 
+utility in detecting significant CAS. The findings aim to enhance 
+the clinical understanding and application of these biomarkers 
+in CAD risk stratification and decision-making.10
+Methods
+Study design
+This retrospective observational study was conducted 
+to evaluate the association between inflammatory and 
+atherogenic biomarkers and the presence of CAS. The study 
+was carried out at a tertiary care center between January 
+2022 and December 2023, including patients who underwent 
+coronary angiography for suspected CAD during this period.Study population
+All consecutive patients who underwent coronary angiography 
+for suspected CAD between January 2022 and December 2023 
+were screened for eligibility. Inclusion required the availability 
+of complete clinical, laboratory, and angiographic data. 
+Exclusion criteria were active infection; systemic inflammatory 
+or autoimmune disease; malignancy; acute coronary syndrome 
+(to avoid confounding elevations in inflammatory markers 
+due to myocardial injury); recent use (within 1 month) of anti-
+inflammatory or immunosuppressive drugs; history of organ 
+transplantation; or incomplete medical records.
+A total of 767 patients met the eligibility criteria and 
+were included in the final analysis. Demographic data, 
+comorbidities, and lifestyle factors — including smoking status 
+— were systematically collected. All data were extracted from 
+the hospital’s electronic health records and verified by trained 
+research personnel to ensure accuracy and reliability.
+Data collection and laboratory assessments
+Data collection encompassed three domains: i) demographic 
+and clinical characteristics; ii) laboratory biomarkers; and iii) 
+angiographic findings. Demographic variables included age, Inflammatory and Atherogenic Markers as Predictors of Coronary Artery Disease in Patients with Suspected Coronary Artery Disease 
+Undergoing Coronary Angiography. AUC: area under the curve; CAD: coronary artery disease; CAS: coronary artery stenosis; CRP: 
+C-reactive protein; NLR: neutrophil-to-lymphocite ratio; PLR: platelet-to-lymphocite ratio; OR: odds ratio.Central Illustration : Inflammatory and Atherogenic Markers as Predictors of Coronary Artery Disease in 
+Patients with Suspected Coronary Artery Disease Undergoing Coronary Angiography
+PLR
+129.4 vs. 118.6; p = 0.13
+C-Reactive Protein
+OR = 1.188; p = 0.044; AUC = 0.526NLR
+OR = 1.081; p = 0.048; AUC = 0.510Study population: 767 participants
+Mean age: 58.3 ± 12.4 years; 56.7% men; 496 patients with CAS
+CRP
+0.44 vs. 0.13 mg/dL;  
+p = 0.01Neutrophil-Lymphocyte Ratio
+2.6 vs. 2.0; p = 0.05
+History of CAD
+OR = 1.601; p = 0.037C-Reactive Protein
+OR = 1.193; p = 0.049Inflammatory biomarkers in CAS
+Biomarker levels (CAS vs. no significant CAS)
+Predictive performance
+Independent predictors of CAS (multivariable analysis)
+Cross-sectional study of inflammatory markers
+Int J Cardiovasc Sci. 2026;39:e20250039
+
+Int J Cardiovasc Sci. 2026;39:e20250039 3
+Original ArticleCan et al.
+Inflammatory and Atherogenic Markers in CAD
+sex, and smoking status. Clinical data comprised comorbidities 
+such as hypertension, diabetes mellitus, and a history of CAD.
+Blood samples were obtained prior to coronary angiography. 
+Complete blood counts were used to determine neutrophil, 
+lymphocyte, and platelet counts. Biochemical analyses 
+included serum levels of CRP , total cholesterol, high-density 
+lipoprotein cholesterol (HDL-C), low-density lipoprotein 
+cholesterol (LDL-C), and triglycerides.
+Derived inflammatory and lipid-related markers were 
+calculated as follows: i) NLR: absolute neutrophil count 
+divided by absolute lymphocyte count, reflecting systemic 
+inflammation; ii) PLR: platelet count divided by lymphocyte 
+count, indicating the balance between thrombosis and 
+inflammation; iii) systemic immune-inflammation index 
+(SII): (neutrophil count × platelet count) / lymphocyte count, 
+representing a comprehensive immune-inflammatory profile; 
+iv) AIP: log(triglycerides / HDL-C), serving as an indicator of 
+lipid-related cardiovascular risk.
+All laboratory analyses were performed by using 
+standardized protocols on automated analyzers in the 
+hospital’s central laboratory.
+Coronary angiography
+Coronary angiography was conducted using standard 
+fluoroscopic techniques via femoral or radial arterial access. 
+Procedures were performed by experienced interventional 
+cardiologists who were blinded to the patients’ clinical 
+and laboratory information. The degree of CAS was 
+visually assessed, with significant CAS defined as ≥ 50% 
+luminal narrowing in any major epicardial coronary artery. 
+Patients were then categorized into two groups: those with 
+significant CAS (≥ 50%) and those without (< 50%), enabling 
+comparative and regression analyses.
+Subgroup analysis
+A subgroup analysis was conducted in order to explore 
+potential sex-related differences in inflammatory and 
+atherogenic biomarkers. Men and women were compared 
+with respect to CRP , NLR, PLR, SII, and AIP values. This analysis 
+aimed to determine whether sex influenced the expression 
+of these biomarkers.
+Ethical considerations
+The study protocol was reviewed and approved by the 
+institutional ethics committee, in accordance with the ethical 
+standards outlined in the 2024 revision of the World Medical 
+Association Declaration of Helsinki. Due to the retrospective 
+design of the study, the requirement for informed consent 
+was waived. Patient confidentiality was safeguarded by 
+anonymizing all data prior to analysis, and access to sensitive 
+information was restricted to authorized study personnel.
+Quality control and reliability
+All measurements were conducted using calibrated 
+equipment under standardized operating conditions in order 
+to ensure the reliability and consistency of data. The hospital’s 
+electronic health records system was audited to minimize data extraction errors. Laboratory tests were repeated when initial 
+results fell outside expected ranges or showed discrepancies. 
+Readings were confirmed by 2 independent cardiologists 
+through consensus in order to reduce interobserver variability 
+in angiographic interpretation.
+Statistical analysis
+Descriptive statistics were used to summarize patient 
+characteristics. Continuous variables were expressed as mean 
+± standard deviation (SD) for normally distributed data or as 
+median and interquartile range for non-normally distributed data. 
+Categorical variables were reported as frequencies (percentages).
+Group comparisons (CAS vs. no CAS) were conducted using 
+chi-square test or Fisher’s exact test for categorical variables 
+abd independent samples t-test (for normally distributed 
+continuous variables) or Mann-Whitney U test (for non-
+normally distributed variables).
+Comparisons between men and women were also 
+performed using the independent samples t-test or the Mann-
+Whitney U test, depending on data distribution. Normality of 
+continuous variables was assessed using the Shapiro-Wilk test 
+and visual inspection of histograms.
+Univariable and multivariable logistic regression analyses 
+were conducted to identify associations between predictor 
+variables and CAS. Results were reported as odds ratios (ORs) 
+with 95% CIs. Variables with a p-value < 0.10 in univariable 
+analysis, along with clinically relevant covariates (i.e., age, 
+sex, CRP , NLR, LDL-C, hypertension, diabetes, and smoking 
+status), were included in the multivariable model.
+Receiver operating characteristic (ROC) curve analysis was 
+used to determine optimal cutoff values for CRP and NLR, 
+with area under the curve (AUC) used to assess predictive 
+performance. The Youden index (sensitivity + specificity 
+− 1) was applied to identify optimal thresholds. AUC 95% 
+confidence intervals were calculated using the DeLong 
+method, and p-values for AUC were obtained to evaluate 
+statistical significance.
+All statistical tests were 2-tailed, and p-values < 0.05 were 
+considered statistically significant. Analyses were performed 
+using IBM SPSS Statistics for Windows, version 25 (IBM Corp., 
+Armonk, N.Y., USA).
+Results
+A total of 767 patients undergoing coronary angiography 
+were included in the study. Baseline characteristics reflected 
+a representative cardiovascular risk profile. Among the cohort, 
+496 patients had significant CAS (≥ 50%), while 271 did not 
+(< 50%) ( Table  1). Notably, 21.4% had a prior diagnosis of 
+CAD, while 35.6% and 31.7% had hypertension and diabetes 
+mellitus, respectively — comorbidities known to influence 
+inflammatory marker levels. Most patients (96.2%) were 
+in sinus rhythm and had preserved left ventricular ejection 
+fraction (mean 59.4%), indicating overall s cardiac function.
+Comparative analysis between the CAS and nonCAS groups 
+revealed significant differences ( Table  1). Patients with ≥ 
+50% CAS had a markedly higher prevalence of established 
+CAD (71.3% vs. 27.8%), reinforcing the progressive nature of 
+
+Int J Cardiovasc Sci. 2026;39:e20250039 4
+Original ArticleCan et al.
+Inflammatory and Atherogenic Markers in CAD
+atherosclerotic disease. Among inflammatory markers, CRP 
+showed the most pronounced elevation in patients with CAS, 
+while NLR was also significantly higher, though to a lesser 
+extent. Other indices — PLR and SII — demonstrated limited 
+discriminatory value, suggesting that CRP and NLR may offer 
+more clinical utility for risk stratification.
+Regression analyses provided further insights ( Table  2). 
+While univariable analysis identified several potential 
+predictors of CAS, multivariable logistic regression confirmed 
+only prior levels of CAD and CRP as independent predictors.
+ROC curve analysis was used to determine diagnostic 
+thresholds ( Figure  1). A CRP cutoff > 0.205 mg/dL and NLR 
+> 2.1 showed statistically significant, albeit modest, predictive value. These thresholds may support clinical application while 
+acknowledging their limited standalone utility. AUC values 
+— 0.526 for CRP and 0.510 for NLR — indicate marginal 
+discriminative ability, which reinforces their role as adjunctive 
+tools rather than primary diagnostic tests.
+Sex-based subgroup analysis revealed important differences 
+in biomarker profiles ( Figure  2). Women had significantly higher 
+PLR values, which may reflect sex-related variations in platelet 
+biology. Conversely, men had higher AIP values, consistent 
+with known sex-specific patterns in lipid metabolism. These 
+findings highlight the relevance of incorporating sex-specific 
+considerations when interpreting cardiovascular biomarkers 
+in clinical practice.Table 1 –  Comparison of patient characteristics according to the presence of significant coronary artery stenosis on coronary angiography
+Patient characteristicsSample 
+(n = 767)No significant CAS 
+(< 50%) (n = 271)Significant CAS 
+(≥ 50%) (n = 496)p-value
+Sex (male) 435 (56.7%) 154 (56.8%) 281 (56.7%) 0.26
+Age (years) 58.3 ± 12.4 57.7 ± 12.4 58.7 ± 12.4 0.28
+BMI (kg/m2) 26.7 ± 5.6 26.3 ± 4.1 27.1 ± 5.3 0.32
+Previous CA D 164 (21.4%) 47 (17.3%) 117 (23.6%) 0.04
+Hypertension 273 (35.6%) 91 (33.6%) 182 (36.7%) 0.39
+Diabetes mellitus 243 (31.7%) 77 (31.7%) 166 (33.5%) 0.15
+Smoking (active) 345 (45.0%) 125 (46.1%) 220 (44.4%) 0.64
+Dyslipidemia 139 (18.1%) 49 (18.0%) 90 (18.1%) 0.21
+COPD 36 (4.7%) 14 (5.0%) 22 (4.4%) 0.67
+Sinus rhythm on ECG 738 (96.2%) 262 (96.4%) 476 (96.0%) 0.11
+LVEF (%) 59.4 ± 8.7 60.0 ± 6.9 59.3 ± 7.1 0.41
+WBC (103/μL) 7.3 ± 2.2 7.2 ± 2.0 7.4 ± 2.4 0.26
+Creatinine (mg/dL) 0.8 (0.6-1.2) 0.8 (0.5-1.1) 0.8 (0.6–1.3) 0.68
+Hemoglobin (g/dL) 13.5 ± 2.1 13.7 ± 3.1 13.4 ± 1.8 0.25
+Neutrophils (103/μL) 4.6 (3.7-5.8) 4.57 (3.6-5.6) 4.71 (3.9-6.0) 0.31
+Lymphocytes (103/μL) 2.1 (1.7-2.7) 2.0 (1.4-2.6) 2.1 (1.8-2.8) 0.52
+Platelets (103/μL) 252 (213-297) 244 (202-285) 255 (215-301) 0.84
+CRP (mg/dL ) 0.2 (0.2-0.5) 0.13 (0.09-0.42) 0.44 (0.21-0.82) 0.01
+LDL-C (mg/dL) 115.8 ± 35.5 116.4 ± 34.8 115.6 ± 36.0 0.84
+HDL-C (mg/dL) 44.0 ± 10.6 43.9 ± 10.9 44.0 ± 10.5 0.84
+Triglycerides (mg/dL) 142 (96-204) 144 (98-202) 142 (92-190) 0.65
+NLR 2.1 (1.6-3.0) 2.0 (1.5-2.8) 2.6 (1.8-3.6) 0.05
+PLR 120.2 (94.1-155.8) 118.6 (91.4-150.8) 129.4 (99.3-161.7) 0.13
+AIP 0.52 (0.31-0.70) 0.50 (0.29-0.68) 0.52 (0.32-0.72) 0.78
+SII 720.6 (395.1-793.1) 678.8 (372.5-745.7) 742.4 (414.1-815.4) 0.21
+AIP: atherogenic index of plasma; BMI: body mass index; CAD: coronary artery disease; CAS: coronary artery stenosis; COPD: 
+chronic obstructive pulmonary disease; CRP: C-reactive protein; ECG: electrocardiography; HDL-C: high density lipoprotein 
+cholesterol; LDL-C: low-density lipoprotein cholesterol; LVEF: left ventricular ejection fraction; NLR: neutrophil-to-lymphocyte ratio; 
+PLR: platelet-to-lymphocyte ratio; SII: systemic immune-inflammation index; WBC: white blood cell count. Data are presented as 
+mean ± standard deviation, median (interquartile range), or n (%), as appropriate.
+
+Int J Cardiovasc Sci. 2026;39:e20250039 5
+Original ArticleCan et al.
+Inflammatory and Atherogenic Markers in CAD
+Discussion
+This study investigated the predictive value of inflammatory 
+and atherogenic biomarkers for identifying CAS in patients 
+undergoing coronary angiography for suspected CAD. It also 
+examined sex-related differences in biomarker expression to 
+assess their potential relevance in risk stratification. The findings 
+indicate that CRP and NLR were modestly associated with the 
+presence of CAS, whereas other markers — including PLR, SII, 
+and AIP — did not exhibit significant predictive value (Central 
+Illustration).
+Our results are consistent with some prior studies, while 
+diverging from others, particularly regarding the diagnostic 
+performance of inflammatory biomarkers. Some investigations 
+have reported modest associations between CRP or NLR 
+and angiographically confirmed CAS, with minimal value 
+for PLR and related indices.11 In contrast, other studies have 
+found stronger associations, which may reflect differences in 
+study design, populations, and endpoint definitions.12 This 
+heterogeneity highlights the need for cautious interpretation 
+of biomarker data in clinical decision-making.
+Among the biomarkers assessed, CRP — a well-established 
+indicator of systemic inflammation — was significantly 
+increased in patients with CAS13 and remained independently 
+associated with CAS in multivariable analysis. Increased 
+levels of CRP reflect heightened vascular inflammation 
+and have been consistently linked to the pathogenesis of 
+atherosclerosis.4 However, Mendelian randomization studies, 
+such as those by Ridker et al.,4 suggest that CRP may act 
+more as a bystander than a causal factor in atherosclerosis. 
+In line with this, the diagnostic performance of CRP in our 
+cohort was poor, with an AUC of 0.526 — only marginally 
+above random chance.14,15 Despite statistical significance, 
+these findings demonstrate that CRP has limited clinical 
+utility as a standalone diagnostic tool for CAS, challenging the assumption that statistical associations necessarily confer 
+predictive value.16 
+NLR, a composite marker derived from routine blood counts, 
+showed a modest but statistically significant association with 
+CAS.4 Increased NLR reflects systemic inflammation and immune 
+dysregulation, indicating a shift toward a pro-inflammatory state 
+and diminished adaptive immunity.17 These findings contribute 
+to the growing body of evidence supporting NLR as a potential 
+marker of cardiovascular risk.5 However, the low AUC values 
+observed underscore its limited standalone predictive value. 
+Further studies are warranted to evaluate whether combining NLR 
+with other biomarkers can enhance its diagnostic performance.18
+A key observation of this study was the lack of significant 
+predictive value for other inflammatory and atherogenic 
+markers, including PLR, SII, and AIP . These negative findings are 
+clinically relevant, challenging the assumption that all accessible 
+inflammatory indices are useful for CAD risk stratification. While 
+PLR, for example, has been proposed as a marker of thrombotic 
+risk,19 our data do not support its utility in predicting CAS. Such 
+discrepancies may arise from variations in patient selection, disease 
+severity, or study methodology, which highlights the importance 
+of rigorous validation before clinical implementation.
+Interestingly, PLR, SII, and AIP — though previously suggested 
+as markers of cardiovascular risk — did not show significant 
+associations with CAS in this cohort.13,20 This may be due to 
+variability in these indices across populations or methodological 
+differences in study design.21 Moreover, the derived nature of 
+these markers, which depend on multiple interacting laboratory 
+parameters, may introduce noise that weakens their association 
+with specific clinical outcomes.22
+The study also underscored the importance of considering 
+sex-specific differences in biomarker expression. While levels 
+of CRP and NLR were comparable between sexes, women had 
+higher PLR and men had higher AIP .13 These differences may Table 2 –  Univariable and multivariable logistic regression analyses for predictors of significant coronary artery stenosis on angiography
+Patient 
+characteristicsUnivariable logistic regressi on Multivariable logistic regressio n
+OR 95% CI p-value OR 95% CI p-value
+Age (years) 1.007 0.995-1.019 0.28 0.999 0.985-1.014 0.93
+Sex (men) 1.007 0.747-1.358 0.96 0.963 0.704-1.315 0.81
+Previous CAD 1.471 1.010-2.144 0.028 1.601 1.073-2.128 0.037
+Hypertension 1.146 0.840-1.565 0.39 0.939 0.648-1.363 0.74
+Diabetes mellitus 1.267 0.917-1.751 0.15 1.197 0.827-1.733 0.34
+Smoking (active) 0.931 0.692-1.253 0.64 0.941 0.697-1.271 0.69
+CRP 1.188 0.995-1.419 0.044 1.193 1.002-1.385 0.049
+NLR 1.081 1.004-1.167 0.048 1.047 0.906-1.210 0.13
+PLR 1.023 1.012-1.034 0.037 1.001 0.998-1.004 0.06
+AIP 1.099 0.746-1.452 0.87 0.969 0.550-1.710 0.92
+SII 0.926 0.539-1.593 0.78 1.008 0.670-1.345 0.70
+AIP: atherogenic index of plasma; CAD: coronary artery disease; CRP: C-reactive protein; NLR: neutrophil-to-lymphocyte ratio;  
+OR: odds ratio; PLR: platelet-to-lymphocyte ratio; SII: systemic immune-inflammation index.
+
+Int J Cardiovasc Sci. 2026;39:e20250039 6
+Original ArticleCan et al.
+Inflammatory and Atherogenic Markers in CAD
+Figure 1 –  CPR: C-Reactive Protein; NLR: Neutrophil-lymphocyte ratio; AUC: Area uder the curve. Receiver operating characteristic 
+(ROC) curve analysis for levels of C-reactive protein (CRP) and neutrophil-lymphocite ratio (NLR) in predicting significant coronary 
+artery stenosis on angiography.
+ROC curveROC curveSensitivity
+1 - Specificity1.0
+1.00.8
+0.80.6
+0.60.2
+0.20.0
+0.0
+0.00.2
+0.20.4
+0.40.6
+0.60.8
+0.81.0
+1.00.00.4
+0.4
+1 - Specificity
+Diagonal segments represent tied observations.Diagonal segments represent tied observations.SensitivitySensitivity: 49%
+Specificity: 54%
+p-value: 0.05
+AUC: 0.526
+Sensitivity: 52%
+Specificity: 51%
+p-value: 0.048
+AUC: 0.510
+Sensitivity: 52%
+Specificity: 51%
+p-value: 0.048
+AUC: 0.510CRP cutoff: 0.205 mg/dL
+NLR cutoff: 2.1
+reflect underlying physiological variations — such as sex-specific 
+immune responses or lipid metabolism — and could influence 
+the interpretation and clinical utility of these markers.23 For 
+example, increased PLR in females may be linked to heightened 
+thrombogenic potential or immune activity, whereas increased 
+AIP in males could result from unfavorable lipid profiles.24 Further 
+research is needed to better understand these differences and 
+refine the sex-specific application of biomarkers in assessment of 
+cardiovascular risk.25
+Despite the contributions of this study to understanding 
+inflammatory and atherogenic markers in CAD, several limitations 
+should be acknowledged. First, its retrospective design introduces 
+potential selection bias and limits causal inference.26 Second, the 
+analysis did not account for confounders such as medication use, 
+diet, or lifestyle factors that may influence biomarker levels.27 
+Third, CAS was assessed by visual estimation during angiography 
+— a method subject to interobserver variability despite its common use.28 Lastly, the modest AUC values for CRP and NLR 
+reinforce the need for caution in interpreting these markers in 
+isolation. Combining them with advanced imaging or genetic 
+data may improve diagnostic accuracy.29
+Contrary to previous studies identifying age and male sex as 
+consistent predictors of CAS, our analysis did not find statistically 
+significant associations for these variables. This may be due to 
+the relatively small sample size, which could have limited the 
+statistical power to detect such effects. Additionally, the study 
+population’s characteristics — including a narrow age range 
+and potential selection bias toward patients with inflammatory 
+profiles — may have influenced the predictive performance of 
+traditional risk factors.
+The study’s retrospective design, single-center setting, 
+and limited sample size (767 patients) further constrain 
+generalizability. These factors may have reduced the ability to 
+detect subtle associations, particularly in subgroup analyses or 
+
+Int J Cardiovasc Sci. 2026;39:e20250039 7
+Original ArticleCan et al.
+Inflammatory and Atherogenic Markers in CAD
+Figure 2 – Comparison of inflammatory and atherogenic biomarkers between men and women. CRP: C-Reactive protein; NLR: Neutrophil-
+to-lymphocyte ratio; PLR: Platelet-to-lymphocyte ratio; AIP: Atherogenic index of plasma; SII: Systemic immune-inflammation index. 
+Boxplots illustrate sex-based distributions of C-reactive protein (CRP), neutrophil-to-lymphocyte ratio (NLR), platelet-to-lymphocyte 
+ratio (PLR), atherogenic index of plasma (AIP), and systemic immune-inflammation index (SII) levels. Statistically significant differences 
+were observed for PLR and AIP , with higher PLR in females (p < 0.001) and higher AIP in males (p < 0.001).
+Atherogenic index of plasmaPLR
+CRP (mg/dL)
+Neutrophil-to-lymphocyte ratio SII
+MenMenMen1.00
+.80
+.40
+.00
+250.00
+200.00
+150.00
+100.00
+300.00900.001200.001500.00
+600.00
+50.00
+.00 .00.001.003.004.005.00
+2.00
+.20.60.60
+MenMen
+Womenp<0.001p<0.001
+p: 0.11p= 0.20 p: 0.54
+.20
+.56
+.47.242.14 2.09
+597.90
+513.80128.17
+113.21
+WomenWomen
+WomenWomen
+Calculated as: (neutrophil count × platelet count) ÷ lymphocyte count
+Calculated as: log (triglycerides / HDL-C)
+Calculated as: log (triglycerides / HDL-C)SII
+Atherogenic Index of Plasma (AIP)
+for weaker predictors. Moreover, the study did not adjust for 
+important confounders such as statin use, anti-inflammatory 
+therapies, or comorbidities like chronic kidney disease, all of 
+which could alter biomarker levels. Visual assessment of CAS, 
+though widely used, lacks the precision of techniques such as 
+quantitative coronary angiography or intravascular imaging. 
+These limitations must be considered when interpreting the 
+findings and planning future research.
+Importantly, the study’s negative findings have meaningful 
+implications for both clinical practice and research. Negative 
+studies serve a critical role in refining our understanding of disease by identifying biomarkers that fail to deliver sufficient 
+predictive performance, despite theoretical promise. Our 
+results clearly show that although inflammatory and atherogenic 
+markers such as CRP and NLR are statistically associated with 
+CAS, their diagnostic performance is poor, with AUC values near 
+random chance. This highlights the need for rigorous clinical 
+validation before integrating biomarkers into routine decision-
+making. By documenting the limited utility of these widely 
+studied indices, this study helps prevent premature adoption 
+of ineffective diagnostic tools and encourages more efficient 
+use of clinical and research resources.
+
+Int J Cardiovasc Sci. 2026;39:e20250039 8
+Original ArticleCan et al.
+Inflammatory and Atherogenic Markers in CAD
+Conclusion
+This study identified significant associations between CAS 
+and both prior CAD and increased levels of CRP . However, the 
+poor predictive performance of CRP and other inflammatory 
+markers — NLR, PLR, SII, and AIP — with diagnostic accuracy 
+only marginally above chance, underscores their limited clinical 
+utility for assessing CAS. These findings suggest that future research 
+should move beyond these commonly studied markers and focus 
+instead on novel biomarkers or integrated, multimodal strategies 
+that combine clinical, biochemical, and imaging data. By clearly 
+demonstrating the limited value of these inflammatory indices, 
+this study contributes to refining the field, helping to redirect 
+efforts and resources toward more promising avenues for effective 
+risk stratification in CAD.
+Author Contributions
+Conception and design of the research: Can V , Polat F . 
+Acquisition of data: Polat F . Analysis and interpretation of the 
+data: Can V . Statistical analysis: Polat F . Obtaining financing: Can 
+V , Polat F . Writing of the manuscript: Can V . Critical revision of 
+the manuscript for intellectual content: Can V , Polat F .
+Potential Conflict of Interest
+No potential conflict of interest relevant to this article was 
+reported.Sources of Funding
+There were no external funding sources for this study.
+Study Association
+This study is not associated with any thesis or dissertation 
+work.
+Ethics Approval and Consent to Participate
+This study was approved by the Ethics Committee of the 
+Yeni Yüzyıl University under the protocol number 2023/04-
+1051. All the procedures in this study were in accordance with 
+the 1975 Helsinki Declaration, updated in 2013. Informed 
+consent was obtained from all participants included in the 
+study.
+Use of Artificial Intelligence
+The authors did not use any artificial intelligence tools in 
+the development of this work.
+Availability of Research Data
+All datasets supporting the results of this study are available 
+upon request from the corresponding author: Fuat Polat.
+1. Benjamin EJ, Muntner P , Alonso A, Bittencourt MS, Callaway CW, Carson 
+AP , et al. Heart Disease and Stroke Statistics-2019 Update: A Report from 
+the American Heart Association. Circulation. 2019;139(10):e56-e528. doi: 
+10.1161/CIR.0000000000000659. 
+2. GBD 2019 Diseases and Injuries Collaborators. Global Burden of 369 
+Diseases and Injuries in 204 Countries and Territories, 1990-2019: A 
+Systematic Analysis for the Global Burden of Disease Study 2019. Lancet. 
+2020;396(10258):1204-22. doi: 10.1016/S0140-6736(20)30925-9. 
+3. Libby P , Ridker PM, Hansson GK; Leducq Transatlantic Network on 
+Atherothrombosis. Inflammation in Atherosclerosis: From Pathophysiology 
+to Practice. J Am Coll Cardiol. 2009;54(23):2129-38. doi: 10.1016/j.
+jacc.2009.09.009. 
+4. Ridker PM. Clinical Application of C-Reactive Protein for Cardiovascular 
+Disease Detection and Prevention. Circulation. 2003;107(3):363-9. doi: 
+10.1161/01.cir.0000053730.47739.3c. 
+5. Faria SS, Fernandes PC Jr, Silva MJ, Lima VC, Fontes W, Freitas-Junior 
+R, et al. The Neutrophil-to-Lymphocyte Ratio: A Narrative Review. 
+Ecancermedicalscience. 2016;10:702. doi: 10.3332/ecancer.2016.702. 
+6. Reddy K, Khaliq A, Henning RJ. Recent Advances in the Diagnosis and 
+Treatment of Acute Myocardial Infarction. World J Cardiol. 2015;7(5):243-
+76. doi: 10.4330/wjc.v7.i5.243. 
+7. Zhou H, Zhang S, Sun X, Yang D, Zhuang X, Guo Y, et al. Lipid Management 
+for Coronary Heart Disease Patients: An Appraisal of Updated İnternational 
+Guidelines Applying Appraisal of Guidelines for Research and Evaluation 
+II-Clinical Practice Guideline Appraisal for Lipid Management in Coronary 
+Heart Disease. J Thorac Dis. 2019 Aug;11(8):3534-46. doi: 10.21037/
+jtd.2019.07.71.
+8. Puddu GM, Cravero E, Arnone G, Muscari A, Puddu P . Molecular Aspects 
+of Atherogenesis: New İnsights and Unsolved Questions. J Biomed Sci. 
+2005;12(6):839-53. doi: 10.1007/s11373-005-9024-z.9. Vaccarino V , Badimon L, Corti R, Wit C, Dorobantu M, Hall A, et al. Ischaemic 
+Heart Disease in Women: Are there Sex Differences in Pathophysiology and Risk 
+Factors? Position Paper from the Working Group on Coronary Pathophysiology 
+and Microcirculation of the European Society of Cardiology. Cardiovasc Res. 
+2011;90(1):9-17. doi:10.1093/cvr/cvq394.
+10. Pearson TA, Mensah GA, Alexander RW, Anderson JL, Cannon RO 3rd, Criqui 
+M, et al. Markers of Inflammation and Cardiovascular Disease: Application to 
+Clinical and Public Health Practice: A Statement for Healthcare Professionals 
+from the Centers for Disease Control and Prevention and the American 
+Heart Association. Circulation. 2003;107(3):499-511. doi: 10.1161/01.
+cir.0000052939.59093.45. 
+11. Tajani A, Sadeghi M, Omidkhoda N, Mohammadpour AH, Samadi S, 
+Jomehzadeh V . The Association between C-Reactive Protein and Coronary Artery 
+Calcification: A Systematic Review and Meta-Analysis. BMC Cardiovasc Disord. 
+2024;24(1):204. doi: 10.1186/s12872-024-03856-5. 
+12. Sukhija R, Fahdi I, Garza L, Fink L, Scott M, Aude W, et al. Inflammatory Markers, 
+Angiographic Severity of Coronary Artery Disease, and Patient Outcome. Am J 
+Cardiol. 2007;99(7):879-84. doi: 10.1016/j.amjcard.2006.11.032. 
+13. Libby P , Ridker PM, Hansson GK. Progress and Challenges in Translating the Biology 
+of Atherosclerosis. Nature. 2011;473(7347):317-25. doi: 10.1038/nature10146. 
+14. Wensley F , Gao P , Burgess S, Kaptoge S, Di Angelantonio E, Shah T, et al. 
+Association between C Reactive Protein and Coronary Heart Disease: 
+Mendelian Randomisation Analysis Based on Individual Participant Data. BMJ. 
+2011;342:d548. doi: 10.1136/bmj.d548. 
+15. Pearson TA, Mensah GA, Alexander RW, Anderson JL, Cannon RO 3rd, Criqui 
+M, et al. Markers of Inflammation and Cardiovascular Disease: Application to 
+Clinical and Public Health Practice: A Statement for Healthcare Professionals 
+from the Centers for Disease Control and Prevention and the American 
+Heart Association. Circulation. 2003;107(3):499-511. doi: 10.1161/01.
+cir.0000052939.59093.45. References
+
+Int J Cardiovasc Sci. 2026;39:e20250039 9
+Original ArticleCan et al.
+Inflammatory and Atherogenic Markers in CAD
+This is an open-access article distributed under the terms of the Creative Commons Attribution License
+16. Arbel Y, Finkelstein A, Halkin A, Birati EY, Revivo M, Zuzut M, et al. Neutrophil/
+Lymphocyte Ratio is Related to the Severity of Coronary Artery Disease and 
+Clinical Outcome in Patients Undergoing Angiography. Atherosclerosis. 
+2012;225(2):456-60. doi: 10.1016/j.atherosclerosis.2012.09.009. 
+17. Yüksel M, Yıldız A, Oylumlu M, Akyüz A, Aydın M, Kaya H, et al. The Association 
+between Platelet/Lymphocyte Ratio and Coronary Artery Disease Severity. 
+Anatol J Cardiol. 2015;15(8):640-7. doi: 10.5152/akd.2014.5565.
+18. Wu J, Yan L, Chai K. Systemic İmmune-İnflammation İndex is Associated 
+with Disease Activity in Patients with Ankylosing Spondylitis. J Clin Lab Anal. 
+2021;35(9):e23964. doi: 10.1002/jcla.23964.
+19. Danesh J, Wheeler JG, Hirschfield GM, Eda S, Eiriksdottir G, Rumley A, et 
+al. C-Reactive Protein and Other Circulating Markers of Inflammation in the 
+Prediction of Coronary Heart Disease. N Engl J Med. 2004;350(14):1387-97. 
+doi: 10.1056/NEJMoa032804. 
+20. Dobiásová M, Frohlich J. The Plasma Parameter Log (TG/HDL-C) as an 
+Atherogenic Index: Correlation with Lipoprotein Particle Size and Esterification 
+Rate in apoB-Lipoprotein-Depleted Plasma (FER(HDL)). Clin Biochem. 
+2001;34(7):583-8. doi: 10.1016/s0009-9120(01)00263-6. 
+21. Koutsogianni AD, Liamis G, Liberopoulos E, Adamidis PS, Florentin M. Effects 
+of Lipid-Modifying and Other Drugs on Lipoprotein(a) Levels-Potent Clinical 
+Implications. Pharmaceuticals. 2023;16(5):750. doi: 10.3390/ph16050750.
+22. Ko DT, Alter DA, Guo H, Koh M, Lau G, Austin PC, et al. High-Density 
+Lipoprotein Cholesterol and Cause-Specific Mortality in Individuals without 
+Previous Cardiovascular Conditions: The CANHEART Study. J Am Coll Cardiol. 
+2016;68(19):2073-83. doi: 10.1016/j.jacc.2016.08.038. 23. Corcoran D, Grant P , Berry C. Risk Stratification in Non-ST Elevation Acute 
+Coronary Syndromes: Risk Scores, Biomarkers and Clinical Judgment. Int 
+J Cardiol Heart Vasc. 2015;8:131-7. doi: 10.1016/j.ijcha.2015.06.009.
+24. Thygesen K, Alpert JS, Jaffe AS, Chaitman BR, Bax JJ, Morrow DA, et al. 
+Fourth Universal Definition of Myocardial Infarction (2018). Eur Heart J. 
+2019;40(3):237-69. doi: 10.1093/eurheartj/ehy462. 
+25. Sehayek D, Cole J, Björnson E, Wilkins JT, Mortensen MB, Dufresne L, et 
+al. ApoB, LDL-C, and non-HDL-C as Markers of Cardiovascular Risk. J Clin 
+Lipidol. 2025;19(4):844-59. doi: 10.1016/j.jacl.2025.05.024.
+26. Schneeweiss S, Avorn J. A Review of Uses of Health Care Utilization 
+Databases for Epidemiologic Research on Therapeutics. J Clin Epidemiol. 
+2005;58(4):323-37. doi: 10.1016/j.jclinepi.2004.10.012. 
+27. Choi EY, Park EH, Cheong YS, Rheem I, Park SG, Yoo S. Association of 
+C-Reactive Protein with the Metabolic Risk Factors among Young and 
+Middle-Aged Koreans. Metabolism. 2006;55(3):415-21. doi: 10.1016/j.
+metabol.2005.11.002.
+28. Mintz GS, Guagliumi G. Intravascular Imaging in Coronary Artery 
+Disease. Lancet. 2017;390(10096):793-809. doi: 10.1016/S0140-
+6736(17)31957-8. 
+29. Mehta LS, Beckie TM, DeVon HA, Grines CL, Krumholz HM, Johnson MN, 
+et al. Acute Myocardial Infarction in Women: A Scientific Statement from 
+the American Heart Association. Circulation. 2016;133(9):916-47. doi: 
+10.1161/CIR.0000000000000351.

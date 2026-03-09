@@ -1,0 +1,400 @@
+Int J Cardiovasc Sci. 2026;39:e20250124 1
+Original Article
+Endocarditis – A 27-Year Epidemiological Analysis of Mortality in Brazil
+Leticia da Costa Santana Silva,1
+ Luana Yasmim Fernández Avelaneda Castanheira,1
+ Maria Dalila Santos Salim,1
+ 
+Ruy Felipe Melo Viegas,1
+ Gilson Fernandes Ruivo,1
+ Sheila Cavalca Cortelli,1
+ Davi Romeiro Aquino,1
+ Taciana 
+Mara Rezende Fortes Viégas1
+Universidade de Taubaté,1 Taubaté, SP – Brazil
+Abstract
+Background:  Infective endocarditis (IE) is frequently caused by viridans streptococci. Short-term in-hospital mortality in 
+high-income settings ranges from 11% to 25%. In Brazil, rheumatic heart disease remains a leading valvular substrate; 
+however, its declining prevalence in developing nations has limited country-specific analyses. 
+Objective:  To describe the epidemiological profile of mortality from IE in Brazil, characterizing its magnitude and 
+temporal trend. 
+Methods:  We conducted a retrospective, exploratory epidemiological study with descriptive and analytic components 
+using data from the Mortality Information System of the Department of Informatics of Brazil’s Unified Health System. 
+Chi-square tests of independence were applied (p < 0.05), and results were summarized in tables and figures. Variables 
+included International Statistical Classification of Diseases and Related Health Problems, 10th Revision categories, year 
+of death, region, and sex. 
+Results:  From 1996 to 2022, 40,157 deaths associated with IE were recorded in Brazil (chi-square = 1,701.43). The 
+Southeast region accounted for the greatest burden, with 21,429 deaths (53.36%; chi-square = 15,236.00). By sex (chi-
+square = 999.32), men were more affected than women (55.57% [22,315] vs 44.41% [17,835]); in 0.02% of records, sex 
+was unspecified. 
+Conclusions:  IE remains a condition of national and international concern, with substantial mortality in Brazil over the 
+last 27 years. This overview of mortality patterns highlights regional disparities and sex differences and can inform 
+public-health strategies and evidence-based interventions.
+Keywords:  Endocarditis; Mortality; Epidemiology.
+Mailing Address: Leticia da Costa Santana Silva •
+Universidade de Taubaté - Avenida Tiradentes, 500. Postal Code 12030-180, 
+Bom Conselho, Taubaté, SP - Brazil
+E-mail: leticiadacostasantana@gmail.com
+Manuscript received July 23, 2025, revised manuscript August 25, 2025, 
+accepted September 08, 2025
+Editor responsible for the review: Gláucia Maria Moraes de Oliveira 
+DOI:  https://doi.org/10.36660/ijcs.20250124Introduction
+Infective endocarditis (IE) is most commonly caused by 
+viridans streptococci.1 Risk factors include valvular heart 
+disease, prosthetic valves, grafts or intracardiac devices, 
+congenital heart disease, and prior IE.2,3
+Mortality estimates vary due to differences in diagnostic 
+criteria. Over the past two decades, population-based studies 
+in high-income countries have reported 30-day (in-hospital) 
+mortality of 11%-25%.3 In the United States, morbidity and 
+mortality occur in 16%-30% of cases involving prosthetic-valve 
+and in 25%-35% of cases involving native valves treated in 
+hospital settings.4 Globally, up to 77% of IE cases are estimated 
+to occur in developing countries, although this figure may be 
+affected by reporting practices and access to care. In Brazil, rheumatic heart disease remains a predominant valvular 
+substrate; however, the disease’s declining prevalence in 
+developing nations has limited country-specific analyses.5
+Clinically, IE may present acutely, evolve subacutely (often 
+on pre-existing valvular lesions), or fo llow an indolent course 
+over weeks to months.6,7 Cardiac conditions that produce 
+turbulent flow (eg, mitral valve prolapse, hypertrophic 
+cardiomyopathy, and cyanotic congenital heart disease) 
+increase the risk of IE by promoting mechanical injury that 
+leads to subsequent valvular degeneration and calcification.8,9
+Because of its global and national significance, this study 
+outlines the epidemiological profile of IE mortality in Brazil 
+over the past 27 years. It characterizes the distribution of IE 
+and its associated risk factors in order to inform public policies 
+and guide future strategies.
+Method
+Study design and data source
+We conducted a retrospective, exploratory, epidemiological 
+study with descriptive and analytical components. We used 
+data from the Mortality Information System (SIM), which 
+is available through the Brazil’s Unified Health System’s 
+
+Int J Cardiovasc Sci. 2026;39:e20250124 2
+Original ArticleSilva et al.
+Endocarditis – Epidemiology in Brazil
+Central Illustration:  Endocarditis – A 27-Year Epidemiological Analysis of Mortality in Brazil
+Number of deaths2.500
+2.000
+1.500
+1.000
+500
+0
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+2019
+2020
+2021
+2022
+2023
+Number of deaths per yearYear
+Int J Cardiovasc Sci. 2026;39:e20250124
+Department of Informatics of (DATASUS). According to the 
+December 2024 system update, finalized data are available 
+through 2023. Records for endocarditis from 1996 to 2023 
+were retrieved via DATASUS/TabNet and exported to 
+Microsoft Excel for tabulation and calculations.
+Case definition
+Endocarditis deaths were identified using the International 
+Statistical Classification of Diseases and Related Health 
+Problems, 10th Revision (ICD-10) codes I33 (Acute 
+and subacute endocarditis) and I38 (Endocarditis, valve 
+unspecified). However, the SIM/DATASUS interface only 
+provides aggregated selections for these codes. Other 
+potentially relevant codes, such as I33.9 (Acute and subacute 
+endocarditis, unspecified) or B37.6 (Candidal endocarditis), 
+are not selectable independently and therefore could not 
+be included. ICD-10 code I39 (Endocarditis and heart valve 
+disorders in diseases classified elsewhere) was selected during 
+data retrieval; however, no records were available for any year 
+in the study period.
+Variables
+Analyzed variables included the ICD-10 category, year of 
+death, sex, and Brazilian macro-region.
+Exclusions
+The following variables were excluded: region/federal unit, 
+race/ethnicity, ICD-10 chapter, ICD-10 group, cause of death, ill-defined cause of death, federal unit, age group, education 
+level, place of occurrence, year/month of death, month of 
+death, age group as standardized by the Pan American Health 
+Organization, specific age group, age group under 1 year, 
+and civil status.
+Statistical analysis
+All analyses were performed in Python 3.11 using SciPy 
+1.11.9. Chi-square tests of independence were applied with 
+a two-sided significance threshold of p < 0.05.
+Ethics
+Data were collected on September 9, 2024. Since all 
+information was obtained from a public, de-identified 
+database, an institutional ethics review was not required. The 
+authors declare no conflicts of interest.
+Results
+Using SIM data from 1996 to 2023, chi-square tests of 
+independence showed significant differences across years 
+(p < 0.05). As detailed in Table 1 and Central Illustration, the 
+annual count peaked in 2023 at 2,279 deaths (5.68% of the 
+total) and was lowest in 1996 at 689 deaths (1.72%). Deaths 
+were classified by region and ICD-10 category — I33 and 
+I38. A total of 40,157 deaths were recorded (chi-square = 
+1,701.43), which represents a 230.77% increase over the 
+study period.Distribution of annual deaths from acute and subacute endocarditis and unspecified valve endocarditis in Brazil, 1996-2023. Statistical 
+test: chi-square test of independence (p < 0.05). Source: Mortality Information System.
+
+Int J Cardiovasc Sci. 2026;39:e20250124 3
+Original ArticleSilva et al.
+Endocarditis – Epidemiology in Brazil
+Based on SIM data from 1996 2023, chi-square tests of 
+independence showed statistically significant differences in 
+region and sex (p < 0.001). The Southeast region had the 
+highest number of deaths, with 21,429 deaths (53.36%; 
+chi-square = 15,236.00), followed by the Northeast (7,432; 
+18.51%), the South (6,771; 16.86%), the Central-West (2,939; 
+7.32%), and the North (1,586; 3.95%) (Table 2).
+By sex, males predominated (chi-square = 999.32; p < 
+0.001), comprising 22,315 deaths (55.57%), while females 
+accounted for 17,835 (44.41%) deaths. Sex was unspecified 
+in seven records (0.02%) (Table 3).Discussion
+This study reveals a consistent rise in deaths due to acute 
+and subacute endocarditis in Brazil between 1996 and 2023, 
+amounting to 40,157 fatalities. There were 698 deaths in 
+1996, rising to 2,279 in 2023 — a 230.77% increase. This 
+progressive increase may be due to population aging, the 
+increased use of implantable cardiac devices, and the spread 
+of resistant pathogens.10 Improvements in reporting and 
+diagnostic sensitivity, particularly with echocardiography, may 
+also contribute.11
+Although this dataset could not identify individual cases 
+of co-infection with COVID-19, the pandemic years (2020-
+2022) showed a statistically significant increase in IE mortality. 
+Causality cannot be established; however, the available 
+evidence suggests that the pandemic may have indirectly 
+influenced IE outcomes. International reports describe 
+uncommon cases of coinfection with both COVID-19 and IE, 
+predominantly in middle-aged men, with frequent aortic valve 
+involvement and complications such as pulmonary edema and 
+embolic events.12 Respiratory manifestations of COVID-19 can 
+mask or delay IE diagnosis, potentially worsening outcomes. 
+Additional factors, such as diagnostic delays, health system 
+strain, and secondary infections (particularly those caused by 
+Staphylococcus aureus ), may also have contributed.13 These 
+observations underscore the need for ongoing surveillance, 
+timely reporting, and high clinical suspicion for IE during 
+overlapping infectious outbreaks to mitigate adverse outcomes 
+in high-risk groups.Table 1 –  Annual deaths from acute and subacute endocarditis 
+and unspecified valve endocarditis in Brazil, 1996-2023
+Year of death Total deaths
+1996 689
+1997 745
+1998 789
+1999 942
+2000 906
+2001 1,008
+2002 1,023
+2003 1,060
+2004 1,049
+2005 1,116
+2006 1,320
+2007 1,395
+2008 1,372
+2009 1,342
+2010 1,527
+2011 1,648
+2012 1,676
+2013 1,662
+2014 1,757
+2015 1,752
+2016 1,837
+2017 1,818
+2018 1,823
+2019 1,891
+2020 1,722
+2021 1,875
+2022 2,134
+2023 2,279
+Total 40,157
+Statistical test: chi-square test of independence (p < 0.05). 
+Source: Mortality Information System.Table 3 –  Deaths from acute and subacute endocarditis and 
+unspecified valve endocarditis by sex, Brazil, 1996-2023
+Sex Total deaths
+Male 22,315*
+Female 17,835
+Unknown 7
+Total 40,157
+*Statistical test: chi-square test of independence (p < 0.001). 
+Source: Mortality Information System.Table 2 –  Deaths from acute and subacute endocarditis and 
+unspecified valve endocarditis by region, Brazil, 1996-2023
+Region of Brazil Total deaths
+North 1,586
+Northeast 7,432
+Southeast 21,429*
+South 6,771
+Central-West 2,939
+Total 40,157
+*Statistical test: chi-square test of independence (p < 0.001). 
+Source: Mortality Information System.
+
+Int J Cardiovasc Sci. 2026;39:e20250124 4
+Original ArticleSilva et al.
+Endocarditis – Epidemiology in Brazil
+Geographically, the Southeast accounted for the largest 
+proportion of deaths (53.36%; 21,429), followed by the 
+Northeast (18.51%; 7,432), the South (16.86%; 6,771), the 
+Central-West (7.32%; 2,939), and the North (3.95%; 1,586). 
+This concentration likely reflects population size and greater 
+diagnostic and reporting capacity. Brazil has 598,573 physicians, 
+182,852 of whom (30.5%) are in the Southeast.14 Of the 20,324 
+cardiologists nationwide, 10,770 practice in the Southeast 
+— more than half of the national total.15 Greater diagnostic 
+availability may therefore increase case ascertainment in the 
+region rather than indicating an intrinsically higher mortality risk.
+A male predominance was observed (55.57% vs. 44.41% 
+among females). While secondary databases are subject to 
+underreporting and coding variability, this pattern aligns with 
+international and regional data. Large cohorts have documented 
+higher IE incidence among men, suggesting biological and 
+behavioral contributors. For example, Østergaard et al. (2019) 
+reported a significantly higher incidence among high-risk men 
+in Denmark.16 Likewise, a Latin American systematic review 
+found a male predominance across clinical and microbiological 
+series with cross-country variability.17
+Proposed explanations include behavioral risk factors (eg, 
+higher prevalence of injection drug use, alcohol consumption, 
+and health care-associated exposures in men) as well as sex-
+related differences in immune and cardiovascular responses. 
+However, these differences should be interpreted cautiously, as 
+mortality proportions from administrative data may also reflect 
+biases in access to care and diagnosis.16
+According to Lima et al.,1 IE is a life-threatening condition 
+with a challenging diagnosis that demands precise investigative 
+approaches to optimize clinical outcomes and mitigate disease 
+burden.
+Conclusion
+This study demonstrates a substantial and progressive 
+increase in IE-related mortality in Brazil from 1996 to 2023, 
+with a total of 40,157 deaths — a 230.77% increase over the 
+study period. The Southeast region had the highest number of 
+deaths, which is consistent with its larger population and greater 
+concentration of health professionals, including cardiologists. 
+A male predominance (55.57%) was observed, suggesting 
+behavioral and biological contributors to risk.
+Chi-square tests of independence revealed significant 
+differences by year (p < 0.05), region, and sex (p < 0.001), 
+indicating a nonrandom distribution of deaths and supporting 
+the robustness of these findings. These results underscore the need for continued epidemiological surveillance and 
+improved case reporting, particularly in high-risk regions and 
+populations.
+Acknowledgments
+We are deeply grateful to our families for their unwavering 
+support, and to our advisors for their confidence in us, their 
+guidance, and their steadfast assistance.
+Author Contributions
+Conception and design of the research:  Silva LCS, Salim 
+MDS, Viegas RFM; Acquisition of data:  Silva LCS, Castanheira 
+LYFA, Salim MDS, Aquino DR; Analysis and interpretation 
+of the data:  Silva LCS, Castanheira LYFA, Salim MDS, Viegas 
+RFM, Aquino DR; Statistical analysis: Silva LCS; Writing of the 
+manuscript:  Silva LCS, Castanheira LYFA, Salim MDS; Critical 
+revision of the manuscript for content:  Silva LCS, Viegas RFM, 
+Ruivo GF , Cortelli SC, Aquino DR, Viégas TMRF .
+Potential conflict of interest 
+No potential conflict of interest relevant to this article was 
+reported. 
+Sources of funding 
+There were no external funding sources for this study. 
+Study association 
+This study is not associated with any thesis or dissertation 
+work.
+Ethics approval and consent to participate 
+This article does not contain any studies with human 
+participants or animals performed by any of the authors.
+Use of Artificial Intelligence
+The authors did not use any artificial intelligence tools in the 
+development of this work.
+Data Availability Statement
+The content is available at the link: http://tabnet.datasus.
+gov.br  and http://www2.datasus.gov.br
+1. Lima MAN, Ferreira AF , Santana YO, Amorim AMM, Macedo EM, Paula KB, 
+et al. Endocardite Infecciosa: Mecanismos, Diagnóstico e Tratamento. Braz J 
+Implantol Health Sci. 2024;6(1):1737-54. doi: 10.36557/2674-8169.2024v6
+n1p1737-1754.
+2. Carvalho LC, Teixeira FAO, Moraes PHA, Pereira AL, Nogueira THM, Borges 
+JML, et al. Endocardite Infecciosa: Uma Abordagem sobre a Variância 
+Microbiológica diante Diferentes Fatores. Braz J Health Rev. 2022;5(1):2867-
+74. doi: 10.34119/bjhrv5n1-254.3. Sousa C, Pinto FJ. Infective Endocarditis: Still More Challenges Than 
+Convictions. Arq Bras Cardiol. 2022;118(5):976-88. doi: 10.36660/
+abc.20200798. 
+4. Holland TL, Baddour LM, Bayer AS, Hoen B, Miro JM, Fowler VG Jr. 
+Infective Endocarditis. Nat Rev Dis Primers. 2016;2:16059. doi: 10.1038/
+nrdp.2016.59. 
+5. Hoen B, Duval X. Infective Endocarditis. N Engl J Med. 2013;369(8):785. 
+doi: 10.1056/NEJMc1307282. References
+
+Int J Cardiovasc Sci. 2026;39:e20250124 5
+Original ArticleSilva et al.
+Endocarditis – Epidemiology in Brazil
+6. Guzmán LM, Navarro MG. Current Concepts on Antibiotic Prophylaxis for 
+Bacterial Endocarditis in Dentistry. Rev ADM. 2009;56(1):32-8.
+7. Habib G, Hoen B, Tornos P , Thuny F , Prendergast B, Vilacosta I, et al. 
+Guidelines on the Prevention, Diagnosis, and Treatment of Infective 
+Endocarditis (New Version 2009): the Task Force on the Prevention, 
+Diagnosis, and Treatment of Infective Endocarditis of the European 
+Society of Cardiology (ESC). Endorsed by the European Society of Clinical 
+Microbiology and Infectious Diseases (ESCMID) and the International 
+Society of Chemotherapy (ISC) for Infection and Cancer. Eur Heart J. 
+2009;30(19):2369-413. doi: 10.1093/eurheartj/ehp285. 
+8. Mesquita CT,  Yahiro DS,  Silva NS, Ribeiro BFC, Sales J, Laranja MA, et al. 
+Infective endocarditis: A Narrative Review. Med Cien Arte. 2023;2(1):73-84.
+9. Brasil. Ministério da Saúde. Departamento de Informática do Sistema Único 
+de Saúde (DATASUS). Notificações de Mortalidade por Endocardite Aguda, 
+Subaguda e Endocardite Valvar Não Especificada – Sistema de Informações 
+sobre Mortalidade (SIM) – Brasil [Internet]. Brasília: Ministério da Saúde; 
+2025 [cited 2025 Nov 14]. Available from: http://tabnet.datasus.gov.br/cgi/
+tabcgi.exe?sim/cnv/obt10uf.def .
+10. Pant S, Patel NJ, Deshmukh A, Golwala H, Patel N, Badheka A, et al. Trends 
+in Infective Endocarditis Incidence, Microbiology, and Valve Replacement in 
+the United States from 2000 to 2011. J Am Coll Cardiol. 2015;65(19):2070-
+6. doi: 10.1016/j.jacc.2015.03.518. 11. Cahill TJ, Prendergast BD. Infective Endocarditis. Lancet. 
+2016;387(10021):882-93. doi: 10.1016/S0140-6736(15)00067-7. 
+12. George A, Venkataramanan SVA, John KJ, Mishra AK. Infective Endocarditis 
+and COVID -19 Coinfection: An Updated Review. Acta Biomed. 
+2022;93(1):e2022030. doi: 10.23750/abm.v93i1.10982.
+13. Alizadehasl A, Salehi P , Roudbari S, Peighambari MM. Infectious Endocarditis 
+of the Prosthetic Mitral Valve after COVID-19 Infection. Eur Heart J. 
+2020;41(48):4604. doi: 10.1093/eurheartj/ehaa852. 
+14. Conselho Federal de Medicina. Demografia médica no Brasil [Internet]. 
+Brasília: CFM; 2024 [cited 2025 Nov 14]. Available from: https://demografia.
+cfm.org.br/dashboard/ .
+15. Scheffer M, editor. Demografia Médica no Brasil 2023. São Paulo: FMUSP/
+AMB; 2023.
+16. Østergaard L, Valeur N, Ihlemann N, Bundgaard H, Gislason G, Torp-
+Pedersen C, et al. Incidence of Infective Endocarditis among Patients 
+Considered at High Risk. Eur Heart J. 2018;39(7):623-9. doi: 10.1093/
+eurheartj/ehx682.
+17. Urina-Jassir M, Jaimes-Reyes MA, Martinez-Vernaza S, Quiroga-Vergara 
+C, Urina-Triana M. Clinical, Microbiological, and Imaging Characteristics 
+of Infective Endocarditis in Latin America: A Systematic Review. Int J Infect 
+Dis. 2022;117:312-21. doi: 10.1016/j.ijid.2022.02.022.
+This is an open-access article distributed under the terms of the Creative Commons Attribution License
