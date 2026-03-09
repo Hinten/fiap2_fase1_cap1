@@ -1,0 +1,645 @@
+Int J Cardiovasc Sci. 2026;39:e20250058 1
+Original Article
+Evidence-Based Pharmacological Treatment for Heart Failure in Brazil
+Luísa Preiss Marques da Rocha,1,3
+ Kathleen Asturian,1
+ Isabel Machado Canabarro,2 Lidia Einsfeld,1,3
+ Diogo Pilger1
+Universidade Federal do Rio Grande do Sul (UFRGS),1 Porto Alegre, RS – Brazil
+Universidade Federal de Santa Catarina (UFSC),2 Florianópolis, SC – Brazil
+Hospital de Clínicas de Porto Alegre (HCPA),3 Porto Alegre – Brazil
+Abstract
+Background:  Heart failure (HF) affects an estimated 64 million individuals globally. Current guideline-directed 
+medical therapy (GDMT) comprises four cornerstone pharmacological medications proven to reduce hospitalization 
+and/or mortality: renin-angiotensin system inhibitors, beta-blockers, mineralocorticoid receptor antagonists (MRA), 
+and sodium-glucose cotransporter 2 inhibitors (SGLT2i).
+Objective:  This study aimed to describe, through an exploratory analysis, access to HF drug therapy in Primary Health 
+Care in Brazil, via the Brazilian Unified Health System (SUS). 
+Methods:  This was a descriptive, cross-sectional study based on data extracted from Municipal Lists of Essential 
+Medicines (REMUMEs) published on official municipalities’ websites from Brazilian metropolitan regions in June 
+2024.
+Results:  A total of 387 municipalities were included, of which only 50.9% had a REMUME publicly available. Among 
+these, 61.4% had been published within the previous 2 years. The frequency of each drug class was as follows: 
+angiotensin-converting enzyme inhibitors in 92.4% of municipalities, angiotensin II receptor blockers in 80.2%, 
+cardioselective beta-blockers in 91.9%, and MRAs in 85.8%. No REMUME simultaneously included all four GDMT 
+medications. In 22.3% of the metropolitan cities, only two or fewer drug classes were available to patients’ access.
+Conclusion:  The remarkable variability in the composition of REMUMEs, along with the frequent omission of at 
+least one of the four essential pharmacological pillars, indicates a potential suboptimal management of HF at the 
+population level. Given the importance of comprehensive pharmacological treatment in HF, these findings highlight 
+ongoing challenges in access to essential medicines within the SUS, even in metropolitan areas.
+Keywords:  Heart Failure; Drug Therapy; Access to Essential Medicines and Health Technologies; Health Services 
+Accessibility.
+Mailing Address: Lidia Einsfeld •
+Universidade Federal do Rio Grande do Sul (UFRGS), Postgraduate Program 
+in Pharmaceutical Services and Policies, Pharmacy Faculty. São Luís Street, 
+150, Annex I. Postal Code: 90620-170, Porto Alegre, RS – Brazil
+E-mail: l.einsfeld@gmail.com
+Manuscript received February 17, 2025; revised manuscript July 28, 2025; 
+accepted August 25, 2025.
+Editor responsible for the review: Ricardo Mourilhe-Rocha
+DOI:  https://doi.org/10.36660/ijcs.20250058HF management encompasses non-pharmacological 
+strategies such as lifestyle modification, physical activity, 
+and regular follow-up with healthcare teams, in addition 
+to pharmacotherapy. Pharmacological treatment plays 
+a fundamental role in improving clinical outcomes. 
+According to the Brazilian Heart Failure Guidelines (DBIC), 
+pharmacotherapy for HF , especially heart failure with 
+reduced ejection fraction (HFrEF), is based on four essential 
+pillars.7,8 The first pillar includes inhibitors of the renin-
+angiotensin system, selecting among neprilysin inhibitors 
+and angiotensin receptor blockers (ARNI), angiotensin-
+converting enzyme inhibitors (ACEI), or angiotensin 
+II receptor blockers (ARBs). The second and third are 
+cardioselective beta-blockers and mineralocorticoid 
+receptor antagonists (MRA). Lastly, sodium-glucose 
+cotransporter-2 inhibitors (SGLT2i), dapagliflozin or 
+empagliflozin, represent the fourth pillar.7,8
+In accordance with the Basic Component of Pharmaceutical 
+Services, each municipality is responsible for establishing its 
+own Municipal List of Essential Medicines (in Portuguese, 
+Relação Municipal de Medicamentos Especiais , or REMUME). 
+The list is based on the epidemiology profile of municipal Introduction 
+Heart failure (HF) affects over 64 million individuals 
+globally, with an estimated prevalence ranging from 1% to 
+3% of the world population.1,2 In Brazil, HF is the leading 
+cause of hospitalizations among people over 65 years of age, 
+resulting in costs of over 1.4 billion reais in hospitalizations 
+and 77,290 deaths between 2018 and 2021.3,4 Morbidity 
+and mortality rates due to HF in Brazil surpass those 
+observed in countries with higher per capita income, and 
+pharmacological treatment is recognized as one of the most 
+cost-effective interventions.5,6
+
+Int J Cardiovasc Sci. 2026;39:e20250058 2
+Original ArticleRocha et al.
+Evidence-Based Medications for Heart Failure in Brazil
+inhabitants, and it represents the main alternative for 
+accessing medications in outpatient settings, according to 
+the National Policy on Pharmaceutical Assistance of 2004.9,10 
+On the other hand, access is also possible through the 
+Brazilian Popular Pharmacy Program (PPP), a nationwide 
+federal program that offers access to basic medications 
+without any individual costs, in the same manner as 
+those provided by municipalities.11 Clinical guidelines of 
+the Brazilian Unified Health System (SUS), including the 
+Ministry of Health’s Clinical Protocols and Therapeutic 
+Guidelines (PCDTs), define recommended treatments for 
+various health conditions, including the most effective, 
+safe, and cost-effective medications. REMUMEs should 
+reflect these guidelines by listing the medications available 
+in each municipality. The absence of essential medicines 
+recommended by PCDTs in the REMUME for prevalent 
+diseases suggests inadequate implementation of guidelines in 
+practice, as the effectiveness of guidelines depends directly 
+on access to recommended drugs.
+Hence, this study aimed to describe the availability of 
+medications for HF treatment in REMUMEs of Primary Care 
+in Brazilian capitals and metropolitan municipalities. Methods
+This is a descriptive, cross-sectional, documental study 
+conducted between May and June of 2024. The sample 
+comprehended the 27 capitals of the federative units (26 
+states and the Federal District) and the municipalities of the 
+24 metropolitan regions of each capital, except for Rio Branco, 
+Acre; Campo Grande, Mato Grosso do Sul; and Brasília, Federal 
+District, which do not have a correspondent metropolitan 
+region, according to the Brazilian Institute of Geography and 
+Statistics (IBGE).12,13 
+The following data were collected from the online REMUMEs 
+available in the public domain: the website address, the year 
+of list publication, and the identification of HF medications 
+recommended by the DBIC.7 For data collection, a form was 
+created using Microsoft Forms Office®.
+To locate the online REMUMEs, three search strategies 
+were used on the Google digital platform: 1) “REMUME and 
+name of municipality ”; 2) “List of medicines and name of 
+municipality ”; or 3) “Basic list and name of municipality ”. 
+For municipalities where a REMUME was available, a double 
+check was carried out by two independent researchers. A 
+second search was performed for the REMUMEs not found Graphical representation of the availability of essential medications for heart failure pharmacological therapy in the municipal lists from 
+the federal capital, state capitals, and their respective metropolitan regions. HF: heart failure; SUS: Brazilian Unified Health System.Central Illustration : Evidence-Based Pharmacological Treatment for Heart Failure in Brazil
+HEART FAILURE 4 DRUG CLASSES HEART FAILURE 4 DRUG CLASSES 
+AVAILABLE VIA SUS IN BRAZILAVAILABLE VIA SUS IN BRAZIL
+6.6%  OF CITIES WITH 1 DRUG CLASS OF 
+QUADRUPLE HF THERAPY
+15.7%  CITIES WITH 2 DRUG CLASSES OF 
+QUADRUPLE HF THERAPY
+NO MUNICIPALITY  WITH ALL  
+4 HF DRUG CLASSES AVAILABLE TO ACCESS77.7%  CITIES WITH 3 DRUG CLASSES OF 
+QUADRUPLE HF THERAPY
+Int J Cardiovasc Sci. 2026;39:e20250058
+
+Int J Cardiovasc Sci. 2026;39:e20250058 3
+Original ArticleRocha et al.
+Evidence-Based Medications for Heart Failure in Brazil
+primarily. Municipalities without accessible REMUMEs were 
+excluded.
+In addition, the availability of medications via SUS, 
+from the PPP , and the national list of specialized drugs 
+(in Portuguese, Componente Especializado da Assistência 
+Farmacêutica , CEAF) were also assessed. 
+Descriptive statistics were applied using Microsoft Excel ® 
+software, and the municipalities were stratified into three 
+groups according to the number of inhabitants: small (fewer 
+than 25,000), medium (25,000 to 100,000), and large (more 
+than 100,000).14,15 
+Results
+A total of 387 municipalities (27 capitals and 360 
+metropolitan municipalities) were analyzed, with 197 
+(50.9%) presenting electronically accessible REMUMEs 
+(Table 1). Table 1 also details the availability proportion by 
+region: lowest in the Northeast (34.2%) and highest in the 
+South (78.8%). Most lists (61.4%; n = 121) were published 
+within the past 2 years; 38 (19.3%) between 2020 and 2022, 
+and 26 (13.2%) before 2020.Table 2 describes the medications available in the 
+REMUMEs. Lisinopril, perindopril, candesartan, and 
+telmisartan were not found in any list (data not shown).
+The overall analysis showed that no list included all 
+four pharmacological pillars simultaneously recommended 
+by the Brazilian guidelines. The first pillar was present in 
+93.4% of lists, limited to ACEI and/or ARB classes (although 
+sacubitril-valsartan is the evidence class IA alternative in 
+this pillar). The second and third pillars (cardioselective 
+beta-blockers and MRAs) were present in 91.9% and 
+85.8% of lists, respectively. The fourth pillar, more recently 
+included in HF pharmacological guidelines, comprising 
+SGLT2i (dapagliflozin and empagliflozin), was absent from all 
+analyzed lists. Coverage of the first three pillars was observed 
+in all municipalities only when considering medication 
+availability via CEAF and PPP; full four-pillar coverage was 
+not achieved in any scenario.
+Table 3 shows the distribution of HF drug access according 
+to the region of the country and the size of the municipalities. 
+The Central Illustration summarizes access to quadruple 
+therapy for HF across the country.
+Table 1 –  Regional distribution of municipalities and population, and the availability of REMUMEs in the public domain.
+Municipalities 
+included (n)Population 15 REMUME available 
+in the public domain
+n (%)Population with electronically 
+available REMUME / total 
+population of the region (%)
+Brazil 387 82,284,563 197 (50.9) 81.6
+North 47   7,176,867  23 (48.9) 62.2
+Northeast 117 19,005,260 40 (34.2) 72.6
+Central-West 36   7,403,501 15 (41.7) 81.4
+Southeast 102 39,762,901 52 (51.0) 86.0
+South 85   8,936,034  67 (78.8) 97.4
+REMUME: Municipal List of Essential Medicines.
+Table 2 – Frequency of selected medications for pharmacological treatment of heart failure by region.
+Brazil 
+(n=197)North 
+(n=23)Northeast 
+(n=40)Central-West 
+(n=15)Southeast 
+(n=52)South
+(n=67)
+n (%) n (%) n (%) n (%) n (%) n (%)
+ARNI* 0 0 0 0 0 0
+ACEI 182 (92.4) 23 (100.0) 39 (97.5) 14 (93.3) 52 (100.0) 54 (80.6)
+Enalapril** 176 (89.3) 23 (100.0) 37 (92.5) 14 (93.3) 51 (98.1) 51 (76.1)
+≥ 2 different  formulations 111 (56.3) 15 (65.2) 24 (60.0) 10 (66.7) 31 (59.6) 31 (46.3)
+Captopril** 140 (71.1) 20 (87.0) 24 (60.0) 12 (80.0) 46 (88.5) 38 (56.4)
+≥ 2 different  formulations 21 (10.7) 7 (30.4) 1 (2.5) 5 (33.3) 5 (9.6) 3 (4.5)
+Captopril and enalapril 134 (68.0) 20 (87.0) 22 (55.0) 12 (80.0) 45 (86.5) 35 (52.2)
+Ramipril 1 (0.5) 0 0 0 0 1 (1.5)
+
+Int J Cardiovasc Sci. 2026;39:e20250058 4
+Original ArticleRocha et al.
+Evidence-Based Medications for Heart Failure in Brazil
+ARB 158 (80.2) 22 (95.7) 38 (95.0) 11 (73.3) 46 (88.5) 41 (61.2)
+Losartan** 157 (79.7) 22 (95.7) 38 (95.0) 10 (66.7) 46 (88.5) 41 (61.2)
+≥ 2 different  formulations 13 (6.6) 2 (8.7) 2 (5.0) 0 8 (15.4) 1 (1.5)
+Valsartan 1 (0.5) 0 0 1 (6.7) 0 0
+Cardioselective beta-blockers 181 (91.9) 21 (91.3) 35 (87.5) 11 (73.3) 50 (96.2) 64 (95.5)
+Metoprolol succinate** 65 (33.0) 4 (17.4) 12 (30.0) 6 (40.0) 16 (30.8) 27 (40.3)
+≥ 2 different  formulations 29 (14.7) 2 (8.7) 9 (22.5) 5 (33.3) 5 (9,6) 8 (11.9)
+Metoprolol tartrate 29 (14.7) 2 (8.7) 2 (5.0) 1 (6.7) 3 (5.8) 21 (31.3)
+≥ 2 different  formulations 1 (0.5) 0 0 0 1 (1.9) 0
+Carvedilol 173 (87.8) 20 (87.0) 33 (82.5) 10 (66.7) 50 (96.2) 60 (89.6)
+≥ 2 different  formulations 147 (74.6) 15 (65.2) 27 (67.5) 10 (66.7) 48 (92.3) 47 (70.1)
+Bisoprolol 2 (1.0) 0 1 (2.5) 1 (6.7) 0 0
+Nebivolol 1 (0.5) 0 0 1 (6.7) 0 0
+MRA
+Spironolactone** 169 (85.8) 19 (82.6) 33 (82.5) 10 (66.7) 51 (98.1) 56 (83.6)
+≥ 2 different  formulations 54 (27.4) 7 (30.4) 10 (25.0) 7 (46.7) 21 (40.4) 9 (13.4)
+SGLT2i 0 0 0 0 0 0
+Dapagliflozin*** 0 0 0 0 0 0
+Loop diuretics
+Furosemide** 178 (90.4) 21 (91.3) 39 (97.5) 14 (93.3) 51 (98.1) 53 (79.1)
+Others 173 (87.8) 18 (78.3) 28 (70.0) 13 (86.7) 50 (96.2) 64 (95.5)
+Hydralazine 56 (28.4) 8 (34.8) 8 (20.0) 2 (13.3) 28 (53.8) 10 (14.9)
+≥ 2 different  formulations 11 (5.6) 1 (4.3) 4 (10.0) 1 (6.7) 3 (5.8) 2 (3.0)
+Isosorbide dinitrate 97 (49.2) 10 (43.5) 13 (32.5) 6 (40.0) 27 (51.9) 41 (61.2)
+≥ 2 different  formulations 14 (7.1) 1 (4.3) 3 (7.5) 0 5 (9.6) 5 (7.5)
+Hydralazine + isosorbide dinitrate 38 (19.3) 6 (26.1) 5 (12.5) 2 (13.3) 17 (32.7) 8 (11.9)
+Digoxin 171 (86.8) 17 (73.9) 28 (70.0) 13 (86.7) 49 (94.2) 64 (95.5)
+Ivabradine 0 0 0 0 0 0
+ACEI: angiotensin-converting enzyme inhibitors; ARB: angiotensin II receptor blockers; ARNI: neprilysin and angiotensin receptor inhibitors; 
+MRA: mineralocorticoid receptor antagonists; SGLT2i: sodium-glucose cotransporter 2 inhibitors. *Sacubitril/valsartan, available through 
+the Specialized Pharmaceutical Assistance Component (for patients with New York Heart Association class II and BNP > 150 (or NT-
+proBNP > 600), with a reduced ejection fraction of 35% or less, aged 75 or younger, and refractory to the best available treatment within 
+the Unified Health System). **Medications available through the Popular Pharmacy Program. ***Medication available through the Popular 
+Pharmacy Program (for patients over 65 years old, with a diagnosis of type 2 diabetes and cardiovascular disease) and through the 
+Specialized Pharmaceutical Assistance Component (ICD-10: non-insulin-dependent diabetes mellitus [E11.2 to E11.9], aged 65 or older, 
+with inadequate glycemic control despite optimized treatment, and established cardiovascular disease [previous acute myocardial infarction, 
+previous coronary artery bypass graft surgery, prior coronary angioplasty, stable or unstable angina, previous ischemic stroke, previous 
+transient ischemic attack, and heart failure with an ejection fraction below 40%]).
+Discussion
+This is the first nationwide study on the availability of 
+pharmacological therapy for HF treatment in Primary Health 
+Care Services through SUS in REMUMEs across the country. 
+The concept of an essential medicine is defined by the 
+World Health Organization as one of the highest importance, fundamental, and indispensable to the health needs of a 
+population, and it should be permanently available. The 
+decision to incorporate medications into a REMUME, when 
+guided by the Pharmacy and Therapeutics Committee, ensures 
+that the lists align with the population’s needs, the national 
+guidelines, and the resources available. This process follows 
+
+Int J Cardiovasc Sci. 2026;39:e20250058 5
+Original ArticleRocha et al.
+Evidence-Based Medications for Heart Failure in Brazil
+a rigorous methodology based on scientific evidence, safety, 
+efficacy, and cost-effectiveness of the treatment.9,16-18
+Without drug therapy, the natural course of HF leads to 
+a 35% mortality rate within 2 years in cases of HFrEF .2 The 
+benefit has been demonstrated in clinical trials; however, 
+medication use remains suboptimal, with a low percentage 
+of patients reaching target doses or using the recommended 
+drugs contemporaneously.2,19 This gap may negatively impact 
+patient outcomes, especially in regions with limited access to 
+alternative supply modalities.
+Many HFrEF treatment guidelines recommend concomitant 
+use of a fundamental quadruple therapy: a combination of 
+angiotensin receptor blocker/neprilysin inhibitor (or an ACEI, 
+or an ARB), cardioselective beta-blocker, MRA, and SGLT2i.2,8 
+This combined therapy can extend life expectancy by up to 6 years compared to conventional therapy (beta-blocker plus 
+ACEI or ARB).20 Although the newest pharmacological agents 
+(notably sacubitril-valsartan, dapagliflozin, and empagliflozin) 
+have been tested individually in randomized controlled 
+trials, Vaduganathan et al.20 estimated their additive value 
+when combined for HFrEF . Their study demonstrated that 
+the use of outcome-modifying drugs (sacubitril-valsartan, 
+beta-blockers, MRAs, and SGLT2i) has been shown to reduce 
+the risk of cardiovascular death, HF-related mortality, and 
+hospitalizations, thereby demonstrating their clinical efficacy. 
+The results of this study further emphasize the importance 
+of employing quadruple therapy, which incorporates 
+neurohormonal modulation beyond conventional treatment 
+and advances towards greater survival benefits when all four 
+pillars are utilized.Table 3 –  Four pillars for heart failure treatment by municipality size.
+Considering only REMUMEs
+n (%)
+1 pillar 2 pillars 3 pillars 4 pillars
+Brazil 13 (6.6) 31 (15.7) 153 (77.7) 0
+Small size 7 (3.6) 11 (5.6) 33 (16.8) -
+Medium size 3 (1.5) 14 (7.1) 42 (21.3) -
+Large size 3 (1.5) 6 (3.0) 78 (39.6) -
+North 1 (4.3) 4 (17.4) 18 (78.3) 0
+Small size 1 (4.3) 3 (13.0) 10 (43.5) -
+Medium size 0 1 (4.3) 1 (4.3) -
+Large size 0 0 7 (30.4) -
+Northeast 3 (7.5) 6 (15.0) 31 (77.5) 0
+Small size 3 (7.5) 3 (7.5) 0 -
+Medium size 0 1 (2.5) 13 (32.5) -
+Large size 0 2 (5.0) 18 (45.0) -
+Central-West 3 (20.0) 3 (20.0) 9 (60.0) 0
+Small size 2 (13.3) 3 (20.0) 3 (20.0) -
+Medium size 1 (6.7) 0 2 (13.3) -
+Large size 0 0 4 (26.7) -
+Southeast 0 3 (5.8) 49 (94.2) 0
+Small size 0 0 2 (3.8) -
+Medium size 0 2 (3.8) 13 (25.0) -
+Large size 0 1 (1.9) 34 (65.4) -
+South 6 (9.0) 15 (22.4) 46 (68.7) 0
+Small size 1 (1.5) 2 (3.0) 19 (28.4) -
+Medium size 2 (3.0) 10 (14.9) 13 (19.4) -
+Large size 3 (4.5) 3 (4.5) 15 (22.4) -
+REMUME: Municipal List of Essential Medicines. Small size: up to 25,000 inhabitants; medium size: from 25,000 to 100,000 
+inhabitants; large size: more than 100,000 inhabitants.14
+
+Int J Cardiovasc Sci. 2026;39:e20250058 6
+Original ArticleRocha et al.
+Evidence-Based Medications for Heart Failure in Brazil
+Agarwal et al.6 demonstrated that less than half of the 
+essential medicines lists of low- and middle-income countries 
+included all four pharmacological classes for the treatment 
+of HF .14 In this study, no REMUME simultaneously included 
+all four recommended treatment pillars. In 22.3% of the 
+lists, two or fewer therapeutic classes were identified. Most 
+municipalities had only three of these pillars, mostly in large 
+municipalities and mostly in the Southeast Region. In another 
+15.7% of municipalities, the municipal list included only 
+two of the essential treatment pillars, mostly in medium-
+sized municipalities. In 13 cases (6.6%), the municipal list 
+contained only one of these treatment pillars, mostly in small 
+municipalities, indicating remarkable significant differences 
+in medication availability and subsequent patient access 
+nationwide.
+The first of the four pillars refers to medications that act on 
+the renin-angiotensin system. The proven superior therapeutic 
+class in this first pillar is the co-crystal sacubitril-valsartan, 
+which was not identified in any list in our study. Access to this 
+medication through the SUS is exclusively through the CEAF 
+and according to specific selection criteria.21,22 This context 
+likely explains the result found. 
+If sacubitril-valsartan is not available (or if a patient is 
+intolerant to the drug), the other therapeutic alternatives 
+that comprise this first pillar of treatment (ACEI, ARB, and/
+or nitrate/hydralazine) were available in the basic health care 
+network in 93.4% of municipalities. Vasodilation is essential 
+for the management of patients with HF , as it reduces preload, 
+improves organ and tissue perfusion, and alleviates symptoms. 
+In cases where access was not available via primary care, its 
+availability was restricted to PPP and CEAF .22 Restricted access 
+implies delayed patient progression; only the insertion of 
+ACEI in HF therapy can reduce mortality rates by 25% within 
+2 years and hospitalizations by 21%.17 Our results show the 
+presence of ACEI in 92.4% (n = 182) of REMUMEs throughout 
+the study, and in all municipalities in the North and Southeast 
+Regions. Captopril and enalapril were even found in two or 
+more presentations on the municipal list, especially in the 
+Central-West Region, questioning the burden of purchasing 
+logistics and distribution of medications in the preparation 
+of REMUMEs.21 
+Losartan, an ARB used as an alternative to ACEI, was present 
+in 79.7% of municipalities. Notably, in 13 municipalities (6.6%) 
+of the study, no ACEI or ARBs were present. This condition 
+limits patient access to therapy with proven benefit in HF .21 
+The combination of hydralazine and isosorbide dinitrate, 
+an effective option for vasodilation in Black patients and/or 
+those who cannot tolerate the use of ARNI, ACEI, or ARBs, was 
+found in 38 municipalities (19.3%). In 27 of these (71.1%), the 
+isosorbide dinitrate formulation is the 5 mg tablet for sublingual 
+administration and is therefore incorporated into the REMUME 
+for the treatment of angina, rather than HF .7
+Beta-blockers were present in 99% of the lists. As a second 
+pillar of HF treatment, they contribute up to 41% of the 
+reduction in the relative risk of hospitalizations and a 16% 
+reduction in the mortality rate, even as a monotherapy, by 
+protecting myocardial remodeling and potentially recovering 
+ejection fraction.1 However, atenolol and propranolol were the beta-blockers most frequently found in the study, and they do 
+not represent a therapeutic choice for HF , despite their wide 
+availability in the SUS.23 The beta-blockers of choice are those 
+with central myocardial activity, and the cardioselective beta-
+blockers with proven action in HF are carvedilol, metoprolol 
+(succinate and tartrate), bisoprolol, and nebivolol.7 These 
+were found in 91.9% of the REMUMEs surveyed. Published 
+studies use metoprolol succinate for the treatment of HF , 
+but the use of tartrate emerges as an alternative due to its 
+widespread availability in the SUS, thus requiring adaptation 
+when introducing it into therapy.23 However, even with 
+the adaptation of dosage and pharmaceutical formulation, 
+approximately one tenth of municipalities still do not have 
+beta-blockers for the treatment of HF on their lists. This 
+finding highlights the limited accessibility of a cornerstone 
+pharmacological agent. Cardioselective beta-blockers are 
+crucial not only for HF management but also for other 
+cardiovascular diseases, including post-myocardial infarction 
+and ischemic events, with significant potential implications for 
+clinical outcomes in the Brazilian population.
+The use of MRAs (spironolactone, eplerenone) as a third 
+pillar is essential. In clinical studies, patients with HFrEF using 
+this drug class had their mortality reduced to 16% over 2 
+years. Spironolactone was found in only 85.8% (169) of lists 
+and was the only MRA presented in REMUMEs. Eplerenone 
+was not found, probably because of its recent registration at 
+the National Health Surveillance Agency (2022), and it has 
+not been incorporated into the SUS.24 
+Finally, SGLT2i (dapagliflozin and empagliflozin) constitute 
+the fourth pillar of treatment for patients with HF .17 They 
+represent the most recent benefit for patients with HF , with 
+a 31% reduction in the relative risk of hospitalizations and 
+a 10% reduction in the mortality rate. Their benefits have 
+already been proven in patients with HF , regardless of whether 
+they have diabetes mellitus type 2 (DM2). In Brazil, this 
+therapeutic option was only approved in the second half of 
+2024. Therefore, dapagliflozin and empagliflozin were not 
+found in the lists analyzed. At the time of this writing, the 
+PCDT for HF22 had not yet included SGLT2i as a therapeutic 
+alternative. Access to dapagliflozin via the SUS is exclusively 
+through the CEAF , according to the requirements established 
+by the PCDT for DM2, and not for HF .23 
+The HF protocol treatment by SUS22 has not yet included 
+SGLT2i as a therapeutic alternative. Its use represents the 
+most recent benefit for patients with HF , with a relative risk 
+reduction of 31% in hospitalizations and a decrease of 10% 
+in the mortality rate. Its benefits have already been proven 
+in patients with HF , regardless of DM2 status. In Brazil, this 
+therapeutic option was only approved in the second semester 
+of 2024.
+Although dapagliflozin is included in the PPP , even in this 
+alternative to access, this does not extend to all patients with 
+HF; it is available exclusively to patients with concomitant 
+cardiovascular disease and DM2 aged over 65 years, and 
+subject to copayment.25,26 According to the Chamber for 
+Regulation of the Medicine Market, the maximum consumer 
+price for dapagliflozin in Brazil ranges from 120 to 160 BRL 
+(2024 values),27 which imposes financial and social barriers 
+to access.
+
+Int J Cardiovasc Sci. 2026;39:e20250058 7
+Original ArticleRocha et al.
+Evidence-Based Medications for Heart Failure in Brazil
+In the present study, findings on furosemide are also crucial. 
+Although the loop diuretic is not part of quadruple therapy 
+in HFrEF , it is the cornerstone for congestion management, in 
+both inpatient and outpatient settings. Furosemide remains 
+essential to avoid admissions due to decompensation, the 
+leading cause of HF hospitalizations. It is the only loop diuretic 
+available within the Brazilian health system and was not found 
+in almost a tenth of the sample (9.64% of the cities). The 
+omission of furosemide from municipal lists restricts patient 
+access to the PPP or payment purchases. Given Brazil’s 
+vast territory and the voluntary registration of commercial 
+pharmacies in the program, the PPP is not always a feasible 
+option, especially for many patients in remote areas, due to 
+geographic and logistical constraints.
+It is important to emphasize that while quadruple therapy 
+has strong evidence supporting its use in HFrEF , other HF 
+phenotypes—such as heart failure with preserved ejection 
+fraction (HFpEF) or mildly reduced ejection fraction—have 
+distinct therapeutic recommendations (for example, dapagliflozin 
+for HFpEF). Nonetheless, pharmacological treatment across the 
+HF spectrum frequently involves agents included in quadruple 
+therapy, further underscoring the necessity of ensuring access to 
+these medications through the SUS.
+Study limitations
+The unavailability of REMUMEs on the official websites of 
+municipal governments or health departments constitutes a 
+limitation of this study. However, it also represents a significant 
+finding, reflecting the difficulty of accessing these lists even 
+by prescribing physicians. Federal Law No. 14,654 of 2023 
+mandates the online publication not only of medication lists 
+but also of the stock levels of medicines in pharmacies that 
+are part of SUS.28
+Furthermore, analyses were performed solely on official 
+medication lists, not on the actual physical stock available in 
+each municipality. Therefore, this research aimed to analyze 
+the selection of medications on these lists, rather than actual 
+patient access.
+Conclusion
+The municipal lists analyzed showed significant variability 
+among medications provided and revealed a complex and 
+challenging landscape to the availability of essential HF drugs 
+in Brazilian municipalities. The regional disparities highlight 
+deficiencies in the implementation of guaranteed access to 
+medications for the population, emphasizing that only three 
+pillars of HF pharmacological treatment were available when 
+considering the addition of CEAF and PPP .In light of the challenges encountered, it is crucial to 
+implement effective strategies to improve the availability 
+of these essential medicines: ensuring patients’ quality of 
+life, reducing readmissions and healthcare costs, and finally 
+reaching better HF outcomes in Brazil, ensure patients’ quality 
+of life, and reduce healthcare costs related to readmissions of 
+those affected by cardiovascular diseases.
+Author Contributions
+Conception and design of the research: Einsfeld L, Pilger 
+D. Acquisition of data: Rocha LPM, Asturian K, Canabarro I, 
+Einsfeld L, Pilger D. Analysis and interpretation of the data: 
+Rocha LPM, Einsfeld L, Pilger D. Statistical analysis: Rocha 
+LPM, Einsfeld L, Pilger D.Writing of the manuscript: Rocha 
+LPM. Critical revision of the manuscript for intellectual 
+content: Einsfeld L, Pilger D.
+Potential Conflict of Interest
+No potential conflict of interest relevant to this article was 
+reported.
+Sources of Funding
+There were no external funding sources for this study.
+Study Association
+This study is linked to the undergraduate thesis in Bachelor 
+of Pharmacy degree at the Federal University of Rio Grande do 
+Sul (UFRGS) and to the Drug Utilization Study Design course 
+from the Postgraduate Program in Pharmaceutical Services and 
+Policies at UFRGS.
+Ethics Approval and Consent to Participate
+This article does not contain any studies with human 
+participants or animals performed by any of the authors.
+Use of Artificial Intelligence
+The authors did not use any artificial intelligence tools in 
+the development of this work.
+Availability of Research Data
+All datasets supporting the results of this study are available 
+upon request from the corresponding author: Lidia Einsfeld.
+1. Bueno H, Moura B, Lancellotti P , Bauersachs J. The Year in Cardiovascular 
+Medicine 2020: Heart Failure and Cardiomyopathies. Eur Heart J. 
+2021;42(6):657-70. doi: 10.1093/eurheartj/ehaa1061.
+2. Bozkurt B, Ahmad T, Alexander KM, Baker WL, Bosak K, Breathett K, et 
+al. Heart Failure Epidemiology and Outcomes Statistics: A Report of the Heart Failure Society of America. J Card Fail. 2023;29(10):1412-51. doi: 
+10.1016/j.cardfail.2023.07.006. 
+3. Albuquerque DC, Souza JD Neto, Bacal F , Rohde LE, Bernardez-Pereira 
+S, Berwanger O, et al. I Brazilian Registry of Heart Failure - Clinical 
+Aspects, Care Quality and Hospitalization Outcomes. Arq Bras Cardiol. 
+2015;104(6):433-42. doi: 10.5935/abc.20150031.References
+
+Int J Cardiovasc Sci. 2026;39:e20250058 8
+Original ArticleRocha et al.
+Evidence-Based Medications for Heart Failure in Brazil
+4. Souza M, Nascimento L, Kozlowsky I, Farjun B, França K, Kuriyama S, et al. 
+Impacts of Heart Failure on the Brazilian Health and Pension System: What 
+is the Cost of the Disease? J Bras Econ Saúde. 2022;14(2):149-61. doi: 
+10.21115/JBES.v14.n2.p149-61.
+5. Cestari VRF , Garces TS, Sousa GJB, Maranhão TA, Souza JD Neto, Pereira 
+MLD, et al. Spatial Distribution of Mortality for Heart Failure in Brazil, 1996 - 
+2017. Arq Bras Cardiol. 2022;118(1):41-51. doi: 10.36660/abc.20201325. 
+6. Agarwal A, Husain MJ, Datta B, Kishore SP , Huffman MD. Access to Heart 
+Failure Medicines in Low- and Middle-Income Countries: An Analysis of 
+Essential Medicines Lists, Availability, Price, and Affordability. Circ Heart Fail. 
+2022;15(4):e008971. doi: 10.1161/CIRCHEARTFAILURE.121.008971.
+7. Rohde LEP , Montera MW, Bocchi EA, Clausell NO, Albuquerque DC, Rassi 
+S, et al. Diretriz Brasileira de Insuficiência Cardíaca Crônica e Aguda. Arq 
+Bras Cardiol. 2018;111(3):436-539. doi: 10.5935/abc.20180190. 
+8. Marcondes-Braga FG, Moura LAZ, Issa VS, Vieira JL, Rohde LE, Simões MV , 
+et al. Emerging Topics Update of the Brazilian Heart Failure Guideline - 2021. 
+Arq Bras Cardiol. 2021;116(6):1174-212. doi: 10.36660/abc.20210367. 
+9. Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e 
+Insumos Estratégicos em Saúde. Departamento de Assistência Farmacêutica 
+e Insumos Estratégicos. Relação Nacional de Medicamentos Essenciais: 
+Rename 2022 [Internet]. Brasília: Ministério da Saúde; 2022 [cited 
+2025 Nov 07]. Available from: https://www.conass.org.br/wp-content/
+uploads/2022/01/RENAME-2022.pdf .
+10. Brasil. Ministério da Saúde. Conselho Nacional de Saúde. Resolução nº 
+338, de 6 de maio de 2004. Aprova a Política Nacional de Assistência 
+Farmacêutica [Internet]. Brasília: Ministério da Saúde; 2004 [cited 2025 Nov 
+07]. Available from: https://bvsms.saude.gov.br/bvs/saudelegis/cns/2004/
+res0338_06_05_2004.html .
+11. Brasil. Ministério da Saúde. Fundação Oswaldo Cruz. Programa Farmácia 
+Popular do Brasil: Manual Básico. Brasília: Ministério da Saúde; 2005.
+12. Instituto Brasileiro de Geografia e Estatística. Recortes Metropolitanos e 
+Aglomerações Urbanas [Internet]. Rio de Janeiro: IBGE; 2023 [cited 2025 
+Nov 07]. Available from: https://www.ibge.gov.br/geociencias/organizacao-
+do-territorio/estrutura-territorial/18354-regioes-metropolitanas-
+aglomeracoes-urbanas-e-regioes-integradas-de-desenvolvimento.html .
+13. Instituto Brasileiro de Geografia e Estatística. Regiões Metropolitanas, Regiões 
+Integradas de Desenvolvimento e aglomerações Urbanas: Nota Técnica 
+01/2022 [Internet]. Rio de Janeiro: IBGE; 2022 [cited 2025 Nov 07]. Available 
+from: https://biblioteca.ibge.gov.br/visualizacao/livros/liv101958.pdf .
+14. Calvo MC, Lacerda JT, Colussi CF , Schneider IJ, Rocha TA. Municipalities 
+Stratification for Health Performance Evaluation. Epidemiol Serv Saude. 
+2016;25(4):767-76. doi: 10.5123/S1679-49742016000400010.
+15. Instituto Brasileiro de Geografia e Estatística. Censo Demográfico 2022 
+[Internet]. Rio de Janeiro: IBGE; 2024 [cited 2025 Nov 07]. Available from: 
+https://censo2022.ibge.gov.br/ .
+16. World Health Organization. The Selection and Use of Essential Medicines: 
+Report of the 12th WHO Expert Committee [Internet]. Geneva: World 
+Health Organization; 2002 [cited 2025 Nov 07]. Available from: https://
+apps.who.int/iris/handle/10665/42497 . 
+17. Organização Mundial da Saúde. Guia para a Elaboração de Listas de 
+Medicamentos Essenciais [Internet]. Genebra: Organização Mundial da 
+Saúde; 2002 [cited 2025 Nov 07]. Available from: https://www.who.int/
+publications/i/item/9241546067 .18. Jesus JMP , Santos EM, Barroso NP , Silva ML, Silva DR. The Importance 
+of the Implementation of the Pharmacy and Therapeutic Commission 
+in a Regional Hospital in the Alto-Sertão Paraibano. Res Soc Dev. 
+2022;11(4):e41811427494. doi:  10.33448/rsd-v11i4.27494 .
+19. Savarese G, Kishi T, Vardeny O, Eryd SA, Bodegård J, Lund LH, et al. 
+Heart Failure Drug Treatment-Inertia, Titration, and Discontinuation: A 
+Multinational Observational Study (EVOLUTION HF). JACC Heart Fail. 
+2023;11(1):1-14. doi: 10.1016/j.jchf.2022.08.009. 
+20. Vaduganathan M, Claggett BL, Jhund PS, Cunningham JW, Ferreira JP , 
+Zannad F , et al. Estimating Lifetime Benefits of Comprehensive Disease-
+Modifying Pharmacological Therapies in Patients with Heart Failure with 
+Reduced Ejection Fraction: A Comparative Analysis of Three Randomised 
+Controlled Trials. Lancet. 2020;396(10244):121-8. doi: 10.1016/S0140-
+6736(20)30748-0. 
+21. Conselho Nacional de Secretarias Municipais de Saúde. Guia de Orientação 
+Técnica aos Gestores Municipais de Saúde Quanto à Seleção e Aquisição 
+de Medicamentos para a Atenção Básica: Análise da Relação Municipal 
+de Medicamentos do Componente Básico da Assistência Farmacêutica e 
+Processos de Aquisição Praticados pelos Municípios Brasileiros em 2018: 
+Caderno 6 [Internet]. Brasília: Conselho Nacional de Secretarias Municipais 
+de Saúde; 2022 [cited 2025 Nov 07]. Available from: https://www.
+conasems.org.br/wp-content/uploads/2022/06/Caderno-6-Diagnostico-
+da-Assistencia-Farmaceutica.pdf .
+22. Brasil. Ministério da Saúde. Diretrizes Brasileiras para Diagnóstico e 
+Tratamento da Insuficiência Cardíaca com Fração de Ejeção Reduzida. 
+Brasília: Ministério da Saúde; 2020.
+23. Einsfeld L, Pilger D, Roman C. Evidence Based Treatment of Heart 
+Failure: Challenges of Drug Access. ABC Heart Fail Cardiomyop. 
+2023;3(3):e20230049. doi: 10.36660/abchf.20230049.
+24. Brasil. Agência Nacional de Vigilância Sanitária (ANVISA). Inspra® 
+(Eplerenona): Novo Registro [Internet]. Brasília: ANVISA; 2024 [cited 
+2025 Nov 07]. Available from: https://www.gov.br/anvisa/pt-br/assuntos/
+medicamentos/novos-medicamentos-e-indicacoes/inspra-r-eplerenona-
+novo-registro.
+25. Brasil. Ministério da Saúde. Secretaria de Ciência, Tecnologia, Inovação e 
+Insumos Estratégicos. Portaria SCTIE/MS nº 54, de 11 de novembro de 2020. 
+Aprova o Protocolo Clínico e Diretrizes Terapêuticas do Diabetes Mellitus tipo 
+2 [Internet]. Brasília: Ministério da Saúde; 2020 [cited 2025 Nov 07]. Available 
+from: https://www.gov.br/conitec/pt-br/midias/protocolos/20201113_pcdt_
+diabete_melito_tipo_2_29_10_2020_final.pdf .
+26. Brasil. Ministério da Saúde. Programa Farmácia Popular do Brasil. Lista de 
+medicamentos do Programa Farmácia Popular do Brasil [Internet]. Brasília: 
+Ministério da Saúde; 2023 [cited 2025 Nov 07]. Available from: https://
+www.gov.br/saude/pt-br/composicao/sectics/daf/farmacia-popular/codigos-
+de-barras/lista-de-medicamentos-pfpb .
+27. Brasil. Agência Nacional de Vigilância Sanitária. Câmara de Regulação do 
+Mercado de Medicamentos (CMED): Listas de Preços [Internet]. Brasília: 
+ANVISA; 2024 [cited 2025 Nov 07]. Available from: https://www.gov.br/
+anvisa/pt-br/assuntos/medicamentos/cmed/precos/capa-listas-de-precos .
+28. Brasil. Lei nº 14.654, de 23 de agosto de 2023. Acrescenta Dispositivo à Lei 
+nº 8.080, de 19 de setembro de 1990, para tornar Obrigatória a Divulgação 
+dos Estoques dos Medicamentos das Farmácias que Compõem o Sistema 
+Único de Saúde (SUS) [Internet]. Diário Oficial da União, 2023 Aug 24 
+[cited 2025 Nov 07]. Available from: https://www.in.gov.br/en/web/dou/-/
+lei-n-14.654-de-23-de-agosto-de-2023-506413147 .
+This is an open-access article distributed under the terms of the Creative Commons Attribution License

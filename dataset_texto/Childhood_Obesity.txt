@@ -1,0 +1,658 @@
+Int J Cardiovasc Sci. 2026; 39:e20240146 1
+Original Article
+Childhood Obesity and Systemic Arterial Hypertension in Children 
+and Adolescents: A Cross-Sectional Study
+Rafaella Farias da Franca Almeida,1
+ Lívia Menezes Escorel,1
+ Letícia Odete Guedes de Andrade Carvalho,1
+ 
+Camila Batista Gaudêncio,1
+ Lara Ataide Diniz,1 Marcela Leite,2 Marina Romero Costa,3 Alice Barbosa Maia,1 
+Berenice Lempek dos Santos,1
+ Michelle Barros de Aguiar,1 Patrícia Vidal de Negreiros Nóbrega,1
+ Eugênia 
+Moreira Fernandes Montenegro,1 Débora Alencar de Menezes Athayde,1 Jessica Laureano Martins4
+Centro Universitário de João Pessoa,1 João Pessoa, PB – Brazil 
+FAMENE,2 João Pessoa, PB – Brazil 
+Complexo Hospitalar Infantil Arlinda Marques,3 João Pessoa, PB – Brazil 
+Instituto Dante Pazzanese de Cardiologia,4 São Paulo, SP – Brazil 
+Abstract
+Background:  The increase in obesity cases and the lack of screening and diagnosis of childhood hypertension highlight 
+the need to examine these comorbidities in children.
+Objectives: To investigate the relationships between systemic arterial hypertension (SAH) and childhood obesity (CO) 
+in pediatrics and correlate the obesity level, abdominal circumference (AC), family history, and physical activity (PA) 
+variables.
+Methods:  This cross-sectional study assessed age, sex, height, weight, body mass index (BMI ), AC, family history, PA, 
+CO, and blood pressure (BP) percentiles. The Chi-square test, Fisher’s Exact test, and Spearman’s correlation were used 
+for data analysis, with a statistical significance level of 5%.
+Results:  After applying the inclusion and exclusion criteria, 30 patients aged between 3 and 18 years (incomplete) were 
+evaluated at three different moments. The results showed that 83.3% (n = 25) of the patients were obese and 16.70% 
+(n = 5) had severe obesity. Among them, 20% (n = 6) were diagnosed with SAH. Data showed an independence between 
+CO and SAH (p = 0.702) and between SAH and PA time (p = 0.748). No correlations were observed between SAH and AC 
+(p = 0.313). The history of SAH in first-degree relatives was significantly associated with the diagnosis of SAH (p = 0.004). 
+Conclusion:  This study showed no correlation between CO and SAH in the evaluated sample, supporting the need for 
+further research in the area.
+Keywords:  Hypertension; Pediatric Obesity; Pediatrics.
+Mailing Address: Rafaella Farias da Franca Almeida •
+Centro Universitário de João Pessoa. BR-230. Postal code: 58053-000. Água 
+Fria, João Pessoa, PB – Brazil  
+E-mail: rafinhafarias83@hotmail.com  
+Manuscript received August 7, 2024; revised manuscript January 20, 2025; 
+accepted March 26, 2025.            
+Editor responsible for the review: Fernando Wyss
+DOI:  https://doi.org/10.36660/ijcs.20240146 risk is increasing in the pediatric population, understanding 
+the cardiovascular risks faced by children is essential through 
+early detection and management of this condition.2 
+According to the Brazilian Society of Pediatrics (2019), 
+systemic arterial hypertension (SAH) in the pediatric age has 
+secondary causes. However, the primary causes (especially 
+associated with overweight)   have been increasing, and further 
+studies are still needed to detect and identify the evolution 
+of chronic diseases in adulthood originating from childhood.3
+Based on these considerations, the main objective of this 
+study was to investigate the relationship between SAH and CO 
+in pediatric patients from João Pessoa, Northeastern Brazil. 
+Among the secondary objectives, we evaluated whether other 
+variables (physical activity [PA], family history, and abdominal 
+circumference [AC])  influenced BP and investigated SAH in 
+different groups of obese children and adolescents according 
+to sex, age, height, and weight. The hypothesis adopted in 
+the research was that children with obesity would have a high 
+frequency of SAH, emphasizing the need for more regular BP 
+screening in these patients.Introduction
+Brazil was the fifth country with the highest number of 
+obese children and adolescents in 2019 and has a 2% chance 
+of reaching the target set by the World Health Organization 
+for reducing obesity rates by the year 2025.1 The pandemic 
+caused by the new coronavirus increased the prevalence of 
+childhood obesity (CO), highlighting the need to monitor its 
+potential correlated comorbidities.
+Among the pathologies possibly related to obesity, the risk 
+of elevated blood pressure (BP) can be highlighted. As this 
+
+Int J Cardiovasc Sci. 2026; 39:e20240146 2
+Original ArticleAlmeida et al.
+Obesity and arterial hypertension in pediatrics
+Methods
+This observational cross-sectional study involved a 
+non-probability sample of obese children and adolescents 
+(according to body mass index [BMI]/  age curves for both 
+sexes  )4-7 attending health services in João Pessoa (Paraíba, 
+Brazil). The sample size was determined by convenience. 
+After the initial contact, data were collected in offices or 
+via telemedicine and consisted of completing a pediatric 
+evaluation form that included anamnesis and a physical 
+examination.
+Inclusion criteria were the following: 
+a) Patients aged 3 to 18 years incomplete;
+b) Patients and guardians who voluntarily agreed to 
+participate;
+c) Children and adolescents with a BMI categorized as 
+obese according to the BMI/age curve;
+     1) Between 3 and 5 years: Z score ≥ +3;
+     2) Over 5 years: Z score ≥ +2.
+Exclusion criteria were the following:
+a) Known congenital cardiac malformation;
+b) Children undergoing treatment with drugs that could 
+raise BP (e.g., decongestants, caffeine, non-steroidal anti-
+inflammatory drugs, nutritional supplements, stimulants for 
+the management of attention deficit hyperactivity disorder, oral contraceptives, corticosteroids, tricyclic antidepressants, 
+amphetamines, and cocaine);
+d) Diagnosis of syndromes that elevate BP or lead to obesity.
+After excluding one outlier and the participants who did 
+not provide three measurements, 30 patients were analyzed. 
+The Central Illustration summarizes the methods, results, and 
+conclusions. The study was approved by the research ethics 
+committee of the Centro Universitário de João Pessoa (nº 
+70443723.8.0000.5176). All individuals responsible for the 
+patients were informed about the data collection procedures 
+and signed an informed consent form authorizing their 
+participation in the study. Additionally, participants were 
+informed about the study using an informed assent form, 
+which was completed playfully to help the children and 
+adolescents understand what would be evaluated. 
+The following variables were included in the study:
+a) Dependent: BP percentile;
+b) Independent: CO, AC, PA, family history, sex, age, 
+height, and weight.
+After providing instructions about the study and addressing 
+questions related to food intake (including coffee), PA, 
+discomfort, and the urge to urinate, BP was measured in three 
+different moments with the patient seated with uncrossed legs, 
+feet on the floor, and back against the chair. One stethoscope 
+(Littmann®, MN, USA) and one sphygmomanometer (Welch Central Illustration  : Summary figure, João Pessoa, Paraíba, 2023. Source: Elaborated by the author, 2023.Central Illustration : Childhood Obesity and Systemic Arterial Hypertension in Children and Adolescents: 
+A Cross-Sectional Study
+87 children and adolescents treated 
+in the public health network
+children and adolescents 
+treated in the public 
+health network
+- Female sex: higher prevalence of hypertension (66.7%)
+- Mean age of hypertensive children and adolescents: 8.78 years;
+- Positive family history associated with SAH in obese individuals (p = 0.004)
+Non-significant association: physical activity (p = 0.748);
+- Abdominal circumference (p = 0.131): childhood obesity (p = 0.702); obesity 
+level and blood pressure percentile for sex, height, and age in each of the 
+three measurements: no correlation (r1* = -0.138; r2* = 0.022; r3* = 0.103).
+*measurement number
+Absence of correlation between obesity and SAH in the sample evaluated
+Need for further studies in the areaindividuals eligible
+ to participate in 
+the studydid not complete  
+3 measurements
+final  
+sampleInclusion and exclusion criteria 
+• 1 outlier87 34
+MAIN
+RESULTS:
+CONCLUSION: 03
+30
+06
+hypertensive
+24
+non-hypertensive09
+high blood 
+pressure05
+severe obesity25
+obesity
+Int J Cardiovasc Sci. 2026; 39:e20240146
+
+Int J Cardiovasc Sci. 2026; 39:e20240146 3
+Original ArticleAlmeida et al.
+Obesity and arterial hypertension in pediatrics
+Allyn®, NY, USA) with cuff suitable for the arm circumference 
+(bag width at least 40% of the arm circumference, measured 
+using a measuring tape [Cardiomed®, PR, Brazil]) were used. 
+BP was measured on the right arm with the patient lying 
+supine and resting on the table; the cuff was positioned two 
+centimeters  above the cubital fossa, with its compressive 
+part over the brachial artery. Systolic BP was estimated by 
+palpating the radial pulse during cuff inflation until the pulse 
+disappeared. After one minute of systolic BP measurement, 
+the brachial artery was palpated, and the stethoscope bell 
+was placed. Then, the cuff was inflated to exceed 30 mmHg 
+above the systolic BP level and slowly deflated. The first and 
+last Korotkoff sounds were used to determine the systolic and 
+diastolic BP ,  respectively. BP values were assessed according 
+to the percentile table presented in the guidelines on SAH in 
+childhood and adolescence (2019) provided by the Brazilian 
+Society of Pediatrics.
+To reduce  the loss of follow-up after the initial measurement 
+conducted by a specialist, we instructed the individuals 
+responsible for the patients to return to the family health units 
+of their respective neighborhoods after data collection and 
+ask healthcare professionals to perform two measurements at 
+different times. This was  performed with the help of a booklet 
+created to outline all the steps and instructions for an accurate 
+measurement. After the measurements, those responsible 
+for the patients were contacted via mobile phone and asked 
+about the data collected and specific dates of measurement.
+For BMI, a weight scale (Welmy®, SP , Brazil) was used to 
+measure weight (in kilograms),  while a fixed wall stadiometer 
+(Tonelli®) measured height. These data were interpreted 
+using the World Health Organization growth curve. For AC 
+analysis, a measuring tape was placed at the midpoint between 
+the umbilical scar and the lower costal border of the last rib. 
+Right after, the percentiles were calculated based on the 
+values indicated for sex, age, and race;8 values above the 90th 
+percentile were considered altered.
+To organize the data, a pediatric care form was created 
+using the following parameters and printed on A4 paper 
+(Charmex®) to be completed during consultations: age, 
+weight, height, BMI, sex, BP , BP percentiles, AC, PA, and 
+family history of SAH.
+Statistical analysis 
+Data management was conducted after responses were 
+coded. Patient information and the corresponding variables 
+were added to the database and organized in the Statistical 
+Package for Social Sciences (SPSS®, IBM Corp, NY, USA), 
+where figures were created and descriptive (PA and age) 
+and inferential statistics (AC, family history, and SAH) were 
+performed.
+The Chi-square (X2) test analyzed the association between 
+AC and the onset of SAH in children and adolescents. The 
+same test associated the variables related to PA and family 
+history of SAH. 
+Fisher’s Exact test analyzed the association between CO 
+and SAH. Additionally, Spearman’s correlation test was used 
+to assess the correlation between BP percentiles and CO.   
+Significance was set at 5%.Results 
+A total of 87 participants were selected for the study. After 
+eligibility criteria, 54 participants were excluded due to age 
+(6), overweight (31), medication (14), endocrine-metabolic 
+syndromes (one with hyperthyroidism and another with 
+hypothyroidism; both used levothyroxine), and outlier (1). 
+Moreover, 3 participants were lost due to the absence of 3 
+measurements, resulting in a final sample of 30 children and 
+adolescents.
+Table 1 presents data related to age (in years) and PA (in 
+minutes per week). Frequency statistics were provided for 
+these variables, including the number of individuals analyzed, 
+mean, and standard deviation. 
+Table 2 demonstrates that the sample was composed 
+predominantly of females (n = 19), with 66.7% (n = 20) 
+presenting a negative history of SAH in first-degree relatives. 
+Also, 83.30% (n = 25) of individuals presented obesity at non-
+severe levels, while 16.70% (n = 5) presented severe obesity. 
+Among patients diagnosed with SAH, the mean age was 8.78 
+years; 66.7% (n = 4) were female. Additionally, 30% (n = 9) of 
+the sample had percentiles indicating high BP (Table 2).
+Figure 2   shows that 30% (n = 9) of BP levels in the first 
+measurement were compatible with SAH. Among these 
+participants, four were identified as stage I and five as stage 
+II. In the second measurement, patients with BP levels 
+compatible with SAH represented 30% (n = 9), with 26.7% 
+(n = 8) classified as stage I and 3.3% (n = 1) as stage II. In 
+the third measurement, 36.70% (n = 11) had percentiles 
+consistent with SAH, of which 26.70% (n = 8) were detected 
+at the 95th percentile and 10% (n = 3) at the 95th percentile 
++ 12 mmHg (Figure 1).  
+SAH was diagnosed at the end of the three measurements. 
+As shown in Figure 1, 20% (n = 6) of obese participants were 
+identified with SAH. 
+To evaluate the potential relationship between weekly PA 
+time and SAH, values representing the number of individuals 
+for each duration in minutes and the presence or absence 
+of SAH diagnosis were analyzed. Using the X², a significance 
+of p = 0.748 was obtained. Therefore, PA time and SAH 
+diagnosis  were not associated (Table 3). 
+To evaluate the associations between AC measurement 
+and SAH, the X² test was applied, yielding a significance 
+of p = 0.131. Therefore, AC and SAH were independent 
+variables in the sample (Table 4).
+Table 1 –  Descriptive statistics (frequency) of the variables age 
+and PA, João Pessoa, Paraíba, 2023
+VariablesTotal 
+(N) MeanStandard 
+deviation
+PA (min/week) 30 110.0 141.81
+Age (years) 30 10.38 3.09
+Source: Elaborated by the author, 2023. N: sample size; PA: 
+physical activity. 
+
+Int J Cardiovasc Sci. 2026; 39:e20240146 4
+Original ArticleAlmeida et al.
+Obesity and arterial hypertension in pediatrics
+Table 2 –  Descriptive statistics (frequency) of the variables sex, family history of SAH, CO, high BP , and sex and age among 
+those with SAH, João Pessoa, Paraíba, 2023
+Sex Frequency Percentage (%)  
+Female 19 63.3
+Male 11 36.7
+Total 30 100.0
+Family history of SAH Frequency Percentage (%)
+Positive 10 33.3
+Negative 20 66.7
+Total 30 100.0
+CO Frequency Percentage (%)
+Obesity 25 83.6
+Severe obesity 5 16.7
+Total 30 100.0
+Sex among individuals wit  h SAH Frequency Percentage (%)
+Female 4 66.7
+Male 2 33.3
+Total 6 100.0
+Age of individuals  with SAH  Hypertension Age
+Average 1.00 8.78
+Median 1.00 8.04
+High BP Frequency Percentage (%)
+Yes 9 30.0
+No 21 70.0
+Total 30 100.0
+Source: Elaborated by the author, 2023. CO: childhood obesity; BP: blood pressure; SAH: systemic arterial hypertension.
+Figure 1 –  Data from the first, second, and third BP measurements and descriptive statistics (frequency) of the SAH variable, João 
+Pessoa, Paraíba, 2023. Source: Elaborated by the author, 2023. N: sample size.
+Frequency (N) 
+90
+60
+3080
+50
+2070
+40
+10
+0Percentage (%) P50 (N) P90 (N) P95 (N) P95 (N)+12mmHg (N)
+Hypertensive Non-
+Hypertensive1st percentile 
+(N)1st percentile 
+(%)2nd percentile 
+(N)2nd percentile 
+(%)3rd percentile 
+(N)3rd percentile 
+(%)
+
+Int J Cardiovasc Sci. 2026; 39:e20240146 5
+Original ArticleAlmeida et al.
+Obesity and arterial hypertension in pediatrics
+Fisher’s Exact test analyzed the associations between 
+SAH and CO and yielded a p = 0.702 (Table 5) that 
+indicated non-significant relationships. Data regarding 
+family history and the diagnosis of SAH were also 
+described, and  the X² test revealed a statistically significant 
+association between these two variables (p = 0.004).
+Table 6 shows the CO classification according to the 
+BP percentile in the first measurement; no correlation 
+was observed. Spearman’s test also showed no correlation 
+between the level of CO and BP percentile in the second 
+measurement.  Regarding the third BP measurement 
+and CO classification, Spearman’s test indicated a non-
+significant correlation. 
+Discussion
+CO showed no significant correlation with SAH among 
+children and adolescents in the study. However, 6 with 
+SAH and 9 with increased BP were identified among the 
+30 individuals analyzed (Table 2), suggesting a possible 
+relationship between obesity and elevated BP . The synergy Table 3 -  Chi-square test for PA and SAH variables, João Pessoa, Paraíba, 2023
+PA (Crosstab) Hypertensive Non-hypertensive Total
+0 2 10 12
+30 0 1 1
+60 1 2 3
+90 1 0 1
+100 0 1 1
+120 1 3 4
+160 0 1 1
+180 1 1 2
+240 0 1 1
+300 0 1 1
+400 0 1 1
+480 0 2 2
+Total 6 24 30
+Chi-Square (X²) Value Asymptotic Significance (two-sided)
+Pearson's X² 7.604 0.748
+Number of valid cases 30 .
+Source: Elaborated by the author, 2023. PA: physical activityTable 3 -  Chi-square test for PA and SAH variables, João Pessoa, Paraíba, 2023
+PA (Crosstab) Hypertensive Non-hypertensive Total
+0 2 10 12
+30 0 1 1
+60 1 2 3
+90 1 0 1
+100 0 1 1
+120 1 3 4
+160 0 1 1
+180 1 1 2
+240 0 1 1
+300 0 1 1
+400 0 1 1
+480 0 2 2
+Total 6 24 30
+Chi-Square (X²) Value Asymptotic Significance (two-sided)
+Pearson's X² 7.604 0.748
+Number of valid cases 30 .
+Source: Elaborated by the author, 2023. PA: physical activity
+Table 4 –  Chi-square test between the AC and SAH variables, João Pessoa, Paraíba, 2023
+Chi-Square (X²) Value Asymptotic Significance (two-sided)
+Pearson's X² 2.283 0.131
+Number of valid cases 30 .
+Source: Elaborated by the author, 2023.
+between obesity and SAH is still unknown,9 although these 
+two conditions frequently coexist and are characterized 
+by excessive inflammation and eventual heart dysfunction 
+due to the formation of lesions and cardiac remodeling.10 
+Other variables were analyzed to investigate the possible 
+associations with the diagnosis of SAH. Regarding PA and 
+AC, no associations were found with SAH. On the other 
+hand, the variable family history (first-degree relatives) 
+of SAH presented a relationship similar to that described 
+in the literature review by Meouchy, demonstrating the 
+importance of genetic, epigenetic, and mitochondrial 
+factors in the synergistic interaction between SAH and 
+obesity.11 
+In addition to the study by Meouchy, our results align 
+with research that analyzed the incidence of SAH in 
+children and adolescents according to four variables: 
+biochemical profile, weight, cardiorespiratory fitness 
+(CRFA), and the FTO gene polymorphisms rs9939609. In 
+this study, even without an increase in BMI, AC, body fat 
+percentage, glycemia, dyslipidemia, and CRFA,   12.8% of 
+normotensive individuals developed borderline SAH, and 
+
+Int J Cardiovasc Sci. 2026; 39:e20240146 6
+Original ArticleAlmeida et al.
+Obesity and arterial hypertension in pediatrics
+Table 5 –  Fisher’s Exact test for CO and SAH, and Chi-square results for family history and SAH, João Pessoa, Paraíba, 2023
+CrossTab Results Variable Variable Total
+Hypertensive Non-hypertensive Total
+CO Obesity 5 20 25
+Severe obesity 1 4 5
+Total 6 24 30
+Chi-Square (X²) Sig. Exact (one-sided) . . .
+Fisher's Exact test 0.702 . . .
+Number of valid cases 30 . . .
+CrossTab Results Variable Variable Total
+Hypertensive Non-hypertensive Total
+Family history of SAH Positive 5 5 10
+Negative 1 19 20
+Total 6 24 30
+Chi-Square (X²) ValueAsymptotic Significance 
+(two-sided). .
+Pearson's X² 8.438 0.004 . .
+Number of valid cases 30 . . .
+Source: Elaborated by the author, 2023. N: sample size; CO: childhood obesity; SAH: systemic arterial hypertension.
+11.5% transitioned from normal values to SAH. Therefore, 
+overweight and obese patients faced greater chances 
+of evolving from normotensive to borderline SAH.12   A 
+similar result was observed in our study, in which nine 
+were non-hypertensive obese patients with high BP . In 
+cases of progression to SAH, no statistically significant 
+results were found in overweight children, only in obese 
+children and adolescents (OR: 4.84; 95% CI: 1.57 to 
+14.95; normotensive-hypertensive).
+In 2022, a study analyzed the prevalence of comorbidities 
+in CO and identified age, BMI, body composition, and 
+puberty stag  e as risk factors related to the onset of the 
+metabolic disorder. A total of 158 obese children, with a 
+mean age of 12.48 and a Z-score of +3.24, were included 
+in the study.13 The authors found an association between 
+higher percentage of fat and male children as a risk factor 
+for the comorbidities mentioned above. Compared with 
+our results, the sample size and mean age of the sample 
+were different, as indicated in Table 1, reinforcing the need 
+for a larger sample.
+In contrast, the case of a 7-year-old caucasian child with 
+history of sedentary lifestyle and poor eating habits since 
+the age of 3 was reported. The BMI of the patient was 
+31.4 kg/m², which was classified as higher than expected 
+for females in the respective age group and based on the 
+Z-score. An increase in BP levels above 95th percentile  
+was also noted, and the diagnosis of SAH was confirmed. 
+Therefore, SAH was reported together with severe 
+obesity.14 However, the results of this study indicated that 
+a sedentary lifestyle would not significantly contribute to 
+the onset of SAH.Notably, the associations observed were related to 
+the sample of this study. Factors that limited the results 
+and the small sample size included the exclusion criteria, 
+the need for three measurements at different times, 
+the short period of data collection, and the difficulty of 
+accessing  health services promptly to receive results. 
+Although obesity is prevalent among people with higher 
+socioeconomic statuses,15 the socioeconomic conditions 
+were not addressed in this research because the municipal 
+and state health units mainly serve individuals with lower 
+socioeconomic statuses.16 
+Furthermore, a meta-analysis study that estimated 
+the prevalence of CO in the various Brazilian regions 
+showed higher rates in the South and Southeast due to 
+better socioeconomic conditions and a greater number of 
+health research initiatives, whereas the present study was 
+conducted in the Northeast.17
+Other barriers must also be considered, such as the 
+inability of the study to control the quality of PA and the 
+fact that BMI does not reproduce the body composition 
+of individuals.
+Therefore, the current study may serve as a pilot project 
+for future researchers, who could incorporate additional 
+variables and collect data at different moments to achieve 
+a larger sample size and greater statistical significance and 
+reliability.
+Conclusions
+The study demonstrated no relationship between CO 
+and SAH for the evaluated sample. The methodology used 
+
+Int J Cardiovasc Sci. 2026; 39:e20240146 7
+Original ArticleAlmeida et al.
+Obesity and arterial hypertension in pediatrics
+Table 6 –  Data from Spearman’s correlation test for the BP percentiles and CO, João Pessoa, Paraíba, 2023
+Correlation test Variables ResultsBP percentile in the 
+first measurementCO
+SpearmanBP percentile in the 
+first measurementCorrelation coefficient 1.000 -0.138
+Sig. (two-sided) . 0.468
+N 30 30
+Spearman CO Correlation coefficient -0.138 1.000
+Sig. (two-sided) 0.468
+N 30 30
+Correlation test Variables ResultsBP percentile in the 
+second measurementCO
+SpearmanCOCorrelation coefficient 1.000 0.022
+Sig. (two-sided) - 0.908
+N 30 30
+SpearmanBP percentile in the 
+second measurementCorrelation coefficient 0.022 1.000
+Sig. (two-sided) 0.908 -
+N 30 30
+Correlation test Variables ResultsBP percentile in the 
+third measurementCO
+SpearmanCOCorrelation coefficient 1.000 0.103
+Sig. (two-sided) - 0.590
+N 30 30
+SpearmanBP percentile in the 
+third measurementCorrelation coefficient 0.103 1.000
+Sig. (two-sided) 0.590 -
+N 30 30
+Source: Elaborated by the author, 2023. N: sample number.  CO: childhood obesity; BP: blood pressure
+facilitated an accurate evaluation of the analyzed variables 
+and should serve as an example for future research 
+proposals. Regarding patients diagnosed with SAH, the 
+mean age was 8.78 years, with a prevalence of females. The 
+family history variable suggested a relationship with SAH, 
+indicating the need for further investigation in this area. 
+PA time and AC measurement emerged as independent 
+variables associated with SAH.  
+However, it is important to note that the results 
+obtained involved a specific sample that was analyzed 
+considering data regionalization and data collection times. 
+Therefore, further studies with a larger sample size and 
+extended outpatient follow-up are needed to confirm 
+and clarify the effects of CO on the diagnosis of SAH in children and adolescents, provide long-term prevention of 
+cardiovascular pathologies, and emphasize the need for 
+SAH screening in children.
+Acknowledgements
+We thank the professional physicians in pediatric 
+cardiology and endocrinology who assisted in this study 
+for all the guidance, dedication, patience, and constructive 
+feedback, which were essential for the development of the 
+project. We also thank our tutor for the exceptional guidance 
+and support throughout the organization of this work. 
+Additionally, we thank the health service professionals of 
+João Pessoa for their valuable contributions to data collection. 
+
+Int J Cardiovasc Sci. 2026; 39:e20240146 8
+Original ArticleAlmeida et al.
+Obesity and arterial hypertension in pediatrics
+Finally, we extend our gratitude to the family and 
+friends who supported us during the development of this 
+research. The unconditional support, encouragement, 
+and understanding were essential during the development 
+of this article. Thank you for being a constant source of 
+motivation and support.
+Author Contributions 
+Conception and design of the research: Almeida RFF , 
+Escorel LM, Carvalho LOGA, Nóbrega PVN, Athayde 
+DAM, Martins JL; acquisition of data: Almeida RFF , 
+Escorel LM, Carvalho LOGA, Gaudêncio CB, Diniz LA, 
+Leite M, Costa MR, Maia AB, Montenegro EMF; analysis 
+and interpretation of the data: Almeida RFF , Escorel LM, 
+Carvalho LOGA, Gaudêncio CB, Diniz LA, Santos BL, 
+Nóbrega PVN; statistical analysis: Almeida RFF , Escorel 
+LM, Carvalho LOGA, Santos BL, Aguiar MB, Nóbrega 
+PVN; writing of the manuscript: Almeida RFF , Escorel LM, 
+Carvalho LOGA, Gaudêncio CB, Diniz LA; critical revision 
+of the manuscript for intellectual content: Almeida RFF , 
+Escorel LM, Carvalho LOGA, Gaudêncio CB, Diniz LA, 
+Santos BL, Nóbrega PVN, Athayde DAM, Martins JL.
+Potential Conflict of Interest 
+No potential conflict of interest relevant to this article 
+was reported. Sources of Funding 
+There were no external funding sources for this study. 
+Study Association 
+This article is part of the thesis of undergraduate final 
+paper submitted by Rafaella Farias da Franca Almeida, 
+Lívia Menezes Escorel, Letícia Odete Guedes de Andrade 
+Carvalho, Lara de Ataíde Diniz and Camila Batista 
+Gaudêncio, from Centro Universitário de João Pessoa 
+(UNIPE). 
+Ethics Approval and Consent to Participate 
+This study was approved by the Ethics Committee of the 
+Universitário de João Pessoa (UNIPE) under the protocol 
+number 70443723.8.0000.5176. All the procedures in 
+this study were in accordance with the 1975 Helsinki 
+Declaration, updated in 2013. Informed consent was 
+obtained from all participants included in the study. 
+Use of Artificial Intelligence 
+The authors did not use any artificial intelligence tools 
+in the development of this work. 
+Availability of Research Data 
+The underlying content of the research text is contained 
+within the manuscript.
+1.   Atlas of Childhood Obesity. World Health Organization [Internet]. 
+London; Wolrd Obesity; 2019 [cited 2025 Jun 27]. Available from: 
+https://www.worldobesity.org/membersarea/global-atlas-on-childhood-
+obesity .
+2.   High Blood Pressure. National Heart, Lung And Blood Institute. Bethesda: 
+National Institutes of Health; 2022 [cited 2025 Jun 27]. Available from: 
+https://www.nhlbi.nih.gov/health/high-blood- pressure/causes . 
+3.   Sociedade Brasileira de Pediatria. Manual de Orientação do 
+Departamento Científico de Nefrologia sobre Hipertensão Arterial na 
+Infância e Adolescência [Internet]. São Paulo: Sociedade Brasileira de 
+Pediatria; 2019 [cited 2025 Jun 27]. Available from:  https://www.sbp.
+com.br/fileadmin/user_upload/21635c-MO_  _Hipertensao_Arterial_
+Infanc_e_Adolesc.pdf.
+4.    Sociedade Brasileira de Pediatria. OMS: IMC (meninos), 0-5 anos, em Z 
+score. São Paulo: Sociedade Brasileira de Pediatria; 2007.
+5.   Sociedade Brasileira de Pediatria. OMS: IMC (meninas), 0-5 anos, em Z 
+score. São Paulo: Sociedade Brasileira de Pediatria; 2007.
+6.   Sociedade Brasileira de Pediatria. OMS: IMC (meninos), 5-19 anos, em 
+Z score. São Paulo: Sociedade Brasileira de Pediatria; 2007.
+7.   Sociedade Brasileira de Pediatria. OMS: IMC (meninas), 5-19 anos, em 
+Z score. São Paulo: Sociedade Brasileira de Pediatria; 2007.
+8.  Sociedade Brasileira de Pediatria. Manual de Orientação Obesidade na 
+Infância e Adolescência [Internet]. São Paulo: Sociedade Brasileira de 
+Pediatria; 2019 [cited 2025 Jun 27]. Available from: https://www.sbp.
+com.br/imprensa/detalhe/nid/manual-de-orientacao-sobre-obesidade-
+na-infancia-e-adolescencia-esta-disponivel-para-os-associados-da-sbp .9.   Chrysant SG. Pathophysiology and Treatment of Obesity-Related 
+Hypertension. J Clin Hypertens. 2019;21(5):555-559. doi: 10.1111/
+jch.13518. 
+10.  Mouton AJ, Li X, Hall ME, Hall JE. Obesity, Hypertension, and Cardiac 
+Dysfunction: Novel Roles of Immunometabolism in Macrophage Activation 
+and Inflammation. Circ Res. 2020;126(6):789-806. doi: 10.1161/
+CIRCRESAHA.119.312321. 
+11.  El Meouchy P , Wahoud M, Allam S, Chedid R, Karam W, Karam S. 
+Hypertension Related to Obesity: Pathogenesis, Characteristics and 
+Factors for Control. Int J Mol Sci. 2022;23(20):12305. doi: 10.3390/
+ijms232012305. 
+12.  Welser L, Pfeiffer KA, Silveira JFC, Valim ARM, Renner JDP , Reuter 
+CP . Incidence of Arterial Hypertension is Associated with Adiposity in 
+Children and Adolescents. Arq Bras Cardiol. 2023;120(2):e20220070. 
+doi: 10.36660/abc.20220070.
+13.  López-Galisteo JP , Gavela-Pérez T, Mejorado-Molano FJ, Pérez-
+Segura P , Aragón-Gómez I, Garcés C, et al. Prevalence and Risk 
+Factors Associated with Different Comorbidities in Obese Children 
+and Adolescents. Endocrinol Diabetes Nutr. 2022;69(8):566-75. doi: 
+10.1016/j.endien.2021.10.012.
+14.  Pereira LNG. Multifactorial Aspects of Systemic Arterial Hypertension in 
+Childhood. Rev Bras Hipertens. 2022; 29(1):14-8.
+15.   Rocha SGMO, Rocha HAL, Leite ÁJM, Machado MMT, Lindsay AC, 
+Campos JS,  et al. Environmental, Socioeconomic, Maternal, and 
+Breastfeeding Factors Associated with Childhood Overweight and Obesity 
+in Ceará, Brazil: A Population-Based Study. Int J Environ Res Public Health. 
+2020;17(5):1557. doi: 10.3390/ijerph17051557. References
+
+Int J Cardiovasc Sci. 2026; 39:e20240146 9
+Original ArticleAlmeida et al.
+Obesity and arterial hypertension in pediatrics
+This is an open-access article distributed under the terms of the Creative Commons Attribution License
+16.   Monteiro CN, Beenackers MA, Goldbaum M, Barros MBA, Gianini RJ, 
+Cesar CLG, et al. Use, Access, and Equity in Health Care Services in 
+São Paulo, Brazil. Cad Saude Publica. 2017;33(4):e00078015. doi: 
+10.1590/0102-311X00078015. 17.    Ferreira CM, Reis NDD, Castro AO, Höfelmann DA, Kodaira K, Silva 
+MT, et al. Prevalence of Childhood Obesity in Brazil: Systematic 
+Review and Meta-Analysis. J Pediatr. 2021;97(5):490-9. doi: 10.1016/j.
+jped.2020.12.003.

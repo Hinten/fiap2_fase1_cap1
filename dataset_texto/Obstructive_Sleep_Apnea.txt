@@ -1,0 +1,484 @@
+Int J Cardiovasc Sci. 2026;39:e20240250 1
+Original Article
+Obstructive Sleep Apnea as a Risk Factor for Ischemic Heart Disease 
+Soham Samajpaty,1
+ Alexander Konstantinovich Zhuravlov,1
+ Emilianovich Dmitrii,2 Ilin Yuriy Sergeivich1
+Pirogov Russian National Research Medical University,1 Moscow – Russian Federation
+City Clinic Hospital Nº 31 named after GM Savelyova,2 Moscow – Russian Federation
+Abstract
+Background: Obstructive sleep apnea (OSA) is increasingly recognized as a potential risk factor for ischemic heart 
+disease (IHD), but its role remains underexplored. This study investigated the association between OSA and IHD 
+using a case-control design.
+Objectives:  The objective of this study was to establish OSA as a risk factor for developing IHD.
+Methods:  A total of 122 participants were recruited and categorized into two groups: patients with a recent history 
+of IHD (< 7 days) (wIHD group, n = 61) and controls without IHD but with hypertension (cIHD group, n = 61). The 
+STOP-Bang questionnaire was used to assess OSA risk, and statistical analyses, including odds ratio (OR), relative 
+risk (RR), and attributable risk (AR), were performed. A significance level of 0.05 was adopted for all statistical 
+analyses. 
+Results: Patients in the wIHD group had significantly higher STOP-Bang scores than the control group (p < 0.01), 
+with an AR of 71.929% and an OR of 40.078. Body mass index showed a significant positive correlation with OSA 
+risk (p = 0.0016, r = 0.396).The OR/RR was calculated at 11.25 (> 1). The level of statistical significance was found 
+to be 0.05.
+Conclusion:  This study identifies OSA as an important risk factor for IHD, supporting the need for routine OSA 
+screening in cardiovascular risk assessment. Larger studies are needed to further explore this relationship
+Keywords: Myocardial Ischemia; Obstructive Sleep Apnea; Case-Control Studies; Risk Factors.
+Mailing Address: Soham Samajpaty •
+College of Medicine and Sagore Dutta Hospital, West Bengal University of 
+Health Sciences, Kolkata – 700058, West Bengal - India 
+E-mail: sohamsamajpaty@gmail.com, dr_samajpaty@zohomail.in
+Manuscript received January 18, 2025; revised manuscript August 13, 2025;
+accepted September 8, 2025.
+Editor responsible for the review: Fernando Costa
+DOI:  https://doi.org/10.36660/ijcs.20240250IHD, the role of micro RNAs has been widely discussed in 
+molecular biology, although a significant lack of understanding 
+of the signaling pathways of pathogenesis persists.4 In a 
+study by Nir Peled et al., an increased chance of nocturnal 
+ischemic events was noted in patients with OSAs, indicating 
+towards a viable but less understood correlation between 
+the two conditions.5 One of the most vital mechanisms 
+might be embedded in the availability of oxygen during 
+different phases of the sleep cycle. Multiple studies using the 
+ventilation hood method have shown that oxygen availability 
+drastically decreases during the rapid eye movement (REM) 
+phase of the sleep cycle.6 Cardiologists and clinicians of other 
+specialties have widely observed that the highest number 
+of myocardial infarctions and most massive myocardial 
+infarctions happen during early morning hours,7 implying that 
+these cardiovascular events are more likely to happen during 
+the REM phase of sleep. This is a nested case-control study 
+conducted in the department of cardiology at the City Clinic 
+Hospital No. 31 named after academician G.M Savelyova, in 
+Moscow, Russian Federation. The study aimed to understand 
+the correlation between IHD and OSA by assessing the risk 
+of developing OSA in patients with IHD in a timeframe of 
+less than one week after stabilization. This study is unique in 
+its nature as a case-control study; it determines the risk OSA 
+predisposes to IHD, validating the exposure and incidence 
+relation between two factors. The Central Illustration displays 
+a synopsis of the findings.Introduction
+Ischemic heart disease (IHD) has been widely and 
+repetitively studied in medical science from morphological 
+and clinical perspectives. However, the correlation of IHD or 
+ischemia as a pathological process with obstructive sleep apnea 
+(OSA) has long been neglected from the aspects of research in 
+clinical medicine until recently. Studies have already shown 
+OSA to be related with chronic heart failure. The pathogenesis 
+of this phenomenon has been investigated to be fat deposition 
+on the upper body, including visceral fat, tongue, and throat.1 
+Moreover, fluid translocation from the lower extremities to the 
+neck has been associated with vascular congestion and edema 
+of the pharyngeal area, and these morphological changes 
+contribute to exacerbation of decompensation in heart failure.2 
+From the pathophysiology point of view, micro RNAs play a 
+vital role in development of OSA.3 In the development of 
+
+Int J Cardiovasc Sci. 2026;39:e20240250 2
+Original ArticleSamajpaty et al.
+STOP-Bang Questionnaire and IHD
+Central Illustration : Obstructive Sleep Apnea as a Risk Factor for Ischemic Heart Disease 
+Risk of IHD 
+development 
+in OSAEXPERIMENTAL GROUP
+93.44% developed OSA
+6.55% did not develop OSA
+CONTROL GROUP
+26.22% developed OSA
+73.77% did not develop OSA
+RR = 3.56  OR = 40.07  OR/RR > 1Results of a case-control study
+Int J Cardiovasc Sci. 2026;39:e20240250
+Method
+In this study, patients hospitalized in the cardiology 
+department of City Clinic Hospital No. 31, Moscow with a 
+recent history of IHD not exceeding 7 days were included. 
+Patients included were diagnosed with ST-segment elevation 
+myocardial infarction, non-ST-segment elevation myocardial 
+infarction, stable angina, and unstable angina. The clinical data 
+of these patients were compared with patients without IHD in 
+their anamnesis. For assessment of risk of developing OSA, the 
+STOP-Bang score questionnaire was used, and patients were 
+interviewed individually by the authors with signed consent. In 
+this questionnaire, subjects are assessed on the following eight 
+criteria: snoring, tiredness or fatigability, observed stopped 
+breathing or choking during sleep, arterial blood pressure, 
+body mass index (BMI) > 35 kg/m2, age older than 50 years, 
+neck size measured around Adam’s apple or the laryngeal 
+prominence of the thyroid cartilage, and sex (with male gaining 
+one point). On the score system, 0 to 2 indicates a low risk 
+of developing OSA; 3 to 4 indicates an intermediate risk of 
+developing OSA; and 5 to 8 indicates a high risk of developing 
+OSA.8 A retrospective study and comparison of individual 
+patient histories including anamnesis and comorbidities was 
+also carried out simultaneously.
+Statistical analysis
+A total of 122 patients (N = 122) were assessed in this 
+study, as calculated statistical power was observed to be 
+greater than 99.99% with this sample size, and the sample size 
+taken is greater than in previously conducted studies on the topic. In order to conduct a case-control study, the patients 
+were divided into two equal groups: 61 patients with recent 
+history of IHD were grouped and denominated “wIHD,” and 
+the control group consisted of 61 patients without any history 
+of IHD but with chronic arterial hypertension, denominated 
+“cIHD.” Chronic arterial hypertension was chosen as a 
+baseline characteristic as it is a comorbidity factor and, in 
+this case, a dependent variable. Continuous variables that 
+follow a normal distribution are presented as the mean plus or 
+minus the standard deviation. On the other hand, continuous 
+variables without a normal distribution are presented as the 
+median and interquartile range (IQR). Categorical variables 
+are expressed as the count and corresponding percentage. 
+Normality of continuous variables was evaluated using the 
+Shapiro-Wilk test. Differences in proportions between groups 
+were assessed with the two-proportion Z test. Receiver 
+operating characteristic (ROC) curve analysis was conducted 
+to determine the diagnostic accuracy of the STOP-Bang score. 
+Relationships between continuous variables were examined 
+using Pearson’s correlation coefficient and simple linear 
+regression. Associations between categorical variables were 
+tested with the chi-square test. All statistical analyses were 
+carried out in STATSOFT Statistica version 13.3,9 adopting a 
+significance level (alpha) of 0.05. There were no missing data 
+for the variables analyzed. 
+Results
+This case-control study obtained statistically significant 
+results.Obstructive Sleep Apnea as a Risk Factor for Ischemic Heart Disease Synopsis of risk of developing ischemic heart diseases in 
+obstructive sleep apnea. IHD: ischemic heart disease; OR: odds ratio; OSA: obstructive sleep apnea; RR: relative risk.
+
+Int J Cardiovasc Sci. 2026;39:e20240250 3
+Original ArticleSamajpaty et al.
+STOP-Bang Questionnaire and IHD
+The STOP-Bang score was selected as the primary screening 
+tool after analyzing the study model based on ROC curve 
+analysis. As illustrated in Figure  1, the area under the curve 
+was 0.974, indicating that the STOP-Bang score has excellent 
+diagnostic accuracy for identifying participants with IHD. The 
+ROC curve demonstrates that higher STOP-Bang scores are 
+strongly associated with an increased likelihood of belonging 
+to the IHD group.
+Among both groups, age and sex were equally distributed, 
+as shown in Table  1.
+Age was normally distributed (p > 0.05, Shapiro-Wilk 
+test); therefore, results are represented as mean ± standard 
+deviation above. Considering Table  1 and the data obtained, 
+the proportion of subjects exposed (p1) was (57/61) = 0.934, 
+and the proportion of subjects in the control group (p2) was 
+(16/61) = 0.262. Using the two-proportion Z test, effect size or 
+Cohen’s h was estimated to be 1.46. The level of significance 
+or two-tailed alpha value was estimated to be 0.05, and the ratio of cases to controls was 1:1. The statistically observed 
+power thus obtained was greater than 0.999. Hence, the 
+sample size of 122 was adequate, with negligibly low chance 
+of type II error (false negative).  
+Among the participants of the wIHD group, a significant 
+31.14% had high risk of developing OSA; 60% had 
+intermediate risk of developing OSA; and only 6.45% showed 
+low or no risk of developing OSA according to the STOP-Bang 
+score. Statistical analysis showed that patients recruited in the 
+wIHD group had 2 points more on the STOP-Bang score than 
+the patients recruited in the cIHD group, as shown in Figure  2, 
+with probability value found to be less than 0.01 (p < 0.05). 
+It has to be taken into account that the patients recruited 
+in this study were from middle and older age groups with 
+minimum age being 50 years and maximum being 90 years; 
+the average age of the recruited patients was 69.27 years. 
+The median STOP-Bang score for the wIHD group was 6, 
+with an IQR of 5 to 7, and the score for the cIHD group was 
+Figure 1 –  ROC curve analysis for the STOP-Bang score’s diagnostic effectiveness. AUC: area under the curve; IHD: ischemic heart 
+disease; ROC: receiver operating characteristic.
+ROC Curve: STOP-Bang Score Predictinh IHDTrue Positive Rate
+False Positive Rate0.00.00.20.40.60.81.0
+0.2 0.4 0.6 0.8 1.0ROC Curve (AUC = 0.97)
+Table 1 –  Age and sex distribution of both participant groups 
+Groups Sex Age (years) ± SD
+wIHD36 male (59%)
+69.3±11.5867.6±11.31
+25 female (41%) 71.76±11.7
+cIHD36 male (59%)
+69.4±6.3365.8±4.88
+25 female (41%) 74.4±4.46
+cIHD: control group without ischemic heart disease; SD: standard deviation; wIHD: group with ischemic heart disease.
+
+Int J Cardiovasc Sci. 2026;39:e20240250 4
+Original ArticleSamajpaty et al.
+STOP-Bang Questionnaire and IHD
+4 with IQR of 3 to 5. On linear regression model, a graphical 
+correlation of the equation y = −0.035x + 6.543 with R2 = 
+0.104 between age and STOP-Bang score was observed, as 
+shown in Figure  3. 
+Further comorbidity factors were analyzed for development 
+of detailed understanding of the pathology and its correlations. 
+BMI was found to have a contributory relationship as a factor 
+of influence among the participants in the wIHD group. It had 
+a statistically significant probability value of 0.0016 (p < 0.05) 
+with a Pearson’s correlation coefficient of 0.396 (r = 0.396). 
+This case-control study thus effectively established the 
+association between IHD and risk of developing OSA. 
+Moreover, it demonstrated the correlation of increased BMI 
+as a comorbid factor, as shown in Figure  4. The wIHD group 
+had median BMI of 29.80 kg/m2 with IQR 27.4 to 32.1, and 
+the cIHD group had median BMI of 26.3 kg/m2 with IQR 
+24.5 to 29.1.
+For further validation of the study, risk factors were 
+statistically analyzed in the wIHD and cIHD groups. 
+Participants from both groups were classified according to 
+STOP-Bang score, as shown in Table  2.
+On the comparing the data, it was found that the attributed 
+risk (AR) was 0.672; relative risk (RR) was 3.562; and attributed risk percentage was 71.929% for the development of OSA 
+in patients with IHD. On further analysis, the OR was found 
+to be 40.078 at a confidence interval of 95% with a Z-score 
+of 6.219. The ratio between OR and RR (OR/RR) was thus 
+calculated to be 11.25 (> 1). Hence, the study has successfully 
+demonstrated that OSA is strongly associated with IHD and 
+may contribute to the risk of developing it.
+A chi-square test was performed based on the data in Table  
+2. The calculated expected count is displayed in Table  3.
+The chi-square statistic was calculated at 54.57; degree of 
+freedom was found to be 1. Thus, a significant p value of 1.50 
+× 10-13 was obtained here. 
+Discussion
+Sleep medicine being a comparatively newer arena of 
+discussion and discourse in medical science, the correlation 
+between IHD and development of OSA is a neglected topic 
+in clinical research. Very few studies have been conducted in 
+this regard to date. In patients prescribed continuous positive 
+airway pressure (CPAP) treatment for OSA, the non-compliant 
+subjects with severe and moderate OSA were observed to 
+have a higher risk of fatal and non-fatal cardiovascular events 
+than those treated with CPAP and healthy individuals.10 The Figure 2 – Box and whisker plot showing STOP-Bang score and IHD. The horizontal line inside the box (—) indicates the median; the 
+box (▫) indicates 25% to 75% of the interquartile range; the horizontal line inside the box indicates the median, and the horizontal 
+whiskers extend to the minimum and maximum values.
+STOP-Bang9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Present Absent
+IHD4
+2
+–1
+
+Int J Cardiovasc Sci. 2026;39:e20240250 5
+Original ArticleSamajpaty et al.
+STOP-Bang Questionnaire and IHD
+Figure 3 – Age-related STOP-Bang score distribution in the group of patients with ischemic heart disease
+STOP-Bang89
+7
+6
+5
+4
+3
+2
+1
+0
+40 60 80 100STOP-Bang score
+Age (years)y = –0.035x + 6.543
+R2 = 0.104
+Linear (STOP-Bang)
+Figure 4 –  Line graph demonstrating correlation between BMI and STOP-Bang score. BMI: body mass index.
+15
+1 2 3 4 5 6 7 8 920253035404550556065
+STOP-BangBMI
+SAPAMI study demonstrated that OSA was a significant 
+finding in patients after acute myocardial infarction. The 
+SAPAMI study also found that, using apnea-hypopnea index 
+(AHI)11 of greater than 5 events per hour, 65.7% had sleep 
+apnea.12 Considering ischemia as a pathological process of 
+inadequate end-organ oxygen supply,13 OSA has been found 
+to be a comorbid factor in ischemic stroke and transient ischemic attacks in the United States of America and a 
+significant contributing factor to silent cerebral infarctions 
+in Japan.14 The discussion of correlation between OSA 
+and IHD is incomplete without recognizing the circadian 
+rhythm and physiological changes during the sleep cycle. 
+In genetically modified animal models, factors like light 
+intensity, small molecules that maintain circadian rhythm, 
+
+Int J Cardiovasc Sci. 2026;39:e20240250 6
+Original ArticleSamajpaty et al.
+STOP-Bang Questionnaire and IHD
+therapeutic drugs, and diet contributed to transition and 
+translation of circadian rhythm. The aging process has also 
+been considerably regarded as a contributing factor in 
+myocardial ischemia-reperfusion injury and heart failure.15 
+The paradoxical phase of sleep or REM phase plays a 
+considerable role in understanding the relation between 
+OSA and IHD. According to electroencephalography 
+studies, during the REM phase of sleep, the body undergoes 
+many physiological changes. Onset of arrhythmia, increase 
+in brain temperature and cerebral blood flow, muscle 
+atonia,16 and a rapid rise in blood pressure were noticed.17 
+Lung volumes are decreased during REM and between 
+REM and non-REM phases of sleep; end-expiratory volume 
+is decreased significantly, even if on CPAP therapy.18 
+Moreover, patients with non-dipping blood pressure have 
+been linked to development of ischemic diseases including 
+IHD and transient ischemic attacks, and interleukin-2 
+mediated systemic inflammation development.19,20 In case 
+of ischemic changes, the volumetric oxygen consumption 
+by skeletal muscles is permanently decreased,21 along with 
+increased higher baseline oxygen saturation, decreased 
+lower plateau in oxygen saturation, lowered oxygen 
+saturation under curve, prolonged time to reach oxygen 
+saturation plateau, and prolonged time to increase oxygen 
+saturation due to abnormal microvascular reperfusion.22 
+Hence, these considerations, added to the results of the 
+present case-control study, establish an association between 
+IHD and risk of developing OSA. Further research in this 
+field with a longitudinal study is very likely to establish OSA 
+as a risk factor of IHD. Being associated with IHD, patients 
+with established OSA can be screened for probable IHD, 
+or OSA might be used as a determinant of developing IHD 
+with the help of artificial intelligence based on machine 
+learning models. This study shows AR of 71.929%; smoking 
+has a similar AR for the occurrence of myocardial infarction. 
+Therefore, with further study, OSA can be added to risk 
+stratification for IHD or acute coronary syndrome.23 Risk stratification might be done by using OSA, defined in stages 
+from mild to moderate, which can be added to scales like 
+the Systematic Coronary Risk Evaluation 2 (SCORE2),24 after 
+further large-scale evaluation. 
+Limitations
+The study was conducted with minimal resources and 
+over a short duration of 6 months. The study has indicated 
+that OSA is positively related with risk of developing IHD; 
+however, in order to establish it as a risk factor for IHD, 
+it is necessary to conduct a longitudinal study among a 
+sufficiently large population. Although the control group 
+was isolated from risk factors including smoking and 
+alcohol consumption, medications were not stopped. 
+Polysomnography was not conducted to diagnose OSA, 
+but STOP-Bang was used to determine higher probability 
+of OSA.  
+Conclusion
+IHD is associated with development of OSA. This case-
+control study has effectively established this association 
+with statistically viable data. The risk of developing OSA 
+after an IHD event in the wIHD group was 2 points higher 
+on the STOP-Bang score and was statistically significant, 
+with a probability value less than 0.01 (p < 0.05). It was 
+additionally found that, on occurrence of IHD, AR was 
+71.929%. Hence, it is essential in the clinical research 
+of cardiology and sleep medicine to recognize OSA as a 
+factor of importance in risk assessment of IHD and other 
+ischemic processes. From the point of view of future 
+research, a large-scale population study on the topic 
+addressed in this study should be conducted. 
+Author Contributions 
+Conception and design of the research: Samajpaty S, 
+Zhuravlov AK. Acquisition of data: Samajpaty S, Dmitrii 
+E, Sergeivich IY. Analysis and interpretation of the data: 
+Samajpaty S, Dmitrii E. Statistical analysis: Sergeivich IY. 
+Writing of the manuscript: Samajpaty S.
+Critical revision of the manuscript for intellectual 
+content: Zhuravlov AK.
+Potential Conflict of Interest 
+No potential conflict of interest relevant to this article was 
+reported. Table 3 –  Expected count according to chi-square test
+GroupSTOP-Bang score 
+3 to 8STOP-Bang score 
+0 to 2
+wIHD 36.5 24.5
+cIHD 36.5 24.5
+cIHD: control group without ischemic heart disease; wIHD: 
+group with ischemic heart disease.Table 2 –  Distribution of participants in wIHD and cIHD groups according to STOP-Bang score
+Participants with STOP-Bang 
+score 3 to 8 pointsParticipants with STOP-Bang 
+score 0 to 2 pointsTotal participants (N)
+wIHD 57 (93.40%) 4 (6.60%) 61
+cIHD 16 (26.20%) 45 (73.80%) 61
+Totals 73 49 122
+cIHD: control group without ischemic heart disease; wIHD: group with ischemic heart disease.
+
+Int J Cardiovasc Sci. 2026;39:e20240250 7
+Original ArticleSamajpaty et al.
+STOP-Bang Questionnaire and IHD
+Sources of Funding 
+There were no external funding sources for this study. 
+Study Association 
+This study is not associated with any thesis or dissertation work.
+Ethics Approval and Consent to Participate 
+This article does not contain any studies with human 
+participants or animals performed by any of the authors.Use of Artificial Intelligence 
+The authors did not use any artificial intelligence tools in 
+the development of this work.
+Availability of Research Data 
+The underlying content of the research text is contained 
+within the manuscript.
+1. Wang SH, Keenan BT, Wiemken A, Zang Y, Staley B, Sarwer DB, et al. Effect 
+of Weight Loss on Upper Airway Anatomy and the Apnea-Hypopnea Index. 
+The Importance of Tongue Fat. Am J Respir Crit Care Med. 2020;201(6):718-
+27. doi: 10.1164/rccm.201903-0692OC. 
+2. Mehra R. Sleep Apnea and the Heart. Cleve Clin J Med. 2019;86(9 Suppl 
+1):10-8. doi: 10.3949/ccjm.86.s1.03. 
+3. Pinilla L, Barbé F , de Gonzalo-Calvo D. MicroRNAs to Guide Medical 
+Decision-Making in Obstructive Sleep Apnea: A Review. Sleep Med Rev. 
+2021;59:101458. doi: 10.1016/j.smrv.2021.101458. 
+4. Kong AS, Lai KS, Lim SE, Sivalingam S, Loh JY, Maran S. miRNA in Ischemic 
+Heart Disease and Its Potential as Biomarkers: A Comprehensive Review. 
+Int J Mol Sci. 2022;23(16):9001. doi: 10.3390/ijms23169001. 
+5. Peled N, Abinader EG, Pillar G, Sharif D, Lavie P . Nocturnal Ischemic Events 
+in Patients with Obstructive Sleep Apnea Syndrome and Ischemic Heart 
+Disease: Effects of Continuous Positive Air Pressure Treatment. J Am Coll 
+Cardiol. 1999;34(6):1744-9. doi: 10.1016/s0735-1097(99)00407-6. 
+6. Ryan T, Mlynczak S, Erickson T, Man SF , Man GC. Oxygen Consumption 
+During Sleep: Influence of Sleep Stage and Time of Night. Sleep. 
+1989;12(3):201-10. doi: 10.1093/sleep/12.3.201 .
+7. Elliot WJ. Cyclic and Circadian Variations in Cardiovascular Events. 
+Am J Hypertens. 2001;14(9 Pt 2):291S-295S. doi: 10.1016/s0895-
+7061(01)02174-4. 
+8. Chung F , Abdullah HR, Liao P . STOP-Bang Questionnaire: A Practical 
+Approach to Screen for Obstructive Sleep Apnea. Chest. 2016;149(3):631-
+8. doi: 10.1378/chest.15-0903. 
+9. StatSoft Inc. Statistica: Data Analysis Software System. Version 13.3. Tulsa: 
+StatSoft; 2017.
+10. Marin JM, Carrizo SJ, Vicente E, Agusti AG. Long-Term Cardiovascular 
+Outcomes in Men with Obstructive Sleep Apnoea-Hypopnoea with 
+or without Treatment with Continuous Positive Airway Pressure: An 
+Observational Study. Lancet. 2005;365(9464):1046-53. doi: 10.1016/
+S0140-6736(05)71141-7. 
+11. American Academy of Sleep Medicine. Obstructive Sleep APNEA. Illinois: 
+American Academy of Sleep Medicine; 2008.
+12. Ludka O, Stepanova R, Vyskocilova M, Galkova L, Mikolaskova M, Belehrad 
+M, et al. Sleep Apnea Prevalence in Acute Myocardial Infarction--the Sleep 
+Apnea in Post-Acute Myocardial Infarction Patients (SAPAMI) Study. Int J 
+Cardiol. 2014;176(1):13-9. doi: 10.1016/j.ijcard.2014.06.020. 13. Fox M, Atkin L, Matthews S, Smith P , Taylor K. Circulatory Disorders. In: 
+Burrow JG, Rome K, Padhiar N, editors. Neale’s Disorders of the Foot and 
+Ankle. 9th ed. Amsterdam: Elsevier; 2020. p. 89-114.
+14. Jehan S, Farag M, Zizi F , Pandi-Perumal SR, Chung A, Truong A, et al. 
+Obstructive Sleep Apnea and Stroke. Sleep Med Disord. 2018;2(5):120-5. 
+15. Eckle T, Bertazzo J, Khatua TN, Tabatabaei SRF , Bakhtiari NM, Walker 
+LA, et al. Circadian Influences on Myocardial Ischemia-Reperfusion 
+Injury and Heart Failure. Circ Res. 2024;134(6):675-94. doi: 10.1161/
+CIRCRESAHA.123.323522. 
+16. Libourel PA, Barrillot B. Is there REM Sleep in Reptiles? A Key Question, 
+but Still Unanswered. Curr Opin Physiol. 2020;15:134-42. doi: 10.1016/j.
+cophys.2020.01.001 . 
+17. Séi H. Blood Pressure Surges in REM Sleep: A Mini Review. Pathophysiology. 
+2012;19(4):233-41. doi: 10.1016/j.pathophys.2012.04.006. 
+18. Koo P , Gartman EJ, Sethi JM, McCool FD. End-Expiratory Lung Volume 
+Decreases during REM Sleep Despite Continuous Positive Airway Pressure. 
+Sleep Breath. 2020;24(1):119-25. doi: 10.1007/s11325-019-01857-9. 
+19. Sasaki N, Ozono R, Edahiro Y, Ishii K, Set A, Okita T, et al. Impact of 
+Non-Dipping on Cardiovascular Outcomes in Patients with Obstructive 
+Sleep Apnea Syndrome. Clin Exp Hypertens. 2015;37(6):449-53. doi: 
+10.3109/10641963.2015.1057833 . 
+20. Ulasli SS, Sarıaydın M, Gunay E, Halici B, Celik S, Koyuncu T, et al. Effects of 
+Nondipping Pattern on Systemic Inflammation in Obstructive Sleep Apnea. 
+Sleep Breath. 2015;19(4):1185-90. doi: 10.1007/s11325-015-1135-9. 
+21. Gorman MW, Barclay JK, Sparks HV . Effects of Ischemia on VO2, Tension, 
+and Vascular Resistance in Contracting Canine Skeletal Muscle. J Appl 
+Physiol. 1988;65(3):1075-81. doi: 10.1152/jappl.1988.65.3.1075. 
+22. Adingupu DD, Thorn CE, Casanova F , Elyas S, Gooding K, Gilchrist M, 
+et al. Blood Oxygen Saturation after Ischemia is Altered with Abnormal 
+Microvascular Reperfusion. Microcirculation. 2015;22(4):294-305. doi: 
+10.1111/micc.12198. 
+23. Gallucci G, Tartarone A, Lerose R, Lalinga AV , Capobianco AM. 
+Cardiovascular Risk of Smoking and Benefits of Smoking Cessation. J Thorac 
+Dis. 2020;12(7):3866-76. doi: 10.21037/jtd.2020.02.47. 
+24. SCORE2 working group and ESC Cardiovascular risk collaboration. SCORE2 
+Risk Prediction Algorithms: New Models to Estimate 10-Year Risk of 
+Cardiovascular Disease in Europe. Eur Heart J. 2021;42(25):2439-54. doi: 
+10.1093/eurheartj/ehab309.References
+This is an open-access article distributed under the terms of the Creative Commons Attribution License
