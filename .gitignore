@@ -45,10 +45,3 @@ Thumbs.db
 *.tmp
 *.swp
 *.swo
-
-# Data files (opcional, caso tenha arquivos grandes)
-sample_data/*.txt
-datasets/
-
-# images
-ecg_img/*.{jpg,jpeg,png,gif,svg} 
