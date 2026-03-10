@@ -4,7 +4,7 @@
 
 Este diretório contém o **corpus textual** do projeto **CardioIA**, desenvolvido como parte da **Fase 1 – Capítulo 1** da pós-graduação FIAP (PBL – Project Based Learning). O objetivo desta coleção é fornecer a base de dados textuais que alimentará os módulos de **Processamento de Linguagem Natural (NLP)** nas fases seguintes do projeto.
 
-De acordo com o enunciado (ver [`enunciado/enunciado_resumido.txt`](../../enunciado/enunciado_resumido.txt)), a **Parte 2 – Dados Textuais (NLP)** exige:
+De acordo com o enunciado (ver [`enunciado/enunciado_resumido.txt`](../enunciado/enunciado_resumido.txt)), a **Parte 2 – Dados Textuais (NLP)** exige:
 
 - No mínimo 2 arquivos `.txt` de fontes como SciELO, BVS, SUS ou Projeto Gutenberg;
 - Disponibilização em subpasta do repositório GitHub;
