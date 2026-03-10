@@ -1,5 +1,4 @@
 import PyPDF2
-import sys
 from pathlib import Path
 
 
@@ -41,6 +40,30 @@ def pdf_para_texto(pdf_path: str):
         print(f"❌ Erro ao processar {pdf_path.name}: {e}")
 
 
+def converter_todos_pdfs(pasta: str = None):
+    """Itera por todos os arquivos .pdf em assets/dataset_texto e gera os .txt correspondentes."""
+    if pasta is None:
+        # Resolve o caminho relativo à raiz do projeto (um nível acima de src/)
+        pasta = Path(__file__).resolve().parent.parent / "assets" / "dataset_texto"
+    else:
+        pasta = Path(pasta)
+
+    if not pasta.exists():
+        print(f"❌ Erro: Pasta não encontrada: {pasta}")
+        return
+
+    pdfs = list(pasta.rglob("*.pdf"))
+
+    if not pdfs:
+        print(f"⚠️ Nenhum arquivo .pdf encontrado em: {pasta}")
+        return
+
+    print(f"📂 Encontrados {len(pdfs)} arquivo(s) PDF em: {pasta}\n")
+    for pdf in pdfs:
+        pdf_para_texto(str(pdf))
+    print("\n✅ Conversão concluída!")
+
+
 # ===================== USO =====================
 if __name__ == "__main__":
-    pdf_para_texto(r'/dataset_texto/Pharmacological_Treatment_for_Heart_Failure.pdf')
+    converter_todos_pdfs()

@@ -1,0 +1,2479 @@
+Arq Bras Cardiol. 2025; 122(9):e20250621Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+DOI:  https://doi.org/10.36660/abc.20250621i2025 Brazilian Evidence-based Guideline on the 
+Management of Obesity and Prevention of Cardiovascular 
+Disease and Obesity-Associated Complications: A Position 
+Statement by Five Medical Societies 
+Development:  Associação Brasileira para o Estudo da Obesidade e da Síndrome Metabólica (ABESO), 
+Sociedade Brasileira de Diabetes (SBD), Sociedade Brasileira de Cardiologia (SBC), Sociedade Brasileira de 
+Endocrinologia e Metabologia (SBEM) e Academia Brasileira do Sono (ABS)
+Guideline Authors:  José Francisco Kerr Saraiva,1
+ Cynthia M. Valerio,2
+ Fabiana H. Rached,3 Simone Van 
+de Sande-Lee,4
+ Viviane Z. Rocha Giraldez,3
+ Fernando Valente,5
+ Luciano F. Drager,3
+ Bruno Halpern,6
+ 
+Wellington S. da Silva Junior,7
+ Fabio R. Trujilho,8,9
+ Neuton Dornellas,10
+ Ruy Lyra da Silva Filho,11
+ João 
+Eduardo N. Salles,12
+ Marcelo H. V. Assad,13
+ Marcio C. Mancini,14,15
+ Paulo A. C. Miranda,16,17
+ Rodrigo O. 
+Moreira,18
+ Rodrigo N. Lamounier,19,20
+ Sergio E. Kaiser,21
+ Marcello C. Bertoluci22
+Pontifícia Universidade Católica de Campinas,1 Campinas, SP – Brazil
+Instituto Estadual de Diabetes e Endocrinologia Luiz Capriglione (IEDE-RJ),2 Rio de Janeiro, RJ – Brazil
+Instituto do Coração (Incor) do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo (HCFMUSP),3 São Paulo, SP – Brazil
+Universidade Federal de Santa Catarina (UFSC),4 Florianópolis, SC – Brazil
+Faculdade de Medicina do ABC,5 São Paulo, SP – Brazil
+Centro de Controle de Peso do Hospital 9 de Julho,6 São Paulo, SP – Brazil
+Universidade Federal do Maranhão (UFMA),7 São Luís, MA – Brazil
+Instituição Centro de Diabetes e Endocrinologia da Bahia (CEDEBA),8 Salvador, BA – Brazil
+Hospital da Obesidade,9 Salvador, BA – Brazil
+Corpo de Bombeiros Militar do Distrito Federal,10 DF – Brazil
+Universidade Federal de Pernambuco (UFPE),11 Recife, PE – Brazil
+Faculdade de Ciências Médicas da Santa Casa de São Paulo,12 São Paulo, SP – Brazil
+Instituto Nacional de Cardiologia (INC),13 Rio de Janeiro, RJ – Brazil
+Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo (USP),14 São Paulo, SP – Brazil
+Associação Brasileira para o Estudo da Obesidade e Síndrome Metabólica (ABESO),15 São Paulo, SP – Brazil
+Santa Casa de Belo Horizonte,16 Belo Horizonte, MG – Brazil
+Rede Mater Dei de Saúde,17 Belo Horizonte, MG – Brazil
+Centro Universitário Presidente Antônio Carlos (UNIPAC),18 Juiz de Fora, MG – Brazil
+Universidade Federal de Minas Gerais (UFMG),19 Belo Horizonte, MG – Brazil
+Centro de Diabetes de Belo Horizonte (CDBH),20 Belo Horizonte, MG – Brazil
+Universidade estadual do Rio de Janeiro (UERJ),21 Rio de Janeiro, RJ – Brazil
+Universidade Federal do Rio Grande do Sul (UFRGS),22 Porto Alegre, RS – Brazil
+SBC Clinical Practice Guidelines Committee: Pedro Gabriel Melo de Barros e Silva (Coordenador), Helena 
+Cramer Veiga Rey, Humberto Graner Moreira, José Augusto Soares Barreto Filho, Nadine Oliveira Clausell  – 
+Period 2025-2027
+How to cite this Guideline  Saraiva JFK, Valerio CM, Rached FH, van de Sande-Lee S, Giraldez VZR, 
+Valente F , et al. 2025 Brazilian Evidence-based Guideline on the Management of Obesity and Prevention of 
+Cardiovascular Disease and Obesity-Associated Complications: A Position Statement by Five Medical Societies. 
+Arq Bras Cardiol. 2025; 122(9):e20250621
+1
+
+Arq Bras Cardiol. 2025; 122(9):e20250621
+Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+Note: These guidelines are for information purposes and should not replace the clinical judgment of aphysician, 
+who must ultimately determine the appropriate treatment for each patient.
+Correspondence: Sociedade Brasileira de Cardiologia – Av. Marechal Câmara, 360/330 – Centro – Rio de 
+Janeiro – CEP: 20020-907. E-mail: diretrizes@cardiol.br
+2
+
+Arq Bras Cardiol. 2025; 122(9):e20250621Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+2025 Brazilian Evidence-based Guideline on the Management of Obesity and Prevention of Cardiovascular Disease and 
+Obesity-Associated Complications: A Position Statement by Five Medical Societies
+The report below lists declarations of interest as reported to the SBC by the experts during the period of the development of 
+these statement, 2024/2025.
+Expert Type of relationship with industry
+Bruno HalpernFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any 
+other person living with you, (iii) any legal person in which any of these is either a direct or 
+indirect controlling owner, business partner, shareholder or participant; any payments received for 
+lectures, lessons, training instruction, compensation, fees paid for participation in advisory boards, 
+investigative boards or other committees, etc. from the brazilian or international pharmaceutical, 
+orthosis, prosthesis, equipment and implants industry: 
+- Novo Nordisk, Lilly, Boehringer Ingelheim, Astra Zeneca, Merck, Novartis.
+Cynthia M. ValerioFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any 
+other person living with you, (iii) any legal person in which any of these is either a direct or 
+indirect controlling owner, business partner, shareholder or participant; any payments received for 
+lectures, lessons, training instruction, compensation, fees paid for participation in advisory boards, 
+investigative boards or other committees, etc. from the brazilian or international pharmaceutical, 
+orthosis, prosthesis, equipment and implants industry: 
+- Novo Nordisk: Diabetes and Obesity; Boehringer Ingelheim: Diabetes; Eli Lilly: Diabetes and 
+Obesity; AstraZeneca: Diabetes; EMS: Diabetes and Obesity.
+B - Research funding under your direct/personal responsibility (directed to the department or 
+institution) from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and 
+implants industry: 
+- Chiesi: metreleptina.
+Other relationships 
+Funding of continuing medical education activities, including travel, accommodation and registration 
+in conferences and courses, from the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- Chiesi: metreleptina.
+Fabiana H. RachedFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any 
+other person living with you, (iii) any legal person in which any of these is either a direct or 
+indirect controlling owner, business partner, shareholder or participant; any payments received for 
+lectures, lessons, training instruction, compensation, fees paid for participation in advisory boards, 
+investigative boards or other committees, etc. from the brazilian or international pharmaceutical, 
+orthosis, prosthesis, equipment and implants industry: 
+- Novo Nordisk: semaglutide; Novartis: inclisiran; Daiichi Sankyo: bempedoic acid.
+Other relationships 
+Funding of continuing medical education activities, including travel, accommodation and registration 
+in conferences and courses, from the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- Novo Nordisk: semaglutide; Novartis: inclisiran; Daiichi Sankyo: bempedoic acid.
+Fabio R. TrujilhoFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any 
+other person living with you, (iii) any legal person in which any of these is either a direct or 
+indirect controlling owner, business partner, shareholder or participant; any payments received for 
+lectures, lessons, training instruction, compensation, fees paid for participation in advisory boards, 
+investigative boards or other committees, etc. from the brazilian or international pharmaceutical, 
+orthosis, prosthesis, equipment and implants industry: 
+- Aché, Amryt Pharma, Astra Zeneca, BracePharma, EMS, Eurofarma, Lilly, Merck, NovoNordisk, 
+Scitech Medical, Takeda.
+3
+
+Arq Bras Cardiol. 2025; 122(9):e20250621
+Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+Fernando ValenteFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any other 
+person living with you, (iii) any legal person in which any of these is either a direct or indirect controlling 
+owner, business partner, shareholder or participant; any payments received for lectures, lessons, training 
+instruction, compensation, fees paid for participation in advisory boards, investigative boards or other 
+committees, etc. from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and 
+implants industry: 
+- Novo Nordisk: Diabetes and Obesity; Boehringer Ingelheim: Diabetes; Eli Lilly: Diabetes and Obesity, 
+Abbott: CGM, AstraZeneca: Diabetes; Servier: Diabetes; EMS: Diabetes and Obesity; GSK: Vaccines.
+Other relationships 
+Funding of continuing medical education activities, including travel, accommodation and registration 
+in conferences and courses, from the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- AstraZeneca: Diabetes; NovoNordisk: Diabetes.
+João Eduardo N. 
+SallesFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any other 
+person living with you, (iii) any legal person in which any of these is either a direct or indirect controlling 
+owner, business partner, shareholder or participant; any payments received for lectures, lessons, training 
+instruction, compensation, fees paid for participation in advisory boards, investigative boards or other 
+committees, etc. from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and 
+implants industry: 
+- Astra Zeneca, Bayer, Boehringer-Ingelheim,  Lilly, Merck serono  Novo Nordisk.
+José Francisco Kerr 
+SaraivaFinancial declaration
+C - Personal research funding paid by the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- Bayer: finerinone; Novo Nordisk: semaglutide; AstraZeneca: Zirconium cyclosilicate, dapagliflozin; 
+Amgen: evolocumab; Boehringer Ingelheimer: empagliflozin; Lilly: tirzepatide, atorvastatin viatris; Daichii 
+Sankyo: bempedoic acid/Edoxaban; Mantecorp: rosuvastatin.
+Other relationships 
+Funding of continuing medical education activities, including travel, accommodation and registration 
+in conferences and courses, from the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- Bayer: finerinone; Novo Nordisk: Semaglutide; AstraZeneca: Zirconium cyclosilicate, dapagliflozin; 
+Amgen: evolocumab; Boehringer Ingelheimer: empagliflozin; Lilly: tirzepatide, atorvastatin viatris; Daichii 
+Sankyo: bempedoic acid/edoxaban.
+Luciano F . DragerFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any other 
+person living with you, (iii) any legal person in which any of these is either a direct or indirect controlling 
+owner, business partner, shareholder or participant; any payments received for lectures, lessons, training 
+instruction, compensation, fees paid for participation in advisory boards, investigative boards or other 
+committees, etc. from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and 
+implants industry: 
+- Lilly, Novo Nordisk, ResMed.
+Other relationships 
+Funding of continuing medical education activities, including travel, accommodation and registration 
+in conferences and courses, from the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- Novo Nordisk.
+Marcello C. BertoluciFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any other 
+person living with you, (iii) any legal person in which any of these is either a direct or indirect controlling 
+owner, business partner, shareholder or participant; any payments received for lectures, lessons, training 
+instruction, compensation, fees paid for participation in advisory boards, investigative boards or other 
+committees, etc. from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and 
+implants industry: 
+- AstraZeneca, NovoNordisk, Lilly, Boehringer, Bayer, Servier, Brace Pharma, Roche, AMGEM.
+4
+
+Arq Bras Cardiol. 2025; 122(9):e20250621Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+Marcelo H. V. AssadFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any other 
+person living with you, (iii) any legal person in which any of these is either a direct or indirect controlling 
+owner, business partner, shareholder or participant; any payments received for lectures, lessons, training 
+instruction, compensation, fees paid for participation in advisory boards, investigative boards or other 
+committees, etc. from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and 
+implants industry: 
+- AstraZeneca: Forxiga; BAYER: Firialta; Biolab: Repath; Boerhringer Ingelheim: Glyxambi; Daiichy Sankyo: 
+Benicar, Nustendi; EMS: Bramicar; GSK: Shingrix; Libbs: Stanglit; Lilly: Mounjaro; Novo Nordisk: Wegovy; 
+Novartis: Sybrava; Pfizer: Prevenar 20; Viatris: Lipitor, Inspra.
+B - Research funding under your direct/personal responsibility (directed to the department or institution) 
+from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and implants industry: 
+- AMGEN: Olpasirana.
+Other relationships 
+Funding of continuing medical education activities, including travel, accommodation and registration 
+in conferences and courses, from the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- Bayer: Firialta; Daiichi Sankyo: Benicar; Novo Nordisk: Wegovy.
+Marcio C. ManciniFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any 
+other person living with you, (iii) any legal person in which any of these is either a direct or 
+indirect controlling owner, business partner, shareholder or participant; any payments received for 
+lectures, lessons, training instruction, compensation, fees paid for participation in advisory boards, 
+investigative boards or other committees, etc. from the brazilian or international pharmaceutical, 
+orthosis, prosthesis, equipment and implants industry: 
+- Merck: Contrave; Novo Nordisk: Wegovy; EMS: Olyra; Myralis: Mecobe.
+B - Research funding under your direct/personal responsibility (directed to the department or 
+institution) from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and 
+implants industry: 
+- Abbott: FreeStyle Libre.
+Other relationships 
+Funding of continuing medical education activities, including travel, accommodation and registration 
+in conferences and courses, from the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- Novo Nordisk: Wegovy.
+Neuton DornellasFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any 
+other person living with you, (iii) any legal person in which any of these is either a direct or 
+indirect controlling owner, business partner, shareholder or participant; any payments received for 
+lectures, lessons, training instruction, compensation, fees paid for participation in advisory boards, 
+investigative boards or other committees, etc. from the brazilian or international pharmaceutical, 
+orthosis, prosthesis, equipment and implants industry: 
+- Novo Nordisk: a meeting (Advisory board) on the SOUL study - Oral Semaglutide.
+Other relationships 
+Funding of continuing medical education activities, including travel, accommodation and registration 
+in conferences and courses, from the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- Novo Nordisk: registration, travel and accommodation for the European obesity congress.
+Paulo A. C. MirandaFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any 
+other person living with you, (iii) any legal person in which any of these is either a direct or 
+indirect controlling owner, business partner, shareholder or participant; any payments received for 
+lectures, lessons, training instruction, compensation, fees paid for participation in advisory boards, 
+investigative boards or other committees, etc. from the brazilian or international pharmaceutical, 
+orthosis, prosthesis, equipment and implants industry: 
+- NovoNordisk, Lilly, Recordat, Ache, Ipsen.
+5
+
+Arq Bras Cardiol. 2025; 122(9):e20250621
+Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+Rodrigo N. 
+LamounierFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any other 
+person living with you, (iii) any legal person in which any of these is either a direct or indirect controlling 
+owner, business partner, shareholder or participant; any payments received for lectures, lessons, training 
+instruction, compensation, fees paid for participation in advisory boards, investigative boards or other 
+committees, etc. from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and 
+implants industry: 
+- Abbot: FreeStyle Libre; Minimed: Sistema 780G; EMS: Olira; Lilly: Mounjaro.
+Other relationships 
+Funding of continuing medical education activities, including travel, accommodation and registration 
+in conferences and courses, from the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- Novo Nordisk: Ozempic, Wegovy.
+Rodrigo O. MoreiraFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any other 
+person living with you, (iii) any legal person in which any of these is either a direct or indirect controlling 
+owner, business partner, shareholder or participant; any payments received for lectures, lessons, training 
+instruction, compensation, fees paid for participation in advisory boards, investigative boards or other 
+committees, etc. from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and 
+implants industry: 
+- Bayer, Astra Zeneca, Novo Nordisk, Eli Lilly, Libbs, EMS, Eurofarma, Chiesi, Servier.
+B - Research funding under your direct/personal responsibility (directed to the department or institution) 
+from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and implants industry: 
+- Servier, AMRYT Pharma.
+Other relationships 
+Funding of continuing medical education activities, including travel, accommodation and registration 
+in conferences and courses, from the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- Astra Zeneca, Novo Nordisk, Bayer, Servier.
+Ruy Lyra da Silva 
+FilhoFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any other 
+person living with you, (iii) any legal person in which any of these is either a direct or indirect controlling 
+owner, business partner, shareholder or participant; any payments received for lectures, lessons, training 
+instruction, compensation, fees paid for participation in advisory boards, investigative boards or other 
+committees, etc. from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and 
+implants industry: 
+- Abbott, Biolab, Boheringer, Lilly, Merck Serono, Eurofarma, MSD, Roche, Bayer, Mantecorp.
+Other relationships 
+Funding of continuing medical education activities, including travel, accommodation and registration 
+in conferences and courses, from the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- Abbott, Mantecorp, Boheringer, Lilly, Biolab, Eurofarma, Novo Nordisk, Bayer.
+Sergio E. KaiserFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any other 
+person living with you, (iii) any legal person in which any of these is either a direct or indirect controlling 
+owner, business partner, shareholder or participant; any payments received for lectures, lessons, training 
+instruction, compensation, fees paid for participation in advisory boards, investigative boards or other 
+committees, etc. from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and 
+implants industry: 
+- Bayer: Firialta; Novo Nordisk: Ozempic e Wegovy; Daiichi Sankyo: Nustendi e Benicar; Astrazeneca: 
+Forxiga, Selozok; Novartis: Sybrava; Libbs: Plenance, Naprix; Biolab: Repatha e Livalo.
+Other relationships 
+Funding of continuing medical education activities, including travel, accommodation and registration 
+in conferences and courses, from the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- Novo Nordisk: Wegovy; Libbs: Naprix; Astrazeneca: Selozok.
+6
+
+Arq Bras Cardiol. 2025; 122(9):e20250621Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+Simone Van de 
+Sande-LeeOther relationships 
+Funding of continuing medical education activities, including travel, accommodation and registration 
+in conferences and courses, from the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- Abbott: Diabetes; Lilly: Obesity and Diabetes; Novo Nordisk: Obesity.
+Viviane Z. Rocha 
+GiraldezFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any other 
+person living with you, (iii) any legal person in which any of these is either a direct or indirect controlling 
+owner, business partner, shareholder or participant; any payments received for lectures, lessons, training 
+instruction, compensation, fees paid for participation in advisory boards, investigative boards or other 
+committees, etc. from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and 
+implants industry: 
+- Abbott: Lipidil; Aché: Trezete; Biolab: Repatha; Daichii-Sankyo: Nustendi; Lilly: Mounjaro; Novartis: 
+Sybrava; Novo-Nordisk: Wegovy; Ultragenyx: Evkeeza.
+Other relationships 
+Funding of continuing medical education activities, including travel, accommodation and registration 
+in conferences and courses, from the brazilian or international pharmaceutical, orthosis, prosthesis, 
+equipment and implants industry: 
+- Novartis: Sybrava; Novo Nordisk: Wegovy.
+Wellington S. da 
+Silva JuniorFinancial declaration
+A - Economically relevant payments of any kind made to (i) you, (ii) your spouse/partner or any other 
+person living with you, (iii) any legal person in which any of these is either a direct or indirect controlling 
+owner, business partner, shareholder or participant; any payments received for lectures, lessons, training 
+instruction, compensation, fees paid for participation in advisory boards, investigative boards or other 
+committees, etc. from the brazilian or international pharmaceutical, orthosis, prosthesis, equipment and 
+implants industry: 
+- Abbott, AstraZeneca, Libbs, Lilly, Novartis, Novo Nordisk.
+7
+
+Arq Bras Cardiol. 2025; 122(9):e20250621
+Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+Table of contents
+Introduction  .................................................................................... 8
+Methodology  .................................................................................. 8
+Part 1 – Cardiovascular Risk Definition  ............................... 10
+1.1. Assessment of cardiovascular Risk in individuals with overweight 
+or obesity ............................................................................................. 10
+1.2. Heart failure screening in individuals with overweight or obesity  ...11
+Part 2 – Weight Loss Targets  ................................................... 13
+2.1. Weight Loss Targets for Risk Factor Improvement  ......................... 13
+2.2. Weight Loss Targets for Cardiovascular Event Reduction  ............... 13
+2.3. Weight loss Targets for Atrial Fibrillation-Related Complications ....14
+Part 3 – Obesity Management  ................................................ 14
+3.1. Lifestyle Modification  .................................................................... 14
+3.2. Pharmacotherapy management for reducing events and risk 
+factors  ................................................................................................ 15
+3.2.1. Obesity and Moderate or High ASCVD risk  .............................. 15
+3.2.2. Obesity and Established ASCVD risk  ........................................ 16
+3.2.3. Obesity and type 2 Diabetes  ..................................................... 16
+3.2.4. Obesity, Type 2 Diabetes, and Chronic Kidney Disease  ........... 18
+3.2.5. Obesity and Obstructive Sleep Apnoea  .................................... 18
+3.2.6. Obesity and Heart Failure  ......................................................... 21
+3.2.7. Obesity in Individuals with High Heart Failure Risk  ................. 21
+3.3. Bariatric Surgery  ........................................................................... 21
+3.3.1. Obesity Stage 2 and Moderate/High ASCVD Risk or High 
+HF Risk  ............................................................................................. 22
+3.3.2.  Obesity Stage 2 and Heart Failure  .......................................... 22
+Conclusion  ...................................................................................... 23
+Supllement  ..................................................................................... 23
+References  ..................................................................................... 24
+Introduction
+Global obesity prevalence has nearly tripled since 
+1975, now affecting over one billion people. Obesity is 
+widely  recognised as a condition associated with numerous 
+chronic diseases , significantly impairing quality of life and 
+reducing life expectancy.1.
+In 2021, 612 million individuals were affected by 
+cardiovascular disease (CVD), accounting for 26.8% of 
+all deaths worldwide. This figure has increased by 0.88% 
+over the past 30 years. Notably, 79.5% of all disability-
+adjusted life years (DALYs) lost can be attributed to 11 
+risk factors, with body mass index (BMI) showing the 
+strongest association.2 Furthermore, prevalence studies 
+have shown that approximately two-thirds of obesity-
+related deaths are due to CVD.2,3 The Brazilian data from 
+2025 show that 68% of adults have a BMI of at least 25 
+kg/m², with 31% classified as living with obesity. In 2021 
+alone, 60,913 premature deaths in Brazil were attributed 
+to elevated BMI.1
+The relationship between obesity and CVD is well-
+established . Prospective epidemiological studies have 
+shown that obesity increases the risk of coronary artery 
+disease (CAD) events and cardiovascular mortality.4 
+Obesity contributes to the development of CVD through 
+multiple pathways, either indirectly through increased 
+traditional cardiovascular (CV) risk factors, such as type 
+2 diabetes, dyslipidaemia, and hypertension, or directly through an adiposity-induced inflammatory state that 
+affects cardiac structure and function.5,6
+Multiple epidemiological studies have related obesity 
+to CVD through BMI. A meta-analysis of over 300,000 adults 
+showed that BMI-defined overweight and obesity ranges 
+are associated with increased risk of CAD and CV mortality. 
+Observational and Mendelian randomisation studies have 
+indicated a strong direct link between higher BMI and 
+increased heart failure incidence and mortality.7
+In addition, abdominal obesity is reported as more 
+directly associated with increased risk of cerebrovascular 
+disease, coronary heart disease, and CV mortality.5 Meta-
+analyses of large cohort studies showed that abdominal 
+obesity, measured by waist circumference, is a strong 
+independent predictor of morbidity and mortality across 
+all BMI categories.5,6 Even individuals with a BMI below 
+30 kg/m2 may present with elevated cardiometabolic risk, 
+particularly when visceral fat accumulation is accompanied 
+by a relative deficiency in gluteofemoral subcutaneous fat 
+and other risk factors.8 Therefore, alternative measurements 
+to BMI, such as waist circumference, waist-to-hip ratio, and 
+waist-to-height ratio are recommended to better identify 
+individuals with potential visceral adiposity.9-11
+Despite the availability of various treatment options, 
+including lifestyle interventions, pharmacotherapy, and 
+bariatric surgery, the management of obesity remains 
+challenging. Achieving and maintaining weight loss can 
+be challenging, and the long-term outcomes of obesity 
+treatment are frequently modest. Moreover, the increasing 
+complexity of anti-obesity treatments, some with proven 
+benefits in cardiorenal-metabolic syndrome outcomes, 
+underscores the urgent need for new stratification tools to 
+guide treatment selection in specific clinical situations.12,13
+Accordingly, this guideline aims to structure obesity 
+treatment within the context of CVD prevention, considering 
+both CV risk and obesity stage. It provides evidence-based 
+recommendations to support healthcare professionals in 
+personalizing optimal therapeutic strategies for individuals 
+living with obesity .
+Methodology
+The guideline was developed using the Delphi method,14 
+a structured process involving successive rounds of expert 
+input, in which participants respond anonymously and are 
+afforded opportunities to revise their responses based on  
+feedback from other participants.
+An initial panel of twenty experts from five medical 
+societies, Brazilian Association for the Study of Obesity and 
+Metabolic Syndrome (ABESO), Brazilian Diabetes Society 
+(SBD), Brazilian Society of Endocrinology and Metabolism 
+(SBEM), Brazilian Cardiology Society (SBC), and Brazilian 
+Sleep Academy (ABS), were recruited. From this panel, five 
+members formed the working group (steering committee) 
+responsible for designing the guideline framework, consisting 
+of 25 evidence-based recommendations.
+Each recommendation was designed to address a specific 
+clinical situation and assigned a recommendation grade 
+8
+
+Arq Bras Cardiol. 2025; 122(9):e20250621Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+Central Illustration:  2025 Brazilian Evidence-based Guideline on the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications: A Position Statement by 
+Five Medical Societies
+Arq Bras Cardiol. 2025; 122(9):e20250621
+Cardiovascular risk assessment strategy in adults with overweight or obesity
+following full panel voting. Three voting rounds were conducted 
+using an online tool, with results statistically analysed by the 
+steering committee. Following the first round of feedback, the 
+base text was revised and rewritten. Second and third rounds of 
+feedback were sought to refine the text, followed by adjustments 
+to finalise the recommendation grades. Subsequently, the 
+literature review was updated and organised to align with the 
+evidence summaries supporting each recommendation. Finally, 
+the manuscript was prepared for publication.
+Three levels of evidence were considered: A—Data 
+from more than one randomized clinical trial (RCT) or from 
+meta-analyses of RCTs with low heterogeneity (I2 < 25%). 
+B—Data from meta-analyses with high heterogeneity (I2 ≥25%),  a single RCT, prespecified  subgroup  analysis, 
+large observational studies, or meta-analyses of observational 
+studies. C—Data from small or nonrandomized studies, 
+exploratory analyses, clinical practice guidelines, or expert 
+consensus statements. The level of agreement determined 
+the strength of the recommendation, as follows: I—IS 
+RECOMMENDED: >90% agreement among panel members; 
+IIa—SHOULD BE CONSIDERED: 70-90% agreement; 
+IIb—MAY BE CONSIDERED: 50–70% agreement; and III—
+IS NOT RECOMMENDED: <50% agreement or majority 
+against. Recommendation grades and levels of evidence 
+were established according to the guideline provided in 
+Tables 1 and 2 .
+Table 1 –  Recommendation grade
+Term DefinitionClass of 
+recommendation 
+RECOMMENDED ≥90% agreement with recommendation among panel members I
+SHOULD BE 
+CONSIDERED75–89% agreement with recommendation IIa
+MAY BE CONSIDERED 50–74% agreement with recommendation IIb
+NOT RECOMMENDED <50% agreement with recommendation III
+Cardiovascular Risk Assessment in Individuals 
+with Overweight or Obesity
+Established HF
+oPatients with diagnosed HF.
+Established ASCVD (Secondary Prevention)
+o Previous MI (Chronic CAD)
+o Stable angina
+o Ischemic stroke or TIA
+o Arterial revascularization
+Moderate Risk
+o PREVENT Score between 5% and 20% /10 years
+o Presence of 1 or more risk factors (HTN or DLP, 
+except T2D).See Guideline for Pharmacological 
+Treatment of ObesityLow RiskOverweight or Obesity
+Yes
+YesnãoNo
+Presence of Risk Factors?Yes
+Established
+ ASCVD
+History of MI, Stroke, or Revascularization?Diagnosed HF?
+Established ASCVDEstablished HF
+High HF 
+ Risk
+High ASCVD Risk 
+ASCVD Risk ≥20% in 10 years
+INTERMEDIATE RISK
+7.5 -20% in 10 years
+BORDERLINE RISK
+5-7.5% in 10 yearsHigh HF Risk 
+HF Risk ≥20% in 10 yearsApply PREVENT Score
+High ASCVD Risk (Primary Prevention)
+o Diabetes 
+o Arterial stenosis >50%
+o CAC > 100 (non -T2D) or CAC > 10 (T2D)
+o PREVENT > 20% in 10 years ( ASCVD )
+o CKD
+o Lp(a) > 50 mg/dL, HF or LDL -C >190 mg/dL
+BMI > 40 kg/m²?Yes
+No
+No
+No
+No
+Over 30 years old?YesHigh HF risk
+Obesity withBMI > 40 g/m²
+ASCVD risk
+Obesity with BMI > 40 kg/m²
+9
+
+Arq Bras Cardiol. 2025; 122(9):e20250621
+Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+Table 2 – Level of evidence
+Level of Evidence Definition  Color
+A≥2 randomized clinical trials (RCTs) or meta-analysis of RCTs with low heterogeneity 
+(I2 < 25%) 
+BMeta-analysis of observational studies, meta-analysis with high heterogeneity 
+(I2 ≥25%), a single RCT, large longitudinal observational studies or prespecified 
+subgroup meta-analyses of large RCTs.
+CEstudos transversais, experimentos, estudos de casos e controles, série de casos, 
+análises exploratórias, diretrizes de sociedades, opinião de experts
+Part 1 – Cardiovascular Risk Definition
+ 
+1.1. Assessment of Cardiovascular Risk in Individuals with 
+Overweight or Obesity  
+R1. Class of 
+recommendationLevel of 
+evidence
+Assessing and categorising 
+the risk of atherosclerotic 
+cardiovascular disease 
+(ASCVD) and Heart Failure 
+(HF) is RECOMMENDED 
+for all adults with overweight 
+or obesity over the age of 18 
+years to guide anti-obesity 
+treatment.I C
+Summary of evidence (R1):
+• Considering emerging evidence on the CV benefits of 
+medications in reducing the risk of atherosclerotic CV disease 
+(ASCVD) and HF in individuals with obesity, the selection of 
+anti-obesity treatment should be guided by CV risk stratification. 
+This recommendation is based on expert consensus.
+  
+R2. Class of 
+recommendationLevel of 
+evidence
+Using the PREVENT risk 
+score for CV risk assessment  
+is RECOMMENDED for 
+individuals with overweight 
+or obesity with a BMI <40 kg/
+m2 who are aged 30–79 years 
+in the primary prevention 
+of CVD, using the mode 
+that includes the glycated 
+haemoglobin (HbA1c) value 
+and assessing both total 
+ASCVD risk and 10-year heart 
+failure (HF) risk to guide 
+obesity management.I CSummary of evidence (R2):
+• The Predicting risk of CVD Events (PREVENT) equations 
+was preferred over the older Pooled Cohort Equations due 
+to its greater ethnic representativeness, larger population 
+inclusion, and improved accuracy. However, the PREVENT 
+score is limited in CVD subtype coverage. The PREVENT model 
+incorporates expanded outcomes, including HF and risk factors 
+related to obesity, diabetes, and kidney disease. The risk model 
+demonstrates good prognostic performance with appropriate 
+discrimination and calibration in both general populations and 
+demographic/CV-kidney-metabolic subgroups.15,16
+• Designed for individuals with overweight or obesity, the 
+PREVENT risk score should be applied using the mode that 
+includes HbA1c measurement. Both total ASCVD risk and 
+10-year HF risk should be evaluated. The PREVENT score 
+has limitations regarding age and BMI levels and should be 
+restricted to patients aged 30 to 79 years with a BMI <40 kg/
+m2. Additionally, the PREVENT score was developed for primary 
+prevention patients – it should not be used for risk stratification 
+in patients with established ASCVD and/or HF .
+R3. Class of 
+recommendationLevel of 
+evidence
+Categorising CV risk in 
+individuals with overweight 
+or obesity as LOW, 
+MODERATE, or HIGH ASCVD 
+risk and HIGH HF risk is 
+RECOMMENDED  to guide 
+obesity management. ( Table 
+3 and Central Illustration ).I C
+ 
+The proposed strategy for CV risk assessment in adults with 
+overweight or obesity is shown in Central Illustration . 
+Important Note 1: When to re-stratify individuals with 
+MODERATE ASCVD RISK
+• Individuals at moderate risk according to the PREVENT score 
+who require ASCVD risk re-stratification due to family history of 
+premature CAD should undergo coronary artery calcium scoring 
+via thoracic computed tomography scan.
+10
+
+Arq Bras Cardiol. 2025; 122(9):e20250621Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+• Those with CAC >100 AU without diabetes or CAC >10 
+AU with diabetes, should be reclassified as HIGH RISK. 
+Individuals with CAC = 0 and diabetes should remain 
+classified as moderate risk.
+• Patients with type 2 diabetes for more than 10 
+years or those with chronic kidney disease (estimated 
+glomerular filtration rate [eGFR] <45 mL/min/1.73 m2 
+and/or albuminuria with a urine albumin-to-creatinine 
+ratio (ACR) >30 mg/g) or BMI >40 kg/m2, even if 
+asymptomatic. should be classified as HIGH RISK, 
+regardless of their PREVENT score.
+1.2. Heart Failure Screening in Individuals with Overweight 
+or Obesity
+ 
+R4. Class of 
+recommendationLevel of 
+evidence
+Screening for HF using 
+natriuretic peptides (N-terminal 
+pro-B-type natriuretic peptide 
+[NT-proBNP] or B-type 
+natriuretic peptide [BNP]) 
+or imaging SHOULD BE 
+CONSIDERED  in individuals 
+with HIGH HF RISK (see 
+thresholds in Important 
+Note 2).IIa C
+Summary of evidence (R4):
+• Obesity is an important risk factor for HF with 
+preserved ejection fraction (HFpEF). Individuals with obesity are often diagnosed late, by which time significant 
+cardiac dysfunction may already be present. This delay 
+is frequently due to the misattribution of symptoms, 
+particularly in advanced stages, to obesity.17
+• For individuals with obesity with HIGH HF risk, 
+screening for type 2 diabetes, hypertension, atrial 
+fibrillation, and obstructive sleep apnoea (OSA) and 
+obtaining objective evidence of exercise intolerance can 
+identify the need for HF-targeted interventions. Timely 
+HF treatment improves prognosis regarding quality of life 
+and morbidity/mortality.18· 
+• The association between the apnoea-hypopnea 
+index (AHI) and CV mortality is positive but of moderate 
+magnitude. A meta-analysis found a hazard ratio [HR] of 
+2.07 (95% confidence interval [CI]: 1.48–2.91) for CV 
+mortality  in patients  with severe OSA (AHI ≥30 events/
+hour) versus controls, while another study found a relative 
+risk (RR) of 1.79 (95% CI: 1.47–2.18) for CV events at 
+this severity level.19 Dose-response analyses show that 
+each 10-event/hour increase in AHI is associated with 
+a 9–17% increase in CV event risk. The strength of this 
+association varies by subgroup: the risk is more prominent 
+in men under 70 years and individuals with excessive 
+daytime sleepiness. The risk is lower or nonsignificant for 
+mild-to-moderate OSA, indicating a dose-response effect 
+with greater impact at higher AHI levels.20 (see Important 
+Note 3).
+As shown in Figure  1, the flowchart provides a summary 
+of the management of obesity and its complications, guided 
+by cardiovascular risk assessment.
+Table 3 –  Cardiovascular Risk Assessment in Individuals with Overweight or Obesity
+ASCVD RISK DEFINITION
+LOW
+<5% at 10 years· Individuals with overweight or obesity with BMI <40 kg/m² aged <30 years without CV risk 
+factors (see Important Note 1).
+· Individuals with overweight or obesity aged ≥30 years with total ASCVD risk by PREVENT 
+score <5% at 10 years.
+MODERATE
+5% to <20% at 10 years· Individuals with overweight or obesity with BMI <40 kg/m² without prior CV events, with ≥1 
+risk factor (see Supplement 1).
+· Individuals with overweight or obesity with BMI <40 kg/m² in primary prevention, with total 
+CV risk by PREVENT score 5% to <20% at 10 years.
+HIGH
+≥20% at 10 years· Established coronary artery disease, myocardial infarction (MI), ischaemic stroke or 
+transient ischaemic attack (TIA), peripheral artery disease (PAD), arterial revascularisation in 
+any territory.
+• Primary prevention with total CV risk by PREVENT score ≥20% at 10 years.
+• Type 2 diabetes duration >10 years.
+• Chronic kidney disease stage 3b/4/5 (see Important Note 1).
+• Coronary artery calcium (CAC) score >100 Agatston Units (AU) (without diabetes) or >10 
+AU (with diabetes), Lp(a) >50 mg/dL or >125 nmol/L, familial hypercholesterolaemia (FH), or 
+LDL-C >190 mg/dL.
+11
+
+Arq Bras Cardiol. 2025; 122(9):e20250621
+Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+HIGH HF RISK
+≥20% at 10 years· BMI >40 kg/m2, even if asymptomatic.
+· Individuals with obesity plus diabetes and hypertension.
+· Severe obstructive sleep apnoea (OSA)
+· Atrial fibrillation.
+· Chronic kidney disease stage 3b/4/5 (see Important Note 1).
+· Elevated NT-proBNP or BNP .
+· PREVENT HF risk score ≥20% at 10 years.
+· Established ASCVD.
+· Symptoms suggestive of HF.
+Note: For convenience, the moderate risk category encompasses both borderline (5-7.5% over 10 years) and intermediate (7.5 to 
+<20% over 10 years) risk levels.
+Legends:  Agatston Units: AU; ASCVD: atherosclerotic cardiovascular disease;  BMI: body mass index; CVD: Cardiovascular 
+disease; HF: Heart failure; CAD: Coronary artery disease; CKD: Chronic kidney disease; CAC: Coronary artery calcium; FH: Familial 
+hypercholesterolaemia; OSA: Obstructive sleep apnea; Lp(a): Lipoprotein(a); LDL-c: Low-density lipoprotein cholesterol; BNP: 
+B-type natriuretic peptide, NT-proBNP:  N-terminal pro-B-type natriuretic peptide
+Treatment of Obesity and its Complications 
+Based on Cardiovascular Risk
+Moderate ASCVD Risk:
+●GLP-1 RA (Obesity): ↓risk factors
+●Tirzepatide (Obesity): ↓risk factors, ↓OSA
+●LSM with >5% weight loss (Obesity): ↓CV risk factors
+Established ASCVD: Secondary Prevention
+●Semaglutide SC 2.4 mg (Obesity): ↓ MACE and ↓All-cause mortality
+●Oral Semaglutide (T2D): ↓MACE
+●SGLT2i (T2D): ↓MACE
+●Combination SGLT2i+Semaglutide (T2D): ↓MACE
+●Bariatric Surgery (Obesity BMI>35): ↓ MACE
+Established HF: 
+●
+LSM with >10% weight loss: 
+ ↑
+QoL, 
+↑
+Cardiac function, 
+ ↑
+Exercise capacity
+●
+SGLT2i: 
+↓
+HF hospitalization and 
+ ↓
+CV death
+●
+Combination SGLT2i+Semaglutide (HFpEF): 
+ ↓
+HF
+-
+related outcomes, 
+ ↓
+All
+-
+cause 
+mortality
+●
+Semaglutide or tirzepatide (HFpEF): 
+ ↑
+QoL, 
+↓
+HF symptoms
+●
+GLP
+-
+1 RA (HFrEF 
+ -
+NYHA II,III): 
+ ↓
+weight, 
+↑
+QoL
+●
+Bariatric surgery (BMI>35) (cautiously): 
+ ↓
+HF hospitalization and 
+ ↑
+Cardiac 
+function
+High HF Risk
+ :
+●
+Semaglutide SC (HFpEF): 
+ ↑
+QoL, 
+↓
+onset of HF symptoms
+●
+Tirzepatide (HFpEF): 
+ ↑
+QoL, 
+↓
+onset of HF symptoms
+●
+Semaglutide
+ SC (obesity): 
+ ↓
+HF with high 
+ ASCVD
+ risk
+●
+Combination: SGLT2i + semaglutide or tirzepatide: 
+ ↓
+MACE
+●
+Bariatric surgery [Obesity BMI>35 kg/m²]: 
+ ↓
+HF risk
+High Risk with Diabetes (Primary Prevention)
+●Liraglutide 1.8: ↓MACE
+●Dulaglutide 1.5: ↓ MACE
+●Semaglutide SC 1.0 and oral semaglutide : ↓MACE
+●Semaglutide SC 1.0 mg (CKD and T2D): ↓MACE, ↓Kidney outcomes
+●SGLT2i (Subclinical CAD): ↓MACE
+●LSM with >10% weight loss ( Obesity+T2D ): ↓MACE
+Legend: ASCVD :atherosclerotic cardiovascular disease; BMI: body mass index;  CAD: coronary 
+artery disease; CKD: chronic kidney disease; CVD: cardiovascular disease; DLP: dyslipidemia; GLP-
+1 RA: GLP -1 receptor agonist; GLP-1/GIP RA : dual GLP -1/GIP receptor agonist; HF: heart failure; 
+HF-related outcomes : outcomes related to heart failure; HFpEF: heart failure with preserved 
+ejection fraction; HFrEF: heart failure with reduced ejection fraction; HTN: hypertension; IS: 
+ischemic stroke; LSM: lifestyle modification; MACE : major adverse cardiovascular events (CV 
+death, non -fatal MI, and non -fatal stroke); NYHA : New York Heart Association; OSA: obstructive 
+sleep apnea; QoL: quality of life; Revascularization : arterial revascularization surgery; T2D: type 2 
+diabetes
+IS RECOMMENDED MUST  BE CONSIDERED   CAN  BE CONSIDERED   
+Figure 1 –  Treatment of Obesity and its Complications Based on Cardiovascular Risk
+Important Note 2: Additional testing for HF
+• Individuals with elevated NT-proBNP or BNP or with HF symptoms should undergo further diagnostic evaluation.
+• NT-proBNP and BNP levels must be interpreted in the context of obesity, as lower levels are observed in individuals with 
+obesity compared with individuals without obesity.8
+• The NT-proBNP exclusion threshold for HF (<125 pg/mL) has low sensitivity (67%) in individuals with a BMI >35 kg/m2. In 
+these individuals, a lower exclusion threshold (50 pg/L) showed higher sensitivity (93–98%). Conversely, the inclusion threshold 
+>220 pg/ml achieved higher specificity (82–89%).21
+• Using NT-proBNP or BNP alone to guide HF diagnosis in individuals with obesity requires careful consideration. When the 
+clinical signs and symptoms of HF are present, even with normal values, additional diagnostic testing is recommended.17,21
+• In conditions such as atrial fibrillation, further investigation with echocardiography, electrocardiography, or 24-hour Holter 
+monitoring may be necessary.
+12
+
+Arq Bras Cardiol. 2025; 122(9):e20250621Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+Part 2 – Weight Loss Targets
+ 
+2.1. Weight Loss Targets for Risk Factor Improvement
+R5. Class of 
+recommendationLevel of 
+evidence
+Sustained weight 
+reduction of at least 5%  
+is RECOMMENDED  in 
+individuals with overweight or 
+obesity at MODERATE ASCVD 
+RISK to reduce CV risk factors, 
+such as hypertension and 
+dyslipidaemia, and delay or 
+prevent type 2 diabetes onset.I A
+ 
+Summary of evidence (R5):
+• Lifestyle modification (LSM) studies including the Diabetes 
+Prevention Programme (DPP) and Look AHEAD study have 
+demonstrated that modest weight loss of at least 5% of body weight 
+significantly reduces cardiometabolic risk factors.22,23
+• The DPP randomised 3,234 individuals with prediabetes or 
+glucose intolerance to receive placebo, metformin (850 mg twice 
+daily), or a lifestyle intervention  targeting ≥7% weight loss and at 
+least 150 minutes of physical activity per week. After 2.8 years of 
+follow-up, lifestyle intervention reduced the incidence of diabetes 
+by 58% (95% CI: 48–66%), while metformin reduced it by 31% 
+(95% CI: 17–43%) compared with that observed with the placebo.22
+• The Look AHEAD study was a RCT that evaluated intensive 
+lifestyle intervention versus diabetes support and education in 
+5,145 adults with overweight or obesity (mean BMI = 36 kg/
+m²) and type 2 diabetes. The primary endpoint was a composite 
+of CV death, nonfatal myocardial infarction, nonfatal stroke, or 
+hospitalisation for angina. The trial was terminated early due 
+to futility after a median follow-up of 9.6 years. Although the 
+primary endpoint was not met, intensive lifestyle intervention 
+achieved higher weight loss (8.6% vs. 0.7% at 1 year; 6.0% vs. 
+3.5% at study end) and produced higher reductions in HbA1c 
+and CV risk factors [23]. The magnitude of weight loss at 1 year 
+was strongly associated with improvements in glycaemia, blood 
+pressure, triglyceride levels, and high-density lipoprotein (HDL) 
+cholesterol (p<0.0001) but not with low-density lipoprotein (LDL) 
+cholesterol (p = 0.79). Compared with stable-weight participants, individuals who lost 5 to <10% (7.25±2.1 kg) of body weight 
+had greater odds of achieving HbA1c reduction (odds ratio [OR] 
+3.52 [95% CI: 2.81–4.40]), 5 mmHg reduction in diastolic blood 
+pressure (OR 1.48 [1.20–1.82]), 5 mmHg reduction in systolic 
+blood pressure (OR 1.56 [1.27–1.91]), 40 mg/dL reduction in 
+triglyceride levels (OR 2.20 [1.71–2.83]), and 5 mg/dL increase 
+in HDL cholesterol (OR 1.69 [1.37–2.07]).24
+ 
+2.2. Weight Loss Targets for Cardiovascular Event Reduction 
+ 
+R6. Class of 
+recommendationLevel of 
+evidence
+Sustained reduction of at 
+least 10% from maximum 
+weight SHOULD BE 
+CONSIDERED  in adults 
+with overweight or obesity at 
+MODERATE or HIGH ASCVD 
+RISK to reduce CV events.IIa B
+  
+Summary of evidence (R6):  
+• The Da-Qing study was a Chinese RCT evaluating the effect 
+of 6-year lifestyle intervention outcomes in 577 individuals with 
+prediabetes and overweight (mean BMI = 25.7 kg/m2) on diabetes 
+incidence, CV events, microvascular complications, CV death, 
+all-cause mortality, and life expectancy. After 30 years of follow-
+up, reductions in CV events (HR 0.74, 95% CI: [0.59–0.92]), CV 
+death (HR 0.67, 95% CI: [0.48–0.94], p = 0.022), and all-cause 
+mortality (HR 0.74, 95% CI: [0.61–0.89], p = 0.0015) were 
+observed, and diabetes diagnosis was delayed by up to 4 years.25
+• Although the primary endpoint in the Look-AHEAD 
+study was not met, post hoc  observational analysis suggests an 
+association between initial weight loss magnitude and long-
+term CV event reduction in individuals with obesity and type 
+2 diabetes. Over a mean follow-up of 10.2 years (interquartile 
+range [IQR] 9.5–10.7),  individuals  who lost ≥10% of body weight 
+in the first year had 21% lower risk of the primary outcome 
+(adjusted HR: 0.79, 95% CI: 0.64–0.98; p = 0.034) and 24% 
+lower risk of the secondary outcome (adjusted HR 0.76, 95% CI: 
+0.63–0.91; p = 0.003) compared with that observed with those 
+who had stable weight or weight gain. In the analyses using the 
+control group as reference, participants who received intensive 
+lifestyle intervention  and lost ≥10% of body weight had 20% 
+lower risk of the primary outcome (adjusted HR: 0.80, 95% CI: Important Note 3: Classification of obstructive sleep apnoea
+The AHI is the most widely used measure for classifying OSA severity. It is calculated by summing Aneas and hypopneas 
+(respiratory flow reductions) and dividing by the total sleep hours (or hours of monitoring).
+• Normal: AHI <5 events/h.
+• Mild: AHI 5.0–14.9 events/h.
+• Moderate: AHI 15.0–29.9 events/h.
+• Severe: AHI ≥30 events/h.
+13
+
+Arq Bras Cardiol. 2025; 122(9):e20250621
+Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+0.65–0.99; p = 0.039) and 21% lower risk of the secondary 
+outcome (adjusted HR 0.79, 95% CI: 0.66–0.95; p = 0.011).26,27
+• The Semaglutide Effects on Cardiovascular Outcomes in 
+Individuals with Overweight or Obesity (SELECT) trial demonstrated 
+the superiority of semaglutide 2.4 mg subcutaneous (SC) over 
+placebo in reducing CV events in individuals with obesity and 
+established CVD. Notably, the observed CV benefit was associated 
+with a modest weight reduction of 9%.
+• Subsequent analyses indicated that achieving much benefit is 
+weight-loss independent, particularly for major adverse CV event 
+(MACE) reductions observed early in the trial before significant 
+weight loss was achieved. However, the contribution of weight 
+loss to these benefits cannot be ruled out.28
+• Bariatric surgery has also shown reduction in CV events and 
+mortality in populations with obesity. The Swedish Obese Subjects 
+(SOS) study, a prospective, non-randomised cohort study, evaluated 
+4,047 individuals  with obesity (BMI ≥34 kg/m² for men and ≥38 
+kg/m² for women), of whom 2,010 underwent bariatric surgery 
+(gastric banding, vertical banded gastroplasty, or gastric bypass) and 
+2,037 received conventional obesity treatment. The mean follow-
+up duration was 14.7 years. Mean weight loss in the surgical group 
+at 10 years was 17% (vs. 1% in the conventional treatment group). 
+For composite CV events (fatal and nonfatal myocardial infarction, 
+fatal and nonfatal stroke, angina pectoris, and HF), the surgical 
+group showed a significant 33% reduction, plus 53% reduction in 
+CVD death (HR 0.47; 95% CI: 0.29–0.76; p = 0.002) compared 
+with that observed with conventional treatment. Although surgery-
+specific effects cannot be excluded, the fact that >80% of the 
+procedures were restrictive (vertical banded gastroplasty and gastric 
+banding, where hormonal effects contributing to weight loss are 
+less relevant) indicates that the main factor associated with MACE 
+reduction was significant (>15%), and it sustained weight loss.29
+• Based on the available evidence, the panel recommends a 
+weight loss target of at least 10% from maximum lifetime weight30 
+for individuals at moderate or high ASCVD risk, as a strategy to 
+reduce CV events.
+2.3. Weight Loss Targets for Atrial Fibrillation-Related 
+Complications
+R7.Class of 
+recommendationLevel of 
+evidence
+Sustained weight 
+reduction of at least 10% 
+is RECOMMENDED  in 
+individuals with obesity and 
+paroxysmal or permanent atrial 
+fibrillation (AF) to reduce the 
+risk of AF-related complications.I B
+Summary of evidence (R7):
+• Weight reduction in individuals with obesity has 
+demonstrated a positive impact on reducing symptom burden 
+and AF recurrence.31
+• A single-centre, partially blinded RCT conducted in Australia 
+that enrolled 150 individuals with obesity or overweight and AF showed that a structured weight management programme 
+significantly reduced symptom burden, severity, and number of 
+AF episodes over 15 months of follow-up. The intervention group 
+compared with the control group lost more weight (14.3 kg vs. 
+3.6 kg) and had higher reductions in symptom severity scores and 
+interventricular septal thickness.32
+• Another meta-analysis revealed that weight loss of at least 
+10% is associated with lower AF recurrence, reduced AF burden, 
+and improved symptom severity.33 Similarly, weight loss following 
+catheter ablation reduced AF recurrence at 12 months of follow-up.34
+• In the SOS study, bariatric surgery reduced the risk of new-
+onset AF compared with that observed with usual care. Risk 
+reduction was more pronounced in younger individuals and those 
+with elevated diastolic blood pressure.35
+Part 3. Obesity Management
+ 
+3.1. Lifestyle Modification
+R8. Class of 
+recommendationLevel of 
+evidence
+Adoption of lifestyle 
+modification measures (LSM) 
+is RECOMMENDED  for all 
+individuals with overweight or 
+obesity, regardless of CV risk, to 
+reduce weight, improve health 
+and quality of life, and prevent 
+hypertension, type 2 diabetes, 
+dyslipidaemia, ASCVD, and HF .I A
+ Summary of evidence (R8):
+• Lifestyle modification measures (LSM) in individuals with 
+overweight or obesity should include a dietary programme with 
+appropriate and healthy macronutrient distribution combined 
+with aerobic and resistance exercises.36
+• The LSM approach should be multidisciplinary, with 
+a team including a dietitian, exercise physiologist and 
+psychologist, delivered through individual or group sessions. 
+Incorporation of LSM should not delay the initiation of anti-
+obesity pharmacotherapy, when indicated.37
+• Nutritional counselling should focus on reducing portion 
+sizes, increasing intake of fruits and vegetables, and reducing 
+consumption of alcohol and ultra-processed foods. Moreover, 
+it should target an initial energy deficit of 500–750 kcal/day, 
+which will need further adjustments based on body weight and 
+individual activity levels.37
+• RCTs evaluating medications with moderate weight loss 
+effects, including sibutramine,38 liraglutide,39 and bupropion/
+naltrexone combination,40 demonstrated that combination with 
+LSM produced superior results for body weight reduction and 
+cardiometabolic risk factors.
+• The advent of more potent anti-obesity medications, such as 
+semaglutide41 and tirzepatide,42 has led to the possibility of greater 
+14
+
+Arq Bras Cardiol. 2025; 122(9):e20250621Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+caloric deficits and, as a result, enhanced weight reduction. In this 
+context, it is essential to closely monitor the consumption of various 
+macronutrients, particularly protein, to avoid sarcopenia and 
+nutritional deficiencies. This approach will ensure the establishment 
+of healthy and sustainable eating habits.43
+• Similarly, a healthy diet can be achieved with dietary patterns 
+rich in fresh and minimally processed foods, such as Mediterranean 
+and Dietary Approaches to Stop Hypertension diets, which include 
+whole grains, fruits and vegetables, lean white meats, and plant 
+protein sources such as legumes and nuts.44,45 These dietary 
+patterns reduce cardiometabolic risk45 and may serve as references 
+but should be adapted for Brazilian preferences and contexts to 
+support adherence.46 Limiting the intake of ultra-processed foods 
+rich in saturated fats and refined sugars is also recommended, as 
+these have been linked to poorer body composition and elevated 
+all-cause and cardiovascular mortality rates.47
+3.2. Pharmacotherapy Management for Reducing Events And 
+risk Factors
+ 
+3.2.1. Obesity and Moderate or High ASCVD Risk
+R9. Class of 
+recommendationLevel of 
+evidence
+Treatment with a glucagon-like 
+peptide-1 (GLP-1) receptor 
+agonist (GLP-1 RA) or 
+GLP-1/Glucose-dependent 
+insulinotropic polypeptide 
+(GIP) receptor co-agonist is 
+RECOMMENDED  for adults 
+with overweight or obesity at 
+MODERATE or HIGH ASCVD 
+RISK to reduce weight and CV 
+risk factors.I A
+ 
+Summary of evidence (R9):
+• Liraglutide, a GLP-1 RA with weight loss efficacy at 3.0 mg/
+day, had its effects on obesity and complications evaluated in 
+the Satiety and Clinical Adiposity–Liraglutide Evidence (SCALE) 
+programme. The SCALE Obesity and Prediabetes trial randomised 
+2,254 patients to receive liraglutide 3.0 mg or placebo. After 56 
+weeks, 63.2% and 33.1% of the patients lost >5% and >10% 
+of initial weight, respectively. After 3 years, the risk of developing 
+diabetes was reduced by 79% in patients with prediabetes; patients 
+on liraglutide compared with those on placebo took 2.7 times 
+longer to develop diabetes.48
+• A post hoc  analysis using pooled data from 5,908 individuals 
+across 5 RCTs in the SCALE programme (liraglutide vs. placebo 
+or orlistat) demonstrated the CV safety of liraglutide 3.0 mg in 
+individuals with obesity.49
+• The Semaglutide Treatment Effect in Individuals with Obesity 
+(STEP 1) trial included 1,961 patients with overweight or obesity 
+without type 2 diabetes who were followed up for 68 weeks. All 
+individuals received a reduced-calorie diet with 500 kcal/day deficit and counselling for 150 minutes of weekly physical activity. At the 
+end of the study, participants in the semaglutide 2.4 mg group 
+lost 16.9% of body weight, with nadir around week 60, while 
+the placebo group lost 2.4%.50
+• Tirzepatide, a GLP-1/GIP receptor co-agonist, also 
+demonstrated efficacy in reducing progression to diabetes 
+in patients with obesity and prediabetes. In an analysis of 
+SURMOUNT-1 including 1,032 individuals with obesity and 
+prediabetes treated with tirzepatide for approximately 3 years 
+(176 weeks), type 2 diabetes incidence was lower than that 
+observed with the placebo (1.3% vs. 13.3%; HR 0.07 [95% CI: 
+0.0–0.1; p < 0.001). Additionally, after 17 weeks of tirzepatide 
+discontinuation, 2.4% of the tirzepatide group vs. 13.7% of the 
+placebo group developed type 2 diabetes (HR 0.12, 95% CI: 
+0.1–0.2; p < 0.001). In absolute terms, 99% of individuals with 
+prediabetes who received tirzepatide remained diabetes-free. 
+Mean weight loss in the tirzepatide 5 mg, 10 mg, and 15 mg 
+groups was -12.3%, -18.7%, and -19.7%, respectively, versus 
+-1.3% in the placebo group at 3 years (p < 0.001 versus placebo 
+for all comparisons). Furthermore, weight loss exceeding 20% was 
+associated with an HR for type 2 diabetes progression of 0.07, 
+with a number need to treat (NNT) of 9 to prevent one case, and 
+with 92% of patients achieving normoglycaemia, reinforcing the 
+importance of weight loss in diabetes prevention.51
+• Regarding individuals with obesity and diabetes, 
+a systematic review evaluated the effect of non-insulin 
+antidiabetic medications on weight loss in individuals with type 
+2 diabetes across multiple RCTs. Liraglutide, semaglutide, and 
+tirzepatide resulted in greater weight loss compared with that 
+observed with other therapeutic classes (weight loss >5%).52
+R10. Class of 
+recommendationLevel of 
+evidence
+Use of other anti-obesity 
+medications with proven 
+CV safety MAY BE 
+CONSIDERED  in adults 
+with overweight or obesity at 
+MODERATE or HIGH ASCVD 
+RISK when GLP-1 RA or GLP-
+1/GIP receptor co-agonist are 
+unavailable for treatment (see 
+Table 4  ).IIb B
+ Summary of evidence (R10):
+• Orlistat is a gastric and pancreatic lipase inhibitor that 
+promotes weight reduction by reducing the absorption 
+of 30% of ingested fat. The ‘Xenical in the prevention 
+of diabetes in obese subjects’ study randomised 3,305 
+individuals  with obesity (BMI ≥30 kg/m²) and normal 
+glycaemia (79%) or impaired glucose tolerance (21%) to 
+orlistat (120 mg TID) or placebo, both with LSM. After 4 
+years of treatment, cumulative diabetes incidence was 
+9% in the placebo group vs. 6.2% in the orlistat group, 
+corresponding to a risk reduction of 37.3% (p = 0.0032). 
+Exploratory analysis demonstrated that greater weight loss 
+15
+
+Arq Bras Cardiol. 2025; 122(9):e20250621
+Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+was the primary determinant of diabetes prevention. Over 
+4 years, individuals using orlistat lost more weight than that 
+observed using placebo (5.8 versus 3.0 kg, respectively; 
+p < 0.001).53
+• In a meta-analysis of four RCTs evaluating naltrexone/
+bupropion combination versus placebo at 1 year, the 
+weight loss difference was 5.0 kg (95% CI: 3.96–5.94). 
+Compared with placebo, 55% (48–61%) of patients taking 
+the medication  achieved  ≥5% weight loss, and 30% 
+(24–37%)  achieved  ≥10% weight loss.54 In the Contrave 
+Obesity Research-Diabetes study evaluating patients with 
+type 2 diabetes, treated patients had a mean reduction 
+of 11.2% in triglycerides (versus -0.8% with placebo) and 
+an increase of 3.0±0.5 mg/dL in HDL cholesterol (versus 
+-0.3±0.6 mg/dL with placebo), with no significant effect 
+on LDL cholesterol.55
+• CV safety of naltrexone/bupropion was evaluated in 
+the LIGHT trial (n = 4,454), which was terminated early 
+following the public disclosure of confidential interim data. 
+However, 50% of the pre-specified events had occurred. 
+MACEs were reported in 102 patients (2.3%) in the 
+placebo group and 90 patients (2.0%) in the naltrexone/
+bupropion group (HR 0.88; 99.7% CI 0.57–1.34). These 
+findings support the CV safety of naltrexone/bupropion 
+over a mean follow-up period of 2 years, during which 
+weight loss was maintained.56 A subsequent systematic 
+review and meta-analysis further confirmed the CV safety 
+profile of the therapy.57
+• Medications approved in Brazil for obesity treatment 
+that have presented superior weight loss and CV safety 
+when compared to placebo are listed in Table 4 . The most 
+common adverse events and contraindications observed 
+are listed in Table 5 .58
+3.2.2. Obesity and Established ASCVD Risk
+ 
+R11. Class of 
+recommendationLevel of 
+evidence
+Treatment with 
+semaglutide 2.4 mg is 
+RECOMMENDED  in 
+individuals with a BMI ≥27 
+kg/m² without diabetes 
+and with established CVD 
+(secondary prevention) 
+to reduce CV death, 
+myocardial infarction, and 
+stroke ( Figure 1 ).I B
+Summary of evidence (R11):
+• The SELECT trial was an RCT including 17,604 
+individuals, with overweight or obesity with a mean 
+age of 61.6 years and BMI of 33.34 kg/m², designed to 
+evaluate the secondary prevention of CV events. The 
+study population had no prior diabetes diagnosis, with 
+established CV disease as an inclusion criterion. Mean weight loss of 9% was achieved. The results demonstrated 
+a 20% reduction in MACE (CV death, nonfatal myocardial 
+infarction, and nonfatal stroke) (6.5% versus 8.0% with 
+placebo, HR 0.80, 95% CI: 0.72–0.90, p < 0.001).59
+R12. Class of 
+recommendationLevel of 
+evidence
+Use of sibutramine is 
+NOT RECOMMENDED in 
+individuals with obesity 
+and high ASCVD risk.III B
+Summary of evidence (R12):
+• The ‘Effect of Sibutramine on Cardiovascular 
+Outcomes in Overweight and Obese Subjects’ (SCOUT) 
+study evaluated sibutramine versus placebo in individuals 
+with overweight/obesity, prior CVD and/or type 2 diabetes 
+plus one CV risk factor. The risk of a primary endpoint 
+event (nonfatal myocardial infarction, nonfatal stroke, 
+resuscitation after cardiac arrest, or CV death) was 11.4% 
+in the sibutramine group compared with 10.0% in the 
+placebo group (HR 1.16; 95% CI: 1.03–1.31; p = 0.02). 
+Therefore, this panel considers sibutramine use not 
+recommended in individuals with obesity and high ASCVD 
+risk or chronic CAD.60
+ 
+3.2.3. Obesity and Type 2 Diabetes
+R13. Class of 
+recommendationLevel of 
+evidence
+Pharmacological treatment 
+with a GLP-1 RA 
+(liraglutide, dulaglutide, or 
+semaglutide SC or oral) 
+is RECOMMENDED  
+in individuals with type 
+2 diabetes, obesity or 
+overweight and HIGH 
+ASCVD risk to reduce 
+CV events.I A
+ Summary of evidence (R13):
+• Six CV outcome RCTs—LEADER, SUSTAIN-6, 
+REWIND, HARMONY, AMPLITUDE-O, and SOUL—
+consistently demonstrated the efficacy and safety of GLP-
+1 RAs in individuals with type 2 diabetes, additionally 
+showing secondary protective effects in individuals with 
+type 2 diabetes and CVD.61. 
+• A systematic review with meta-analysis of RCTs in 
+patients with type 2 diabetes demonstrated that GLP-1 RAs 
+significantly reduce composite MACE (CV death, nonfatal 
+myocardial infarction, and nonfatal stroke) by 14% and 
+all-cause mortality by 12%. GLP-1 RAs also reduced HF 
+16
+
+Arq Bras Cardiol. 2025; 122(9):e20250621Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+Table 4 –  Summary of the main effects of approved anti-obesity medications  in Brazil
+SIBUTRAMINE ORLISTATE LIRAGLUTIDA SEMAGLUTIDE TIRZEPATIDENALTREXONE/ 
+BUPROPION
+Prediabetes
+Type 2 Diabetes Glycemic 
+Control
+Lipid Profile
+ Blood Pressure
+Obstructive Sleep Apnea
+Polycystic Ovary Syndrome
+Male Hypogonadism
+Metabolic Dysfunction-
+Associted Steatotic Liver 
+Disease
+Osteoarthritis
+Chronic Kidney Disease
+Cardiovascular Disease Ongoing
+Heart Failure
+Quality of Life
+NO EVIDENCECAUTION: CLINICAL 
+TRIALS WITH 
+ADVERSE EVENTS 
+THAT WARRANT 
+ATTENTIONCV RISK:  
+CLINICAL TRIALS 
+WITH CV RISK FOR 
+HIGH-RISK PATIENTSMINOR/OBS.: MINOR 
+CLINICAL TRIALS 
+AND OBSERVATIONAL 
+STUDIESROBUST 
+RANDOMIZED 
+CLINICAL TRIALS OR 
+META-ANALYSES
+*Studies primarily designed for diabetes treatment were excluded
+Adapted from Moreira et al.58
+Table 5 –  Most common and specific side effects of the anti-obesity pharmacologic agents
+Medication More than 10% of patients Specific side effects that deserve attention
+Sibutramine 10-15 mg Constipation, xerostomia, insomniaTachycardia/increased heart rate, increased blood 
+pressure, headache, anxiety
+Orlistat 120 mg 3 x/dayDiarrhea/steatorrhea/urgency, flatulence, 
+upper respiratory tract infections/flu, 
+headache, hypoglycemiaHypersensitivity reactions, long-term deficiency of fat-
+soluble vitamins
+Liraglutide 3.0 mg/day Nausea and vomiting, diarrhea, constipationInjection site reactions, increased heart rate, insomnia, 
+cholelithiasis, asthenia and fatigue, hypoglycemia
+Semaglutide 2.4 mg/weekNausea and vomiting, diarrhea, constipation, 
+abdominal pain, headache, fatigueInjection site reactions, increased heart rate, 
+cholelithiasis, hypoglycemia
+Tirzepatide 10 and 15 mg/
+weekHypoglycemia (when used with sulfonylureas 
+or insulin), nausea, diarrheaHypersensitivity reactions, increased heart rate, 
+injection site reactions
+Naltrexone/Bupropion  
+360/32 mg/dayNausea, constipation, headache, vomitingSuicidal thoughts or actions, seizures, risk of opioid 
+overdose, sudden opioid withdrawal, severe allergic 
+reactions, increased blood pressure or heart rate, 
+hepatitis, manic episodes, narrow-angle glaucoma, 
+hypoglycemia (when used with sulfonylureas or 
+insulin), serotonin syndrome
+Adapted from Moreira et al.58
+17
+
+Arq Bras Cardiol. 2025; 122(9):e20250621
+Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+hospitalisations by 11% and composite kidney outcomes by 
+21%. Notably, these clinical benefits occur without increased 
+risk of severe hypoglycaemia, retinopathy, or pancreatic 
+adverse events, reinforcing the safety profile of these agents 
+in managing obesity and type 2 diabetes.62.
+• A systematic review with network meta-analysis 
+demonstrated that GLP-1 RAs significantly reduced all-
+cause and CV mortality, as well as incidence of nonfatal 
+myocardial infarction, nonfatal stroke, kidney failure, and 
+HF hospitalisations in individuals with type 2 diabetes.63
+• The SOUL trial is a double-blind, placebo-controlled 
+RCT that evaluated the CV efficacy of oral semaglutide in 
+9,650 patients with type 2 diabetes and ASCVD, chronic 
+kidney disease (CKD), or both. After a mean follow-up of 
+47.5 months, oral semaglutide significantly reduced MACE 
+risk, including CV death, nonfatal myocardial infarction, 
+and nonfatal stroke. Event incidence was 3.1 per 100 
+person-years in the semaglutide group versus 3.7 per 100 
+person-years in the placebo group, yielding a 14% relative 
+risk reduction (HR 0.86; 95% CI: 0.77–0.96; p = 0.006).64
+3.2.4. Obesity, Type 2 Diabetes, and Chronic Kidney 
+Disease  
+ 
+R14. Class of 
+recommendationLevel of 
+evidence
+Use of semaglutide 1.0 mg 
+SC once a week SHOULD 
+BE CONSIDERED  in 
+patients with obesity 
+or overweight, type 2 
+diabetes, and CKD with 
+eGFR ≥ 25 mL/min/1.73 
+m2 to reduce cardiorenal 
+events.IIa B
+Summary of evidence (R14):
+• The ‘Effect of semaglutide versus placebo on the 
+progression of renal impairment in individuals with type 
+2 diabetes and chronic kidney disease’ (FLOW) trial was a 
+multicentre study that included 3,534 participants with type 
+2 diabetes, CKD, and overweight or obesity to investigate 
+the effect of weekly SC semaglutide on kidney disease 
+progression. The composite primary endpoint was persistent 
+eGFR decline of ≥50% from baseline,  end-stage  kidney 
+disease, death from kidney disease, or CV death. The trial 
+was stopped early for efficacy. The trial achieved a significant 
+24% reduction in kidney disease progression and CV and 
+kidney mortality for individuals treated with semaglutide 1.0 
+mg. Additionally, semaglutide 1.0 mg had positive impacts on 
+other clinical outcomes: 21% reduction in CV death risk (HR 
+0.71; 95% CI: 0.56–0.89), 21% reduction in composite renal 
+outcomes (HR 0.79; 95% CI: 0.66–0.94), 18% reduction in 
+the risk of severe CV events (HR 0.82; 95% CI: 0.68–0.98; 
+p = 0.029), and a 20% reduction in all-cause mortality (HR 
+0.80; 95% CI: 0,67–0,95; p = 0,01).65Important Note 4 Use of Semaglutide in chronic kidney disease
+Semaglutide use can be considered when:
+• eGFR ≥ 50–75 ml/min/1.73 m2 and ACR > 300 to 
+<5,000 mg/g.
+• eGFR = 25–50 ml/min/1.73 m2 and ACT >100 and 
+<5,000 mg/g.
+• eGFR = 15–25 mL/min/1.73 m2 (use with caution as 
+evidence is lacking).
+• Should be avoided when eGFR <15 mL/min/1.73 m2.
+ 
+3.2.5. Obesity and Obstructive Sleep Apnoea
+ 
+R15. Class of 
+recommendationLevel of 
+evidence
+Weight loss IS 
+RECOMMENDED  for 
+individuals with obesity 
+and obstructive sleep 
+apnoea to improve its 
+severity and/or achieve 
+remission.I C
+Summary of evidence (R15):
+• Evidence regarding the impact of obesity treatment on 
+obstructive sleep apnoea severity and remission has gained 
+increasing attention but still presents significant limitations.66
+• Regarding non-pharmacological measures, small, 
+randomised studies with short follow-up durations have indicated 
+that interdisciplinary weight reduction strategies can reduce 
+obstructive sleep apnoea severity, particularly in milder cases.67,68.
+• Remission (normalisation of the apnoea-hypopnea index 
+without need for specific treatments, such as continuous positive 
+airway pressure (CPAP)), may occur in some cases. Importantly, to 
+achieve these results, some studies have adopted highly restrictive 
+intervention measures that are difficult to implement broadly in 
+the long-term.69
+R16. Class of 
+recommendationLevel of 
+evidence
+Use of liraglutide combined 
+with lifestyle modification 
+MAY BE CONSIDERED  
+in individuals with obesity 
+and moderate-to-severe 
+obstructive sleep apnoea 
+to reduce its severity.IIb B
+ Summary of evidence (R16):
+• Regarding pharmacological obesity treatment, randomised 
+trial evidence is currently limited to two studies that have tested 
+two medications (liraglutide and tirzepatide).70,71
+18
+
+Arq Bras Cardiol. 2025; 122(9):e20250621Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+• The SCALE study tested liraglutide 3.0 mg daily for 
+32 weeks in individuals with obesity without diabetes 
+who had moderate or severe OSA and were not using or 
+had not tolerated CPAP adjunctive to diet and exercise. 
+After 32 weeks, mean AHI reduction was greater with 
+liraglutide than with placebo (-12.2 vs. -6.1 events/h), 
+paralleling greater mean weight loss with liraglutide versus 
+placebo (-5.7% vs. -1.6%). This study showed that residual 
+AHI remained significant, suggesting that patients did not 
+achieve OSA remission.70
+ 
+R17. Class of 
+recommendationLevel of 
+evidence
+Use of tirzepatide 
+combined with 
+LSM SHOULD BE 
+CONSIDERED in 
+individuals with obesity 
+and moderate-to-severe 
+OSA to reduce its severity 
+and/or achieve remission.IIa B
+ 
+Summary of evidence (R17):
+• The SURMOUNT-OSA trial was a multicentre RCT 
+including 469 patients with obesity and moderate-to-
+severe OSA, with or without prior CPAP use, randomised 
+to the tirzepatide or placebo group. Compared with the 
+placebo, tirzepatide treatment at 10–15 mg weekly for 52 
+weeks resulted in 16–17% weight reduction in both sub 
+studies (with or without prior CPAP use). Weight loss was 
+accompanied by AHI reductions of 20 and 24 events per 
+hour compared with that observed with the placebo, and 
+relative event reductions of 48% and 56% in patients with 
+and without CPAP , respectively. A significant proportion 
+achieved OSA remission or ‘non-clinically relevant’ 
+apnoea (mild or asymptomatic).71
+Important Note 5: Tirzepatide in OSA
+The SURMOUNT-OSA clinical trial led the Food and 
+Drug Administration to approve tirzepatide as the first 
+medication for treating moderate-to-severe OSA in 
+individuals with obesity, to be used with a reduced-calorie 
+diet and increased physical activity.72
+The benefits of tirzepatide in reducing OSA severity, body 
+weight, and cardiometabolic markers were observed in 
+individuals, regardless of CPAP use.
+Randomised studies and meta-analyses have shown 
+that OSA treatment with CPAP alone does not promote 
+weight reduction. Therefore, additional weight reduction 
+measures should be implemented.73 3.2.6. Obesity and Heart Failure
+ 
+R18. Class of 
+recommendationLevel of 
+evidence
+Weight reduction is 
+RECOMMENDED  in 
+individuals with obesity and 
+established HF to improve 
+quality of life, cardiac function, 
+and exercise capacity.I A
+ 
+Summary of evidence (R18):
+• A meta-analysis of 19 RCTs and observational studies 
+involving 449,882 individuals with obesity showed that 
+weight loss, although it does not reduce mortality, improves 
+quality of life, ventricular function, and exercise capacity.74
+• A meta-analysis of 29 studies showed that intentional 
+weight loss through interventions, such as bariatric surgery, 
+can improve cardiac function and quality of life in patients 
+with HF and obesity. Bariatric surgery was associated with 
+reduced risk of developing HF and improvements in diastolic 
+function and left ventricular mass. A J-curve was observed 
+between BMI and HF risk, with maximum risk in severe 
+obesity (BMI >40 kg/m2) of 1.73 (95% CI: 1.30–2.31), p < 
+0.001). Although the obesity paradox was observed for all-
+cause mortality, the overweight group was associated with 
+lower CV mortality (OR 0.86, 95% CI: 0.79–0.94), with no 
+significant difference among other BMI categories. Bariatric 
+surgery-induced weight loss in individuals with obesity 
+without established HF , atrial fibrillation, or known CAD was 
+associated with reduced left ventricular mass (p < 0.0001), 
+improved  left ventricular  diastolic  function  (p ≤ 0.0001), 
+and reduced left atrial size (p = 0.02).75.
+ 
+R19. Class of 
+recommendationLevel of 
+evidence
+Use of semaglutide (2.4 
+mg weekly) or tirzepatide 
+(5–15 mg weekly) is  
+RECOMMENDED  in 
+individuals with obesity (BMI 
+≥30 kg/m²) and established 
+HFpEF to reduce weight and 
+improve quality of life and 
+HF-related symptoms.I A
+ 
+Summary of evidence (R19):
+• In individuals with established HFpEF , three clinical trials 
+have demonstrated efficacy in improving HF-related outcomes.
+• Two RCTs evaluated semaglutide 2.4 mg once weekly 
+in individuals with HFpEF and obesity, demonstrating that 
+the GLP-1 agonist improved HF-related symptoms, functional 
+capacity, and body weight.76,77
+19
+
+Arq Bras Cardiol. 2025; 122(9):e20250621
+Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+• The STEP-HFpEF trial was an RCT comparing semaglutide 
+SC 2.4 mg versus placebo in 529 individuals with obesity, 
+NYHA class II–IV HF , elevated natriuretic peptide levels (with 
+BMI-stratified thresholds at the start of the study), left ventricular 
+ejection fraction >45%, and evidence of echocardiographic 
+abnormalities. Most participants (84%) had left ventricular 
+ejection fraction ≥50%. Treatment  with semaglutide  2.4 mg 
+once weekly for 1 year resulted in a significant reduction in body 
+weight (13.3% vs. 2.6% with placebo) and improvements in the 
+Kansas City Cardiomyopathy Questionnaire Clinical Summary 
+Score (KCCQ-CSS) and 6-minute walk distance. Additionally, the 
+reduction in NT-proBNP levels was approximately 15% greater 
+with semaglutide than with the placebo.76
+• The STEP-HFpEF DM trial compared semaglutide 2.4 mg 
+SC with placebo in individuals with obesity and type 2 diabetes. 
+The results paralleled that of the STEP-HFpEF: semaglutide led to 
+greater reductions in HF-related symptoms and physical limitations 
+and higher weight loss after 1 year of treatment.77 
+• The SUMMIT trial was a 104-week RCT evaluating 
+tirzepatide (titrated to 15 mg SC weekly; n = 364) versus placebo 
+(n = 367) in patients with NYHA class II–IV HF , ejection fraction 
+≥50%, and BMI ≥30 kg/m². Worsening  HF events occurred  in 
+29 patients in the tirzepatide group (8.0%) and 52 patients in the 
+placebo group (14.2%) (HR 0.54; 95% CI: 0.34–0.85). CV death 
+occurred in 8 patients (2.2%) and 5 patients (1.4%), respectively 
+(HR 1.58; 95% CI: 0.52–4.83). Treatment with tirzepatide, 
+compared with placebo, reduced the composite endpoint of CV 
+or HF worsening and improved multiple health status measures 
+in this population, including the KCCQ-CSS, 6-minute walk 
+distance, health status index, and Patient  Global Impression of 
+Severity Overall Health Score.78
+ 
+R20. Class of 
+recommendationLevel of 
+evidence
+Use of SGLT2 inhibitors 
+(SGLT2i) is RECOMMENDED  
+in patients with overweight/
+obesity and established HF 
+(regardless of left ventricular 
+ejection fraction) to reduce 
+hospitalisation and CV death.I A
+Summary of evidence (R20):
+• A pre-specified meta-analysis of the DELIVER and EMPEROR-
+Preserved trials (n = 12,251) demonstrated that SGLT2i significantly 
+reduced the risk of CV death or HF hospitalisation in individuals 
+with preserved or mildly reduced ejection fraction (HR 0.80; 95% 
+CI: 0.73–0.87).79 In the DAPA-HF , EMPEROR-Reduced (reduced 
+ejection fraction), and SOLOIST-WHF (varied ejection fraction) 
+trials, the analysis of 21,947 individuals confirmed reductions in 
+CV death or HF hospitalisation (HR 0.77 [95% CI: 0.72–0.82]); CV 
+death (HR 0.87 [95% CI: 0.79–0.95]); first HF hospitalisation (HR 
+0.72 [95% CI: 0.67–0.78]); and all-cause mortality (HR 0.92 [95% 
+CI: 0.86–0.99]). The benefits were consistent across all subgroups, 
+including different ejection fraction ranges.
+ R21. Class of 
+recommendationLevel of 
+evidence
+The use of GLP-1 RAs 
+MAY BE CONSIDERED  
+in individuals with obesity 
+and HF with reduced 
+ejected fraction (HFrEF) for 
+weight reduction, with the 
+aim of improving quality 
+of life and HF-related 
+symptoms, except in NYHA 
+class IV HF .IIb B
+Summary of evidence (R21):
+• In patients with HFrEF , evidence for obesity treatment with 
+GLP-1 RAs is insufficient, and their safety remains debated.
+• In the FIGHT study, individuals with recent HFrEF 
+hospitalisation (mean ejection fraction, 27%) randomised to 
+receive liraglutide showed a numerical but nonsignificant increase 
+in HF hospitalisations.80
+• A post hoc  analysis of the same study among individuals 
+who received liraglutide for at least one follow-up visit showed 
+significant and safe weight reduction in this population (-1.96 kg, 
+approximately -4.1 pounds). The population had a median age 
+of 61 years, 21% were female, 69% had NYHA class III or IV , and 
+the median ejection fraction was 25% (IQR 19–32%).81
+• In the LIVE study including individuals with chronic HFrEF 
+allocated to the liraglutide group, there was also an increased risk 
+of adverse cardiac events, although only one death and one HF 
+hospitalisation occurred. Notably, the total number of adverse 
+cardiac events was low (12 [10%] with liraglutide vs. 3 [3%] with 
+placebo, p = 0.04).82
+• Importantly, neither study (FIGHT or LIVE) aimed to treat 
+HFrEF in individuals with obesity, and liraglutide was not used at 
+obesity treatment doses.
+• In a post hoc  analysis of SELECT including 1,347 
+individuals with HFrEF (mean BMI 33.4 kg/m²), semaglutide 
+reduced MACE risk by 35% and the composite of CV death 
+and HF hospitalisation/urgent visit by 21%, although the effect 
+on HF hospitalisations alone was not significant (HR 1.08; p 
+= 0.11).  Notably, approximately 60% of included individuals 
+had NYHA class II, and individuals with NYHA class IV HF 
+were excluded. Additionally, the adverse event rate during 
+follow-up was low.83
+• In a pre-specified analysis of STEP-HFpEF and STEP-
+HFpEF DM, semaglutide effects on primary outcomes and 
+body weight were similar across three groups based on 
+baseline ejection fraction (45–49%,  50–59%,  and ≥60%). 
+Similarly, left ventricular ejection fraction did not influence 
+semaglutide results for the following confirmatory secondary 
+endpoints: 6-minute walk distance (interaction p = 0.19), 
+hierarchical composite endpoint (interaction p = 0.43), and 
+high-sensitivity C-reactive protein.84 Despite these results, 
+all GLP-1 RAs, including semaglutide, are associated with a 
+modest increase in heart rate (3–5 bpm).85
+20
+
+Arq Bras Cardiol. 2025; 122(9):e20250621Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+Important Note 6: Weight loss in patients with HFrEF
+There are no RCTs evaluating weight loss in individuals with 
+obesity and HFrEF with NYHA class III–IV in terms of survival 
+improvement.
+For these patients, LSM recommendations including caloric 
+restriction should be implemented with careful clinical 
+monitoring. This is due to the potential risk of worsening 
+the catabolic state of the patient, which is often observed in 
+advanced HFrEF and could lead to the development of cachexia 
+and subsequent increased mortality.
+Further studies are needed to assess the safety of anti-obesity 
+medications in individuals with HFrEF and NYHA class III or 
+IV, particularly high-potency agents (semaglutide 2.4 mg and 
+tirzepatide 15 mg).
+3.2.7. Obesity in Individuals with High Heart Failure Risk
+R22. Class of 
+recommendationLevel of 
+evidence
+Use of semaglutide SC (2.4 
+mg weekly) or tirzepatide 
+(10–15 mg weekly) is 
+RECOMMENDED  in 
+individuals with class 3 obesity 
+(BMI ≥40 kg/m²) at high HF risk 
+to improve quality of life and 
+prevent HF-related symptomsI C
+ 
+Summary of evidence (R22):
+• Based on expert opinion, this panel recommends weekly 
+use of either semaglutide 2.4 mg SC or tirzepatide 10–15 mg for 
+potential prevention of HF-related outcomes in patients with class 
+3 obesity or at high HF risk. The panel based its recommendation 
+on studies conducted in patients with established HF ,76,78 as well 
+as on the plausible benefits in this population, given that HF 
+represents a continuous pathophysiological progress through 
+interconnected stages driven by various risk factors, among which 
+obesity plays a central role.17
+R23. Class of 
+recommendationLevel of 
+evidence
+The combination of an SGLT2i 
+and a GLP-1 RA MAY BE 
+CONSIDERED  for individuals 
+with obesity, type 2 diabetes, 
+and HF (or at high HF risk) to 
+achieve additional reduction of 
+HFpEF-related outcomes.IIa B
+ Summary of evidence (R23):
+• Real-world studies, meta-analyses of RCTs, observational 
+studies, and retrospective studies have indicated a potential 
+additive effect of SGLT2i/GLP-1 RA combination over monotherapy with either agent. This effect, however, requires confirmation in 
+RCTs. This panel assessed by expert opinion that there is plausibility 
+for additive effects of this combination, as these agents act through 
+different mechanisms, with potential for additive benefit. This 
+panel indicates that the SGLT2i/GLP-1 RA combination should be 
+considered for patients with obesity and HFpEF or at HF risk as it 
+has been associated with greater improvement of HFpEF-related 
+outcomes when compared with monotherapy alone.
+• A systematic review with meta-analysis indicates that 
+cardiorenal benefits may be enhanced with combination therapy 
+compared with monotherapy. The study evaluated the cardiorenal 
+effects of combining SGLT2i with GLP-1 RA compared with 
+monotherapy with each agent class in patients with type 2 diabetes. 
+Eligible studies were RCTs and observational studies comparing 
+SGLT2i or GLP-1 RA in combination or as a monotherapy. Five 
+RCTs and 10 post hoc  observational analyses were identified. 
+Compared with GLP-1 RA monotherapy, combination therapy 
+with SGLT2i and GLP-1 RA was associated with lower risk of HF-
+related outcomes (RR 0.63, 95% CI: 0.51–0.77, p < 0.001) and 
+all-cause mortality (RR 0.66, 95% CI: 0.50–0.88, p = 0.004) in 
+patients with type 2 diabetes [86].
+• A retrospective real-world study from a Spanish database 
+included 15,549 individuals with type 2 diabetes from 2018 
+to 2022, with 46% having obesity, 71% having hypertension, 
+15% having CAD, and 10% established HF . Three groups 
+were established according to the therapy used: 1) SGLT2i 
+monotherapy (n = 12,029; mean duration: 14 months), 2) GLP-
+1 RA monotherapy (n = 1,071; mean duration: 17 months), or 
+3) GLP-1 RA + SGLT2i (n = 2,449; mean duration: 14 months). 
+Data were analysed using 1:1 propensity score matching. The 
+median follow-up duration was 19 (8–33) months. Combination 
+therapy versus SGLT2i reduced the risk of HF events (HR 0.69; 
+95% CI: 0.56–0.87) and all-cause mortality (HR 0.68; 95% CI: 
+0.54–0.86). Multivariate Cox regression after propensity score 
+matching confirmed the benefit of combination therapy compared 
+with SGLT2i and GLP-1 RA monotherapy. Combined SGLT2i 
+and GLP-1 RA therapy was associated with reduced risk of HF 
+events and all-cause mortality compared with that observed with 
+monotherapy in this population.87
+3.3. Bariatric Surgery 
+3.3.1. Obesity Stage 2 and Moderate/High ASCVD Risk or 
+High HF Risk  
+R24. Class of 
+recommendationLevel of 
+evidence
+Bariatric surgery is 
+RECOMMENDED  for 
+individuals with a BMI ≥35 kg/
+m² at MODERATE or HIGH 
+ASCVD risk or at HIGH HF risk, 
+when patients fail to achieve 
+sustained weight loss and 
+CV risk factor improvement 
+with the available anti-obesity 
+treatment.I B
+21
+
+Arq Bras Cardiol. 2025; 122(9):e20250621
+Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+Summary of evidence (R24):
+• A systematic review and meta-analysis of 18 
+observational studies from population databases including 
+over 1.5 million patients evaluated obesity-related disease 
+incidence and overall mortality after a minimum 18-month 
+follow-up in bariatric surgery versus control groups. The 
+analysis identified that bariatric surgery is associated with 
+reduced all-cause mortality (OR 0.62; 95% CI: 0.55–0.69; 
+p < 0.001) and CV mortality (OR 0.50; 95% CI: 0.35–0.71; 
+p < 0.001). Additionally, there was reduced incidence of 
+type 2 diabetes (OR 0.39; 95% CI: 0.18–0.83), hypertension 
+(OR 0.36; 95% CI: 0.32–0.40), and dyslipidaemia (OR 0.33; 
+95% CI: 0.14–0.80).88
+• A longitudinal cohort study evaluated 1,724 patients 
+undergoing bariatric surgery (gastric banding and Roux-en-Y 
+gastric bypass), compared with controls matched for age, BMI, 
+sex, and Framingham score receiving conventional medical 
+treatment and followed up for up to 12 years (median 6.3 
+years). Surgery was associated with a 42% reduction in 
+MACE risk (HR 0.58; 95% CI: 0.42–0.82; p = 0.0018), 
+including myocardial infarction, stroke, and congestive HF . 
+The reduction in congestive HF was particularly marked 
+(HR 0.38; 95% CI: 0.22–0.64; p = 0.0003). Improvements 
+in CV risk factors (total cholesterol, HDL cholesterol, and 
+blood pressure) occurred within 1 year and Framingham 
+score improvements within 2 years.89
+• Concurrently, an observational study evaluated 20,235 
+individuals with class 2 or 3 obesity and type 2 diabetes from 
+2005 to 2010 in the United States, where 5,301 underwent 
+bariatric surgery and 14,934 served as controls, matched 
+for age, sex, BMI, and HbA1c. The primary outcome was 
+incidence of acute myocardial infarction, unstable angina, 
+percutaneous coronary intervention, or coronary artery 
+bypass grafting. After 5 years of follow-up, the bariatric 
+surgery group had lower incidence of the primary outcome 
+compared with the non-surgical group: 2.1% vs. 4.3% (HR 
+0.60, 95% CI: 0.42–0.86), respectively. There was also lower 
+CAD incidence in the surgical group compared with the 
+non-surgical control group: 1.6% vs. 2.8% (HR 0.64, 95% 
+CI: 0.42–0.99).90
+• The SOS study demonstrated that bariatric surgery is 
+associated with reduced risk of developing HF in individuals 
+with severe obesity versus those with obesity under usual 
+care.91
+• In these studies, the effects of bariatric surgery on 
+CV event reduction were observed progressively following 
+normalisation of metabolic parameters including blood 
+pressure, lipid profile, and glycaemic control. MACE reduction 
+cannot be attributed to direct or immediate surgical effects 
+on the CV system, as CV risk factor improvements occurred 
+after sustained weight loss, and comparisons were made with 
+less effective anti-obesity pharmacotherapy treatment. This 
+panel considers that, in the absence of specific RCTs, the 
+indication of bariatric surgery for CV event prevention should 
+be considered based on its long-term benefits in improving 
+risk factors, particularly in patients at moderate or high CV 
+risk who either lack access to or do not achieve a sustained 
+response with currently available anti-obesity therapies.3.3.2. Obesity Stage 2 and Heart Failure
+ 
+R25. Class of 
+recommendationLevel of 
+evidence
+Bariatric surgery MAY BE 
+CONSIDERED  cautiously, 
+according to surgical risk, in 
+individuals with established 
+HF and a BMI ≥35 kg/m² to 
+promote weight loss and 
+improve risk factors and 
+HF-related symptoms.IIb B
+Summary of evidence (R25):
+• Although severe HF or marked systolic dysfunction may be 
+considered as a contraindication to bariatric surgery, emerging 
+evidence has indicated that the procedure may be appropriate 
+for select patients with obesity and stable HF .
+• A systematic review with meta-analysis demonstrated 
+that bariatric surgery is associated with reduced HF-related 
+hospitalisations, as well as improvements in left ventricular ejection 
+fraction and NYHA functional class.92
+• Bariatric surgery has also shown benefits in reducing CV 
+risk factors and improving cardiac function, including reversal 
+of cardiac remodelling and improvements in both systolic and 
+diastolic performance.93
+Important Note 7: Bariatric surgery in patients with HF
+The long-term safety and efficacy of bariatric surgery in 
+patients with HF remain insufficiently established. Further 
+prospective studies are needed to identify patients who can 
+be safely referred for this intervention.
+The decision to proceed with bariatric surgery in patients with HF 
+should be individualised, considering the patient’s clinical status, 
+comorbid conditions, and ability to tolerate the procedure. A 
+multidisciplinary approach is strongly recommended to optimise 
+outcomes and minimise associated risks.
+Important Note 8: Obesity management in elderly
+• In the context of the elderly population, the therapeutic 
+approach should be individualized, since there is a 
+higher prevalence of sarcopenic obesity, frailty, multiple 
+comorbidities, and polypharmacy. All these factors must 
+be considered, especially regarding the establishment of 
+therapeutic weight loss goals. 
+The recommendations of this guideline were based on the 
+best available clinical evidence (well-designed ancillary 
+studies and randomized controlled trials), in which people 
+of advanced age (over 75 years) are underrepresented. 
+Nevertheless, in the post hoc sub-analysis of GLP-1 RA 
+cardiovascular outcomes trials, significant reduction in 
+MACE was observed across age subgroups.94
+22
+
+Arq Bras Cardiol. 2025; 122(9):e20250621Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+Important Note 9: Obesity management in the context of 
+Brazilian public health system
+• Although obesity is highly prevalent in Brazil, it has 
+often been overlooked within the broader context of non-
+communicable diseases (NCDs) related to cardiovascular 
+disease. The  CV risk stratification proposed in the  guideline 
+provides a rationale for better decisions in the choice of anti-
+obesity treatment. 
+Recognizing that cardiovascular risk in people with obesity 
+occurs on a continuum, the approach based on CV risk 
+classification can assist policymakers in decision-making 
+and implementation of treatments for populations at higher 
+CV risk.
+Conclusion  
+Considering the increasing incidence of obesity and 
+its well-established association with CVD and related 
+outcomes, CV risk assessment must be a central component 
+in obesity treatment planning. This guideline, developed 
+through a collaboration among five leading Brazilian 
+medical societies, addresses this critical need by providing 
+evidence-based strategies for the treatment of obesity and 
+prevention of CVD. Importantly, the guideline considers the 
+specific public health context of the Brazilian population, 
+offering recommendations that carefully considers 
+the risks and benefits of each therapeutic approach. 
+Subsistir por: We acknowledge that implementing these 
+recommendations for the Brazilian population presents a 
+great challenge. Given there are currently no anti-obesity 
+pharmacological therapies available in the Unified Health 
+System (SUS), it is essential to prioritize interventions with 
+proven efficacy to reduce cardiovascular events in the groups with highest CV risk. This approach may support  
+policymakers in cost-effective resource plans to control 
+obesity and reduce associated complications.
+Supplement
+ SCREENING FOR RISK FACTORS FOR ASCVD 
+AND HF
+Hypertension
+For the screening and diagnosis of hypertension in 
+adults, a systolic pressure ≥ 140 mmHg and/or diastolic 
+≥ 90 mmHg , confirmed  in two or more measurements 
+on separate  occasions should be used  as the diagnostic 
+criterion . Individuals with systolic pressure between 
+130-139 mmHg and/or diastolic pressure 85-89 mmHg  
+should be considered as having pre -hypertension.
+Dyslipidemia
+Universal screening for hypercholesterolaemia is 
+recommended starting at 9 and. In cases with a family 
+history of hypercholesterolaemia, screening should begin 
+after age of 2. Assessment should include measurements 
+of both cholesterol and triglyceride levels.
+Type 2 diabetes
+All individuals who are overweight or obese should be 
+screened for type 2 diabetes beginning at age 35, using 
+both fasting blood glucose and HbA1c  tests. Before the 
+age of 35, screening is mandatory if at least one of the 
+additional risk factors for diabetes is present (see Table  
+1). Screening may also be considered before the age 
+of 35, on a case-by-case basis, at the discretion of the 
+healthcare provider and in consultation with the patient.
+TABLE 1. RISK FACTORS THAT INDICATE SCREENING FOR TYPE 2 DIABETES IN PATIENTS WITH OVERWEIGHT OR OBESITY
+• Previously elevated fasting glucose (>100 mg/dL).
+• Previous gestational diabetes. 
+• Mother of a large-for-gestational-age newborn.
+• Family history of type 2 diabetes in a first-degree relative.
+• History of clinical CVD (ACS/AMI, chronic CAD, ischemic stroke or TIA, arterial revascularisation), or subclinical CVD (CAC >0 or 
+presence of plaque in the carotid artery).
+• Presence of hypertension, treated or not.
+• HDL <35 mg/dL.
+• Triglycerides > 250 mg/dL.
+• Polycystic ovary syndrome.
+• Presence of acanthosis nigricans.
+• Sedentary lifestyle.
+• Metabolic steatotic liver disease (MASLD or MASH).
+• FINDRISC high or very high.
+23
+
+Arq Bras Cardiol. 2025; 122(9):e20250621
+Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+1. World Obesity Federation. World Obesity Atlas 2025 [Internet]. London: 
+World Obesity Federation; 2025 [cited 2025 Jul 15]. Available from: https://
+data.worldobesity.org/publications/?cat=23 .
+2. Tan SCW, Zheng BB, Tang ML, Chu H, Zhao YT, Weng C. Global Burden 
+of Cardiovascular Diseases and its Risk Factors, 1990-2021: A Systematic 
+Analysis for the Global Burden of Disease Study 2021. QJM. 2025:hcaf022. 
+doi: 10.1093/qjmed/hcaf022.
+3. Koskinas KC, van Craenenbroeck EM, Antoniades C, Blüher M, Gorter TM, 
+Hanssen H, et al. Obesity and Cardiovascular Disease: An ESC Clinical 
+Consensus Statement. Eur Heart J. 2024;45(38):4063-98. doi: 10.1093/
+eurheartj/ehae508.
+4. Powell-Wiley TM, Poirier P , Burke LE, Després JP , Gordon-Larsen P , Lavie CJ, 
+et al. Obesity and Cardiovascular Disease: A Scientific Statement From the 
+American Heart Association. Circulation. 2021;143(21):e984-e1010. doi: 
+10.1161/CIR.0000000000000973.
+5. Cerhan JR, Moore SC, Jacobs EJ, Kitahara CM, Rosenberg PS, Adami 
+HO, et al. A Pooled Analysis of Waist Circumference and Mortality in 
+650,000 Adults. Mayo Clin Proc. 2014;89(3):335-45. doi: 10.1016/j.
+mayocp.2013.11.011.
+6. Carmienke S, Freitag MH, Pischon T, Schlattmann P , Fankhaenel T, Goebel 
+H, et al. General and Abdominal Obesity Parameters and their Combination 
+in Relation to Mortality: A Systematic Review and Meta-Regression Analysis. 
+Eur J Clin Nutr. 2013;67(6):573-85. doi: 10.1038/ejcn.2013.61.
+7. Benn M, Marott SCW, Tybjærg-Hansen A, Nordestgaard BG. Obesity 
+Increases Heart Failure Incidence and Mortality: Observational and 
+Mendelian Randomization Studies Totalling Over 1 Million Individuals. 
+Cardiovasc Res. 2023;118(18):3576-85. doi: 10.1093/cvr/cvab368.
+8. Silva WS Jr. Under New Criteria for Clinical Obesity, is Metabolic Obesity 
+with Normal Body Weight Finally a Legitimate Disease Phenotype? Diab 
+Technol Obes Med. 2025;1(1):62-70. doi: 10.1089/dtom.2025.0015.
+9. Rubino F , Batterham RL, Koch M, Mingrone G, le Roux CW, Farooqi IS, et 
+al. Lancet Diabetes & Endocrinology Commission on the Definition and 
+Diagnosis of Clinical Obesity. Lancet Diabetes Endocrinol. 2023;11(4):226-
+8. doi: 10.1016/S2213-8587(23)00058-X. 
+10. Busetto L, Dicker D, Frühbeck G, Halford JCG, Sbraccia P , Yumuk V , et al. A 
+New Framework for the Diagnosis, Staging and Management of Obesity in 
+Adults. Nat Med. 2024;30(9):2395-9. doi: 10.1038/s41591-024-03095-3. 
+11. Liu XY, Ge SY, Liu CA, Yin B, Bu ZT, Zheng X, et al. Validation of the 2024 
+European Association for the Study of Obesity Diagnostic Criteria: A 
+Comprehensive Assessment of Obesity-Related Mortality Risks. Diabetes 
+Obes Metab. 2025;27(5):2405-17. doi: 10.1111/dom.16236. 
+12. Godoy-Matos AF , Valério CM, Silva WS Jr, Araujo-Neto JM, Sposito AC, Suassuna 
+JHR. CARDIAL-MS (CArdio-Renal-DIAbetes-Liver-Metabolic Syndrome): A 
+New Proposition for an Integrated Multisystem Metabolic Disease. Diabetol 
+Metab Syndr. 2025;17(1):218. doi: 10.1186/s13098-025-01796-4. 
+13. Khan SS, Matsushita K, Sang Y, Ballew SH, Grams ME, Surapaneni A, et 
+al. Development and Validation of the American Heart Association’s 
+PREVENT Equations. Circulation. 2024;149(6):430-49. doi: 10.1161/
+CIRCULATIONAHA.123.067626 .
+14. Arici M, Assaad-Khalil SH, Bertoluci MC, Choo J, Lee YJ, Madero M, et 
+al. Results from a Cross-Specialty Consensus on Optimal Management 
+of Patients with Chronic Kidney Disease (CKD): From Screening to 
+Complications. BMJ Open. 2024;14(3):e080891. doi: 10.1136/
+bmjopen-2023-080891. 
+15. Khan SS, Coresh J, Pencina MJ, Ndumele CE, Rangaswami J, Chow 
+SL, et al. Novel Prediction Equations for Absolute Risk Assessment of 
+Total Cardiovascular Disease Incorporating Cardiovascular-Kidney-
+Metabolic Health: A Scientific Statement from the American Heart 
+Association. Circulation. 2023;148(24):1982-2004. doi: 10.1161/
+CIR.0000000000001191. 16. American Heart Association. PREVENT Online Calculator [Internet]. Dallas: 
+American Heart Association; 2025 [cited 2025 Jul 15]. Available from: 
+https://professional.heart.org/en/guidelines-and-statements/prevent-
+calculator.
+17. Bozkurt B, Coats AJ, Tsutsui H, Abdelhamid M, Adamopoulos S, Albert N, et 
+al. Universal Definition and Classification of Heart Failure: A Report of the 
+Heart Failure Society of America, Heart Failure Association of the European 
+Society of Cardiology, Japanese Heart Failure Society and Writing Committee 
+of the Universal Definition of Heart Failure. J Card Fail. 2021:S1071-
+9164(21)00050-6. doi: 10.1016/j.cardfail.2021.01.022. 
+18. Reddy YNV , Carter RE, Sundaram V , Kaye DM, Handoko ML, Tedford RJ, 
+et al. An Evidence-Based Screening Tool for Heart Failure with Preserved 
+Ejection Fraction: The HFpEF-ABA Score. Nat Med. 2024;30(8):2258-64. 
+doi: 10.1038/s41591-024-03140-1. 
+19. Wang X, Ouyang Y, Wang Z, Zhao G, Liu L, Bi Y. Obstructive Sleep Apnea 
+and Risk of Cardiovascular Disease and All-Cause Mortality: A Meta-Analysis 
+of Prospective Cohort Studies. Int J Cardiol. 2013;169(3):207-14. doi: 
+10.1016/j.ijcard.2013.08.088. 
+20. Zhang X, Fan J, Guo Y, Zhou J, Chen F , Jin Z, et al. Association between 
+Obstructive Sleep Apnoea Syndrome and the Risk of Cardiovascular 
+Diseases: An Updated Systematic Review and Dose-Response Meta-
+Analysis. Sleep Med. 2020;71:39-46. doi: 10.1016/j.sleep.2020.03.011. 
+21. Reddy YNV , Tada A, Obokata M, Carter RE, Kaye DM, Handoko ML, et al. 
+Evidence-Based Application of Natriuretic Peptides in the Evaluation of 
+Chronic Heart Failure with Preserved Ejection Fraction in the Ambulatory 
+Outpatient Setting. Circulation. 2025;151(14):976-89. doi: 10.1161/
+CIRCULATIONAHA.124.072156. 
+22. Knowler WC, Barrett-Connor E, Fowler SE, Hamman RF , Lachin JM, Walker 
+EA, et al. Reduction in the Incidence of Type 2 Diabetes with Lifestyle 
+Intervention or Metformin. N Engl J Med. 2002;346(6):393-403. doi: 
+10.1056/NEJMoa012512. 
+23. Wing RR, Bolin P , Brancati FL, Bray GA, Clark JM, Coday M, et al. 
+Cardiovascular Effects of Intensive Lifestyle Intervention in Type 2 Diabetes. 
+N Engl J Med. 2013;369(2):145-54. doi: 10.1056/NEJMoa1212914.
+24. Wing RR, Lang W, Wadden TA, Safford M, Knowler WC, Bertoni AG, et al. 
+Benefits of Modest Weight Loss in Improving Cardiovascular Risk Factors in 
+Overweight and Obese Individuals with Type 2 Diabetes. Diabetes Care. 
+2011;34(7):1481-6. doi: 10.2337/dc10-2415. 
+25. Gong Q, Zhang P , Wang J, Ma J, An Y, Chen Y, et al. Morbidity and Mortality 
+after Lifestyle Intervention for People with Impaired Glucose Tolerance: 
+30-Year Results of the Da Qing Diabetes Prevention Outcome Study. 
+Lancet Diabetes Endocrinol. 2019;7(6):452-61. doi: 10.1016/S2213-
+8587(19)30093-2. 
+26. Look AHEAD Research Group. Effects of Intensive Lifestyle Intervention 
+on All-Cause Mortality in Older Adults with Type 2 Diabetes and 
+Overweight/Obesity: Results from the Look AHEAD Study. Diabetes Care. 
+2022;45(5):1252-9. doi: 10.2337/dc21-1805. 
+27. Gregg EW, Jakicic JM, Blackburn G, Bloomquist P , Bray GA, Clark JM, et al. 
+Association of the Magnitude of Weight Loss and Changes in Physical Fitness 
+with Long-Term Cardiovascular Disease Outcomes in Overweight or Obese 
+People with Type 2 Diabetes: A Post-Hoc Analysis of the Look AHEAD 
+Randomised Clinical Trial. Lancet Diabetes Endocrinol. 2016;4(11):913-21. 
+doi: 10.1016/S2213-8587(16)30162-0. 
+28. Sattar N, Lee MMY. Estimating Direct Tissue Effects versus Weight Loss 
+Effects of Incretin-Based Drugs for Obesity on Various Chronic Conditions. 
+Lancet Diabetes Endocrinol. 2025;13(4):347-54. doi: 10.1016/S2213-
+8587(24)00363-2.
+29. Sjöström L, Peltonen M, Jacobson P , Sjöström CD, Karason K, Wedel 
+H, et al. Bariatric Surgery and Long-Term Cardiovascular Events. JAMA. 
+2012;307(1):56-65. doi: 10.1001/jama.2011.1914. References
+24
+
+Arq Bras Cardiol. 2025; 122(9):e20250621Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+30. Halpern B, Mancini MC, Melo ME, Lamounier RN, Moreira RO, Carra 
+MK, et al. Proposal of an Obesity Classification Based on Weight History: 
+An Official Document by the Brazilian Society of Endocrinology and 
+Metabolism (SBEM) and the Brazilian Society for the Study of Obesity and 
+Metabolic Syndrome (ABESO). Arch Endocrinol Metab. 2022;66(2):139-
+51. doi: 10.20945/2359-3997000000465. 
+31. Nalliah CJ, Sanders P , Kottkamp H, Kalman JM. The Role of Obesity in Atrial 
+Fibrillation. Eur Heart J. 2016;37(20):1565-72. doi: 10.1093/eurheartj/
+ehv486. 
+32. Abed HS, Wittert GA, Leong DP , Shirazi MG, Bahrami B, Middeldorp 
+ME, et al. Effect of Weight Reduction and Cardiometabolic Risk Factor 
+Management on Symptom Burden and Severity in Patients with Atrial 
+Fibrillation: A Randomized Clinical Trial. JAMA. 2013;310(19):2050-60. 
+doi: 10.1001/jama.2013.280521. 
+33. Aldaas OM, Lupercio F , Han FT, Hoffmayer KS, Krummen D, Ho G, et al. 
+Meta-Analysis  of Effect of Modest (≥10%) Weight Loss in Management  
+of Overweight and Obese Patients with Atrial Fibrillation. Am J Cardiol. 
+2019;124(10):1568-74. doi: 10.1016/j.amjcard.2019.08.009. 
+34. Akhtar KH, Jafry AH, Beard C, Nasir YM, Agarwal S, Khan J, et al. The Effect 
+of Weight Loss on Recurrence of Atrial Fibrillation after Catheter Ablation: 
+A Systematic Review and Meta-Analysis. J Cardiovasc Electrophysiol. 
+2023;34(12):2514-26. doi: 10.1111/jce.16090. 
+35. Jamaly S, Carlsson L, Peltonen M, Jacobson P , Sjöström L, Karason K. 
+Bariatric Surgery and the Risk of New-Onset Atrial Fibrillation in Swedish 
+Obese Subjects. J Am Coll Cardiol. 2016;68(23):2497-504. doi: 10.1016/j.
+jacc.2016.09.940. 
+36. Wadden TA, Tronieri JS, Butryn ML. Lifestyle Modification Approaches for 
+the Treatment of Obesity in Adults. Am Psychol. 2020;75(2):235-51. doi: 
+10.1037/amp0000517. 
+37. Bray GA, Ryan DH. Evidence-Based Weight Loss Interventions: 
+Individualized Treatment Options to Maximize Patient Outcomes. 
+Diabetes Obes Metab. 2021;23(Suppl 1):50-62. doi: 10.1111/
+dom.14200. 
+38. Wadden TA, Berkowitz RI, Womble LG, Sarwer DB, Phelan S, Cato RK, 
+et al. Randomized Trial of Lifestyle Modification and Pharmacotherapy 
+for Obesity. N Engl J Med. 2005;353(20):2111-20. doi: 10.1056/
+NEJMoa050156. 
+39. Lundgren JR, Janus C, Jensen SBK, Juhl CR, Olsen LM, Christensen RM, 
+et al. Healthy Weight Loss Maintenance with Exercise, Liraglutide, or 
+Both Combined. N Engl J Med. 2021;384(18):1719-30. doi: 10.1056/
+NEJMoa2028198. 
+40. Wadden TA, Foreyt JP , Foster GD, Hill JO, Klein S, O’Neil PM, et al. 
+Weight Loss with Naltrexone SR/Bupropion SR Combination Therapy as 
+an Adjunct to Behavior Modification: The COR-BMOD Trial. Obesity. 
+2011;19(1):110-20. doi: 10.1038/oby.2010.147. 
+41. Wadden TA, Bailey TS, Billings LK, Davies M, Frias JP , Koroleva A, 
+et al. Effect of Subcutaneous Semaglutide vs Placebo as an Adjunct 
+to Intensive Behavioral Therapy on Body Weight in Adults with 
+Overweight or Obesity: The STEP 3 Randomized Clinical Trial. JAMA. 
+2021;325(14):1403-13. doi: 10.1001/jama.2021.1831. 
+42. Wadden TA, Chao AM, Machineni S, Kushner R, Ard J, Srivastava G, 
+et al. Tirzepatide after Intensive Lifestyle Intervention in Adults with 
+Overweight or Obesity: The SURMOUNT-3 Phase 3 Trial. Nat Med. 
+2023;29(11):2909-18. doi: 10.1038/s41591-023-02597-w. 
+43. Wadden TA, Chao AM, Moore M, Tronieri JS, Gilden A, Amaro A, et al. 
+The Role of Lifestyle Modification with Second-Generation Anti-Obesity 
+Medications: Comparisons, Questions, and Clinical Opportunities. Curr 
+Obes Rep. 2023;12(4):453-73. doi: 10.1007/s13679-023-00534-z. 
+44. Estruch R, Ros E, Salas-Salvadó J, Covas MI, Corella D, Arós F , et al. 
+Primary Prevention of Cardiovascular Disease with a Mediterranean 
+Diet Supplemented with Extra-Virgin Olive Oil or Nuts. N Engl J Med. 
+2018;378(25):e34. doi: 10.1056/NEJMoa1800389. 45. Shan Z, Wang F , Li Y, Baden MY, Bhupathiraju SN, Wang DD, et al. Healthy 
+Eating Patterns and Risk of Total and Cause-Specific Mortality. JAMA Intern 
+Med. 2023;183(2):142-53. doi: 10.1001/jamainternmed.2022.6117. 
+46. Pepe RB, Lottenberg AM, Fujiwara CTH, Beyruti M, Cintra DE, Machado 
+RM, et al. Position Statement on Nutrition Therapy for Overweight and 
+Obesity: Nutrition Department of the Brazilian Association for the Study of 
+Obesity and Metabolic Syndrome (ABESO-2022). Diabetol Metab Syndr. 
+2023;15(1):124. doi: 10.1186/s13098-023-01037-6. 
+47. Nilson EAF , Delpino FM, Batis C, Machado PP , Moubarac JC, Cediel G, et 
+al. Premature Mortality Attributable to Ultraprocessed Food Consumption 
+in 8 Countries. Am J Prev Med. 2025;68(6):1091-9. doi: 10.1016/j.
+amepre.2025.02.018. 
+48. le Roux CW, Astrup A, Fujioka K, Greenway F , Lau DCW, van Gaal L, et al. 
+3 Years of Liraglutide versus Placebo for Type 2 Diabetes Risk Reduction 
+and Weight Management in Individuals with Prediabetes: A Randomised, 
+Double-Blind Trial. Lancet. 2017;389(10077):1399-409. doi: 10.1016/
+S0140-6736(17)30069-7. 
+49. Davies MJ, Aronne LJ, Caterson ID, Thomsen AB, Jacobsen PB, Marso SP , et 
+al. Liraglutide and Cardiovascular Outcomes in Adults with Overweight or 
+Obesity: A Post Hoc Analysis from SCALE Randomized Controlled Trials. 
+Diabetes Obes Metab. 2018;20(3):734-9. doi: 10.1111/dom.13125. 
+50. Wilding JPH, Batterham RL, Calanna S, Davies M, van Gaal LF , Lingvay I, 
+et al. Once-Weekly Semaglutide in Adults with Overweight or Obesity. N 
+Engl J Med. 2021;384(11):989-1002. doi: 10.1056/NEJMoa2032183. 
+51. Jastreboff AM, le Roux CW, Stefanski A, Aronne LJ, Halpern B, Wharton S, 
+et al. Tirzepatide for Obesity Treatment and Diabetes Prevention. N Engl 
+J Med. 2025;392(10):958-71. doi: 10.1056/NEJMoa2410819. 
+52. Lazzaroni E, Ben Nasr M, Loretelli C, Pastore I, Plebani L, Lunati ME, et 
+al. Anti-Diabetic Drugs and Weight Loss in Patients with Type 2 Diabetes. 
+Pharmacol Res. 2021;171:105782. doi: 10.1016/j.phrs.2021.105782. 
+53. Torgerson JS, Hauptman J, Boldrin MN, Sjöström L. XENical in the 
+Prevention of Diabetes in Obese Subjects (XENDOS) Study: A Randomized 
+Study of Orlistat as an Adjunct to Lifestyle Changes for the Prevention of 
+Type 2 Diabetes in Obese Patients. Diabetes Care. 2004;27(1):155-61. 
+doi: 10.2337/diacare.27.1.155. 
+54. Khera R, Murad MH, Chandar AK, Dulai PS, Wang Z, Prokop LJ, et al. 
+Association of Pharmacological Treatments for Obesity with Weight Loss 
+and Adverse Events: A Systematic Review and Meta-Analysis. JAMA. 
+2016;315(22):2424-34. doi: 10.1001/jama.2016.7602. 
+55. Khera R, Pandey A, Chandar AK, Murad MH, Prokop LJ, Neeland IJ, et 
+al. Effects of Weight-Loss Medications on Cardiometabolic Risk Profiles: 
+A Systematic Review and Network Meta-Analysis. Gastroenterology. 
+2018;154(5):1309-19.e7. doi: 10.1053/j.gastro.2017.12.024. 
+56. Nissen SE, Wolski KE, Prcela L, Wadden T, Buse JB, Bakris G, et al. Effect 
+of Naltrexone-Bupropion on Major Adverse Cardiovascular Events in 
+Overweight and Obese Patients with Cardiovascular Risk Factors: A 
+Randomized Clinical Trial. JAMA. 2016;315(10):990-1004. doi: 10.1001/
+jama.2016.1558. 
+57. Sposito AC, Bonilha I, Luchiari B, Benchimol A, Hohl A, Moura F , et al. 
+Cardiovascular Safety of Naltrexone and Bupropion Therapy: Systematic 
+Review and Meta-Analyses. Obes Rev. 2021;22(6):e13224. doi: 10.1111/
+obr.13224. 
+58. Moreira RO, Valerio CM, Hohl A, Moulin C, Moura F , Trujilho FR, et 
+al. Pharmacologic Treatment of Obesity in Adults and its Impact on 
+Comorbidities: 2024 Update and Position Statement of Specialists from 
+the Brazilian Association for the Study of Obesity and Metabolic Syndrome 
+(Abeso) and the Brazilian Society of Endocrinology and Metabolism 
+(SBEM). Arch Endocrinol Metab. 2024;68:e240422. doi: 10.20945/2359-
+4292-2024-0422. 
+59. Lincoff AM, Brown-Frandsen K, Colhoun HM, Deanfield J, Emerson SS, 
+Esbjerg S, et al. Semaglutide and Cardiovascular Outcomes in Obesity 
+without Diabetes. N Engl J Med. 2023;389(24):2221-32. doi: 10.1056/
+NEJMoa2307563. 
+25
+
+Arq Bras Cardiol. 2025; 122(9):e20250621
+Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+60. James WP , Caterson ID, Coutinho W, Finer N, van Gaal LF , Maggioni AP , 
+et al. Effect of Sibutramine on Cardiovascular Outcomes in Overweight 
+and Obese Subjects. N Engl J Med. 2010;363(10):905-17. doi: 10.1056/
+NEJMoa1003114. 
+61. Lee M, Ghouri N, Misra A, Kang YM, Ruttler MK, Gerstein HC, et al. Comparative 
+Efficacy of Glucagon-Like Peptide 1 Receptor Agonists for Cardiovascular 
+Outcomes in Asian versus White Populations: Systematic Review and Meta-
+analysis of Randomized Trials of Populations with or Without Type 2 Diabetes 
+and/or Overweight or Obesity. Diabetes Care. 2025;48(3):489-93. doi: 
+10.2337/dc24-1533.
+62. Sattar N, Lee MMY, Kristensen SL, Branch KRH, Del Prato S, Khurmi NS, et al. 
+Cardiovascular, Mortality, and Kidney Outcomes with GLP-1 Receptor Agonists 
+in Patients with Type 2 Diabetes: A Systematic Review and Meta-Analysis of 
+Randomised Trials. Lancet Diabetes Endocrinol. 2021;9(10):653-62. doi: 
+10.1016/S2213-8587(21)00203-5. 
+63. Palmer SC, Tendal B, Mustafa RA, Vandvik PO, Li S, Hao Q, et al. Sodium-
+Glucose Cotransporter Protein-2 (SGLT-2) Inhibitors and Glucagon-Like 
+Peptide-1 (GLP-1) Receptor Agonists for Type 2 Diabetes: Systematic 
+Review and Network Meta-Analysis of Randomised Controlled Trials. BMJ. 
+2021;372:m4573. doi: 10.1136/bmj.m4573.
+64. McGuire DK, Marx N, Mulvagh SL, Deanfield JE, Inzucchi SE, Pop-Busui R, et al. 
+Oral Semaglutide and Cardiovascular Outcomes in High-Risk Type 2 Diabetes. 
+N Engl J Med. 2025;392(20):2001-12. doi: 10.1056/NEJMoa2501006. 
+65. Perkovic V , Tuttle KR, Rossing P , Mahaffey KW, Mann JFE, Bakris G, et al. Effects 
+of Semaglutide on Chronic Kidney Disease in Patients with Type 2 Diabetes. N 
+Engl J Med. 2024;391(2):109-21. doi: 10.1056/NEJMoa2403347. 
+66. Tuomilehto HP , Seppä JM, Partinen MM, Peltonen M, Gylling H, Tuomilehto JO, 
+et al. Lifestyle Intervention with Weight Reduction: First-Line Treatment in Mild 
+Obstructive Sleep Apnea. Am J Respir Crit Care Med. 2009;179(4):320-7. doi: 
+10.1164/rccm.200805-669OC. 
+67. Foster GD, Borradaile KE, Sanders MH, Millman R, Zammit G, Newman AB, et 
+al. A randomized Study on the Effect of Weight Loss on Obstructive Sleep Apnea 
+Among Obese Patients with Type 2 Diabetes: the Sleep AHEAD Study. Arch 
+Intern Med. 2009;169(17):1619-26. doi: 10.1001/archinternmed.2009.266.
+68. Carneiro-Barrera A, Amaro-Gahete FJ, Guillén-Riquelme A, Jurado-Fasoli 
+L, Sáez-Roca G, Martín-Carrasco C, et al. Effect of an Interdisciplinary 
+Weight Loss and Lifestyle Intervention on Obstructive Sleep Apnea 
+Severity: The INTERAPNEA Randomized Clinical Trial. JAMA Netw Open. 
+2022;5(4):e228212. doi: 10.1001/jamanetworkopen.2022.8212. 
+69. Johansson K, Neovius M, Lagerros YT, Harlid R, Rössner S, Granath F , et al. Effect 
+of a Very Low Energy Diet on Moderate and Severe Obstructive Sleep Apnoea 
+in Obese Men: A Randomised Controlled Trial. BMJ. 2009;339:b4609. doi: 
+10.1136/bmj.b4609. 
+70. Blackman A, Foster GD, Zammit G, Rosenberg R, Aronne L, Wadden T, et al. 
+Effect of Liraglutide 3.0 mg in Individuals with Obesity and Moderate or Severe 
+Obstructive Sleep Apnea: The SCALE Sleep Apnea Randomized Clinical Trial. 
+Int J Obes. 2016;40(8):1310-9. doi: 10.1038/ijo.2016.52. 
+71. Malhotra A, Grunstein RR, Fietze I, Weaver TE, Redline S, Azarbarzin A, et al. 
+Tirzepatide for the Treatment of Obstructive Sleep Apnea and Obesity. N Engl J 
+Med. 2024;391(13):1193-205. doi: 10.1056/NEJMoa2404881. 
+72. U.S. Food and Drug Administration.  FDA Approves First Medication for 
+Obstructive Sleep Apnea [Internet]. [cited 2025 Jul 15]. Silver Spring: Food and 
+Drug Administration; 2024  Available from: https://www.fda.gov/news-events/
+press-announcements/fda-approves-first-medication-obstructive-sleep-apnea .
+73. Chen B, Drager LF , Peker Y, Vgontzas AN, Phillips CL, Hoyos CM, et al. Effect 
+of Continuous Positive Airway Pressure on Weight and Local Adiposity in 
+Adults with Obstructive Sleep Apnea: A Meta-Analysis. Ann Am Thorac Soc. 
+2021;18(10):1717-27. doi: 10.1513/AnnalsATS.202101-060OC. 
+74. Chi M, Nie Y, Su Y, Wang N, Li A, Ma T, et al. Effects of Weight Loss in Heart 
+Failure Patients with Overweight and Obesity: A Systematic Review and 
+Meta-Analysis. Eur J Prev Cardiol. 2023;30(17):1906-21. doi: 10.1093/
+eurjpc/zwad284. 75. Mahajan R, Stokes M, Elliott A, Munawar DA, Khokhar KB, Thiyagarajah A, 
+et al. Complex Interaction of Obesity, Intentional Weight Loss and Heart 
+Failure: A Systematic Review and Meta-Analysis. Heart. 2020;106(1):58-68. 
+doi: 10.1136/heartjnl-2019-314770. 
+76. Kosiborod MN, Abildstrøm SZ, Borlaug BA, Butler J, Rasmussen S, Davies 
+M, et al. Semaglutide in Patients with Heart Failure with Preserved Ejection 
+Fraction and Obesity. N Engl J Med. 2023;389(12):1069-84. doi: 10.1056/
+NEJMoa2306963. 
+77. Kosiborod MN, Abildstrøm SZ, Borlaug BA, Butler J, Christensen L, Davies M, 
+et al. Design and Baseline Characteristics of STEP-HFpEF Program Evaluating 
+Semaglutide in Patients with Obesity HFpEF Phenotype. JACC Heart Fail. 
+2023;11(8 Pt 1):1000-10. doi: 10.1016/j.jchf.2023.05.010. 
+78. Packer M, Zile MR, Kramer CM, Baum SJ, Litwin SE, Menon V , et al. 
+Tirzepatide for Heart Failure with Preserved Ejection Fraction and Obesity. 
+N Engl J Med. 2025;392(5):427-37. doi: 10.1056/NEJMoa2410027. 
+79. Vaduganathan M, Docherty KF , Claggett BL, Jhund PS, de Boer RA, 
+Hernandez AF , et al. SGLT-2 Inhibitors in Patients with Heart Failure: A 
+Comprehensive Meta-Analysis of Five Randomised Controlled Trials. Lancet. 
+2022;400(10354):757-67. doi: 10.1016/S0140-6736(22)01429-5. 
+80. Margulies KB, Hernandez AF , Redfield MM, Givertz MM, Oliveira GH, 
+Cole R, et al. Effects of Liraglutide on Clinical Stability among Patients with 
+Advanced Heart Failure and Reduced Ejection Fraction: A Randomized 
+Clinical Trial. JAMA. 2016;316(5):500-8. doi: 10.1001/jama.2016.10260. 
+81. Sharma A, Ambrosy AP , DeVore AD, Margulies KB, McNulty SE, Mentz RJ, et 
+al. Liraglutide and Weight Loss among Patients with Advanced Heart Failure 
+and a Reduced Ejection Fraction: Insights from the FIGHT Trial. ESC Heart 
+Fail. 2018;5(6):1035-43. doi: 10.1002/ehf2.12334. 
+82. Jorsal A, Kistorp C, Holmager P , Tougaard RS, Nielsen R, Hänselmann A, et al. 
+Effect of Liraglutide, a Glucagon-Like Peptide-1 Analogue, on Left Ventricular 
+Function in Stable Chronic Heart Failure Patients with and without Diabetes 
+(LIVE)-a Multicentre, Double-Blind, Randomised, Placebo-Controlled Trial. 
+Eur J Heart Fail. 2017;19(1):69-77. doi: 10.1002/ejhf.657. 
+83. Deanfield J, Verma S, Scirica BM, Kahn SE, Emerson SS, Ryan D, et al. 
+Semaglutide and Cardiovascular Outcomes in Patients with Obesity and 
+Prevalent Heart Failure: A Prespecified Analysis of the SELECT Trial. Lancet. 
+2024;404(10454):773-86. doi: 10.1016/S0140-6736(24)01498-3. 
+84. Butler J, Abildstrøm SZ, Borlaug BA, Davies MJ, Kitzman DW, Petrie 
+MC, et al. Semaglutide in Patients with Obesity and Heart Failure Across 
+Mildly Reduced or Preserved Ejection Fraction. J Am Coll Cardiol. 
+2023;82(22):2087-96. doi: 10.1016/j.jacc.2023.09.811. 
+85. Sun F , Wu S, Guo S, Yu K, Yang Z, Li L, et al. Impact of GLP-1 Receptor Agonists 
+on Blood Pressure, Heart Rate and Hypertension among Patients with Type 
+2 Diabetes: A Systematic Review and Network Meta-Analysis. Diabetes Res 
+Clin Pract. 2015;110(1):26-37. doi: 10.1016/j.diabres.2015.07.015. 
+86. Zhang M, Lin C, Cai X, Jiao R, Bai S, Li Z, et al. One or Two? Comparison of 
+the Cardiorenal effects between Combination Therapy and Monotherapy 
+with SGLT2i or GLP1RA. Diabetes Obes Metab. 2025;27(2):806-15. doi: 
+10.1111/dom.16078. 
+87. García-Vega D, Cinza-Sanjurjo S, Eiras S, González-Juanatey JR. Combined 
+Sodium-Glucose-Transporters Inhibitors and Glucagon-Like-Peptide 
+Receptor Agonist Compared with Monotherapy Improves Long-Term 
+Survival: A Real-World Registry. Am J Med. 2024;137(8):761-9.e1. doi: 
+10.1016/j.amjmed.2024.04.032. 
+88. Wiggins T, Guidozzi N, Welbourn R, Ahmed AR, Markar SR. Association of 
+Bariatric Surgery with All-Cause Mortality and Incidence of Obesity-Related 
+Disease at a Population Level: A Systematic Review and Meta-Analysis. PLoS 
+Med. 2020;17(7):e1003206. doi: 10.1371/journal.pmed.1003206. 
+89. Benotti PN, Wood GC, Carey DJ, Mehra VC, Mirshahi T, Lent MR, et al. 
+Gastric Bypass Surgery Produces a Durable Reduction in Cardiovascular 
+Disease Risk Factors and Reduces the Long-Term Risks of Congestive 
+Heart Failure. J Am Heart Assoc. 2017;6(5):e005126. doi: 10.1161/
+JAHA.116.005126. 
+26
+
+Arq Bras Cardiol. 2025; 122(9):e20250621Guidelines
+Saraiva et al.
+2025 Brazilian Evidence-based Guideline o the Management of Obesity and 
+Prevention of Cardiovascular Disease and Obesity-Associated Complications:  
+A Position Statement by Five Medical Societies
+90. Fisher DP , Johnson E, Haneuse S, Arterburn D, Coleman KJ, O’Connor PJ, 
+et al. Association between Bariatric Surgery and Macrovascular Disease 
+Outcomes in Patients with Type 2 Diabetes and Severe Obesity. JAMA. 
+2018;320(15):1570-82. doi: 10.1001/jama.2018.14619. 
+91. Jamaly S, Carlsson L, Peltonen M, Jacobson P , Karason K. Surgical Obesity 
+Treatment and the Risk of Heart Failure. Eur Heart J. 2019;40(26):2131-8. 
+doi: 10.1093/eurheartj/ehz295. 
+92. Esparham A, Mehri A, Hadian H, Taheri M, Moghadam HA, Kalantari A, et 
+al. The Effect of Bariatric Surgery on Patients with Heart Failure: A Systematic 
+Review and Meta-Analysis. Obes Surg. 2023;33(12):4125-36. doi: 10.1007/
+s11695-023-06898-4. 93. Kindel TL, Higgins RM, Lak K, Gould J, Kreuziger LB, Mohammed 
+A, et al. Bariatric Surgery in Patients with Advanced Heart Failure: A 
+Proposed Multi-Disciplinary pathway for Surgical Care in Medically 
+Complex Patients. Surgery. 2021;170(3):659-63. doi: 10.1016/j.
+surg.2021.04.036.
+94. Bain SC, Belmar N, Hoff ST, Husain M, Rasmussen S, Vilsbøll T, et al. 
+Cardiovascular, Metabolic, and Safety Outcomes with Semaglutide by 
+Baseline Age: Post Hoc Analysis of SUSTAIN 6 and PIONEER 6. Diabetes 
+Ther. 2025;16(1):15-28. doi: 10.1007/s13300-024-01659-7.
+This is an open-access article distributed under the terms of the Creative Commons Attribution License
+27

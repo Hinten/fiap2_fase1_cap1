@@ -1,0 +1,708 @@
+Arq Bras Cardiol. 2026; 123(2):e20250203
+Original Article
+Interstitial Myocardial Fibrosis Analysis by Histology and Cardiac 
+Magnetic Resonance in Severe Aortic Valve Disease
+Juliana Hiromi Silva Matsumoto Bello,1
+ Lea M.M.F. Demarchi,2 Rafael Almeida Fonseca,1 Gabriele N. Lima,2 
+Lucas José Tachotti Pires,1 Victor E.E. Rosa,2 Roney Orismar Sampaio,1
+ Paulo S. Gutierrez,2 Vera D. Aiello,2 Flávio 
+Tarasoutchi,1
+ Carlos E. Rochitte1
+Instituto do Coração do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo,1 São Paulo, SP – Brazil
+Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo,2 São Paulo, SP – Brazil
+Mailing Address: Juliana Hiromi Silva Matsumoto Bello •
+Instituto do Coração do Hospital das Clínicas da Faculdade de Medicina da 
+Universidade de São Paulo – Av. Dr. Enéas de Carvalho Aguiar, 44, Andar AB. 
+Postal Code 05403-000, São Paulo, SP – Brazil
+E-mail: jujuhsm@gmail.com
+Manuscript received March 20, 2025, revised manuscript November 16, 2025,
+accepted December 19, 2025
+Editor responsible for the review: Nuno BettencourtAbstract
+Background:  Aortic valve disease may lead to the accumulation of myocardial fibrosis (MF). Cardiac magnetic resonance 
+(CMR) with late gadolinium enhancement (LGE) evaluates regional fibrosis but does not detect interstitial fibrosis, which 
+can be estimated by extracellular volume (ECV) using native (pre-contrast) and post-contrast T1 mapping.
+Objectives:  To compare MF measured by collagen volume fraction (CVF) in myocardial biopsy with LGE and ECV in 
+patients with severe aortic valve disease.
+Methods:  A total of 108 patients undergoing aortic valve replacement with myocardial biopsy and preoperative CMR 
+were included. LGE and ECV were compared with CVF using Pearson or Spearman correlation coefficients, diagnostic 
+performance analysis, and agreement testing. Statistical significance was set at p < 0.05.
+Results:  Increased CVF was observed in 96% of patients (21.9 ± 5.5%), LGE in 44% (1.3 ± 3%), and increased ECV in 
+33.3% (29.0 ± 4.0%). Moderate correlations were found between LGE and CVF and between ECV and CVF (r = 0.44 
+and r = 0.36, respectively; p = 0.001). LGE and ECV demonstrated sensitivities of 64.8% and 40.7%, specificities of 
+77.8% and 74.1%, and accuracies of 71% and 57%, respectively, using CVF above the median as the reference for MF. 
+Agreement between CVF and ECV revealed a mean difference of −0.167 and a Cohen’s kappa value of 0.171.
+Conclusions:  CMR detects MF in patients with severe aortic valve disease confirmed by biopsy. LGE and ECV show 
+moderate correlation with CVF. Combined analysis of LGE and ECV may provide complementary information; however, 
+additional studies are needed to determine their prognostic impact.
+Keywords:  Aortic Valve Disease; Miocardio; Fibrosis; Magnetic Resonance Imaging; Histology.
+DOI:  https://doi.org/10.36660/abc.20250203iIntroduction
+Aortic valve disease is associated with significant morbidity 
+and mortality, and its prevalence has increased due to 
+population aging.1-4 This condition may present as aortic 
+stenosis (AS) or aortic regurgitation (AR)1 and results in 
+continuous hemodynamic overload of the left ventricle (LV). 
+This overload triggers adaptive hypertrophic mechanisms and 
+progressive fibrotic deposition,5-7 which may be reversible in 
+earlier stages8 but can become irreversible in advanced phases, 
+particularly due to interstitial fibrosis deposition.9
+Fibrosis quantification can be performed using collagen 
+volume fraction (CVF) measured by Picrosirius red staining in myocardial biopsy samples.10,11 This technique is relatively 
+cost-effective and can be combined with digital image 
+analysis to improve quantification accuracy and reduce 
+operator dependency.12 However, myocardial biopsy is not 
+routinely performed in clinical practice for valvular disease 
+due to its invasive nature and is therefore mainly restricted 
+to research settings.
+Cardiac magnetic resonance (CMR) enables quantification 
+of regional myocardial fibrosis (MF) through late gadolinium 
+enhancement (LGE). In aortic valve disease, the presence 
+of MF has been associated with worse prognosis, as 
+demonstrated in studies by Debl et al.13 and by Weidemann 
+et al.14 Nigri et al.15 reported good accuracy of qualitative 
+LGE analysis in severe aortic valve disease when compared 
+with histopathology. Azevedo et al.16 demonstrated a strong 
+correlation between quantitative LGE analysis and CVF  
+(r = 0.69, p < 0.001).
+T1 mapping allows detection of interstitial fibrosis and 
+may be more sensitive than LGE for early identification.17-19 
+Myocardial extracellular volume (ECV) reflects the tissue 
+fraction that is not composed of cells.20,21 Flett et al.22 
+demonstrated its correlation with histopathological findings 
+1
+
+Arq Bras Cardiol. 2026; 123(2):e20250203Original Article
+Bello et al.
+Myocardial Fibrosis in Aortic Valve Disease
+Central Illustration:  Interstitial Myocardial Fibrosis Analysis by Histology and Cardiac Magnetic 
+Resonance in Severe Aortic Valve Disease
+Arq Bras Cardiol. 2026; 123(2):e20250203
+CVF: collagen volume fraction; ECV: extracellular volume; LGE: late gadolinium enhancement.
+Myocardial  
+fibrosis analysis
+Biopsy
+CVFLGE ECV
+Sensitivity
+64.8%
+Specificity
+77.8%
+Accuracy
+71%Sensitivity
+40.7%
+Specificity
+74.1%
+Accuracy
+57%
+in 18 patients with AS. However, a 2018 study found no 
+association between ECV and CVF in 133 patients with AS,23 
+although both LGE and ECV were associated with worse 
+functional capacity.24
+Because of the limited number of studies evaluating MF , 
+particularly in AR, this study aimed to characterize interstitial 
+fibrosis in severe aortic valve disease using CVF and to compare 
+it with CMR-derived measures, including LGE, native T1 
+mapping, and ECV .
+Methods
+This sub-study included patients enrolled in two prospective 
+observational studies involving individuals followed at the 
+Valvular Heart Disease Clinical Unit of the Heart Institute 
+of the Hospital das Clínicas of the Universidade de São 
+Paulo Medical School. Both studies were approved by the 
+institutional human research ethics committee. Participants 
+included patients aged between 18 and 75 years of either sex 
+with chronic severe aortic valve disease (predominantly AS or 
+AR), regardless of etiology, and with an indication for surgical 
+aortic valve treatment based on the Brazilian Guidelines for 
+Heart Valve Disease – 2011/I Inter-American Guideline for 
+Heart Valve Disease – 2011 SIAC.25 Both original studies have 
+been previously published.23,26
+Patients were recruited between June 2014 and September 
+2019 after receiving full information about the study protocol 
+and its potential risks and after providing written informed 
+consent. Exclusion criteria included patient withdrawal at 
+any time; associated mitral valve disease greater than mild severity; insulin-treated diabetes mellitus; estimated creatinine 
+clearance (calculated using the Cockcroft-Gault equation) < 
+60 mL/min; claustrophobia preventing CMR; hemodynamic 
+instability preventing CMR; atrial fibrillation or other cardiac 
+arrhythmias that impaired T1 mapping quality; and the 
+presence of metallic devices contraindicating CMR or causing 
+artifacts that limited T1 map evaluation.
+Patients included in this sub-study met the same inclusion 
+and exclusion criteria as the original studies; however, only 
+those with evaluable T1 mapping on CMR and adequate 
+myocardial biopsy samples were included.
+Among the 143 patients enrolled in the 2 primary studies, 
+15 did not have T1 maps of sufficient quality for analysis, 
+and 20 did not have evaluable biopsy samples due to 
+intraoperative limitations or insufficient tissue for adequate 
+analysis. This resulted in a final sample of 108 patients with 
+severe aortic valve disease who underwent preoperative 
+CMR with analyzable T1 mapping and evaluable myocardial 
+biopsy (Figure 1).
+Cardiac magnetic resonance: image acquisition
+Images were acquired on a 1.5-T scanner (Achieva, 
+Philips Healthcare, Amsterdam, the Netherlands) with 
+patients in the supine position, using a body coil and 
+retrospective electrocardiographic gating. CMR was performed 
+preoperatively, up to 90 days before surgery.
+To assess myocardial fibrosis, LGE imaging was obtained 
+using gradient-echo sequences with inversion-recovery 
+preparation pulses27,28 and phase-sensitive inversion recovery 
+2
+
+Arq Bras Cardiol. 2026; 123(2):e20250203Original Article
+Bello et al.
+Myocardial Fibrosis in Aortic Valve Disease
+reconstruction, allowing adjustment of the inversion time to 
+null signal from normal myocardium (repetition time, 6.1 ms; 
+echo time, 3.0 ms; flip angle, 25°; spatial resolution, 1.5 × 2.0 
+× 8.0 mm). LGE images were acquired at least 10 minutes after 
+intravenous administration of a gadolinium-based contrast 
+agent (Dotarem, Guerbet, Aulnay-Sous-Bois, France) at a dose 
+of 0.2 mmol/kg (0.4 mL/kg).
+Native (pre-contrast) and post-contrast T1 mapping were 
+performed using the modified Look-Locker inversion recovery 
+(MOLLI) sequence,18 based on the method originally described by Look and Locker.29 This approach uses a gradient-echo 
+readout with single-shot, non-segmented k-space acquisition 
+under steady-state free precession, preceded by inversion-
+recovery pulses, enabling image acquisition within a single 
+breath-hold. The MOLLI scheme used in this study was the 
+classic 3(3)3(3)5 protocol, acquired over a 17–heartbeat 
+breath-hold and yielding 11 images at different inversion 
+times. This scheme consists of 3 beats with image acquisition 
+followed by 3 recovery beats, then another 3 acquisition 
+beats followed by 3 recovery beats, and finally 5 acquisition 
+beats. Imaging parameters were as follows: slice thickness, 10 
+mm; field of view, 300 × 300 mm; matrix, 152 × 150; flip 
+angle, 40°; minimum inversion time, 60 ms; inversion-time 
+increment, 150 ms.
+For T1 mapping, short-axis images of the LV were acquired 
+at basal, mid-ventricular, and apical levels.
+Cardiac magnetic resonance: image analysis
+All images were stored in Digital Imaging Communications 
+in Medicine format and analyzed using commercially available 
+software (CVi42, version 5.13.5; Circle Cardiovascular Imaging 
+Inc, Calgary, Canada).
+Myocardial LGE was quantified using a semi-automated 
+threshold-based technique, defining fibrosis as signal intensity 
+> 5 standard deviations (SDs) above the mean signal of 
+remote, visually normal myocardium. The software provided 
+LGE mass (g), which was also expressed as a percentage of 
+total LV mass.
+T1 analysis was performed by delineating a region of 
+interest in the myocardium based on endocardial and 
+epicardial contours, while excluding extracardiac structures 
+and the ventricular cavity (Figure 2). Measurements were 
+obtained for each segment at basal, mid-ventricular, and 
+apical levels. T1 values were derived using an exponential 
+model and corrected for heart rate. Using the resulting T1 
+values, myocardial ECV was calculated according to the 
+following formula:20Figure 1 –  Study flowchart of patient selection and inclusion criteria. 
+CMR: cardiac magnetic resonance.
+Patients with severe aortic valve disease with a 
+surgical indication (n = 143)
+Patients with severe aortic valve disease and 
+preoperative CMR with evaluable T1 mapping  
+and myocardial biopsy (n = 108)
+Patients without  
+a sufficient  
+biopsy sample  
+(n = 20)
+Patients without 
+CMR with 
+evaluable  
+T1 mapping  
+(n = 15)
+Figure 2 –  Quantification of myocardial LGE. Short-axis images showing LGE measurement in a representative study participant. 
+LGE: late gadolinium enhancement.
+3
+
+Arq Bras Cardiol. 2026; 123(2):e20250203Original Article
+Bello et al.
+Myocardial Fibrosis in Aortic Valve Disease
+ECV = (1 –  hematocrit) X(1/T1)post-myocardial– (1/T1)pre-myocardial
+(1/T1)post-blood– (1/T1)pre-blood
+ECV: Extracellular myocardial volume (extracellular distribution volume 
+of contrast in the myocardium)
+(1/T1)post-myocardial: inverse of myocardial T1 after contrast injection
+(1/T1)pre-myocardial: inverse of myocardial T1 before contrast injection
+(1/T1)post-blood: inverse of blood T1 after contrast injection
+(1/T1)pre-blood: inverse of blood T1 before contrast injection
+ECV represents the fraction of myocardial tissue composed of 
+extracellular space and therefore reflects diffuse/interstitial 
+myocardial fibrosis. On the same day as CMR, a peripheral 
+blood sample was obtained for complete blood count analysis; 
+hematocrit was used in Equation (1).
+Native T1 and ECV were quantified in myocardial regions 
+without LGE, and global values were calculated as the mean 
+of the analyzed myocardial segments (Figure 3; Figure 4)).
+Endomyocardial biopsy
+During surgical treatment of aortic valve disease, 
+an endomyocardial specimen weighing 25–50 mg was obtained from the basal interventricular septum, below 
+the commissure between the left and right coronary cusps. 
+The specimen was fixed in 10% buffered formalin for 24 
+hours and sent to the institutional pathology laboratory for 
+routine processing and paraffin embedding.
+Sections 5 µm thick were cut and stained with 
+hematoxylin and eosin for standard histological assessment 
+and with Picrosirius red for evaluation and quantification 
+of interstitial fibrosis. Picrosirius red stains type I and type 
+III collagen in red hues. Histological images were captured 
+using an AxioCam HR camera (Carl Zeiss, Germany) 
+coupled to an Axio Imager A1 microscope (Carl Zeiss, 
+Germany), integrated with AxioVision software (version 
+4.6; Carl Zeiss, Germany) (Figures 5; Figure 6).
+Images were acquired randomly at 400× magnification, 
+with a minimum of 10 and a maximum of 20 fields per 
+slide. Regions containing vessels > 50 µm in diameter 
+and areas with > 50% fibrosis were excluded to 
+avoid consolidated scar and regions with prominent 
+tissue retraction artifacts. The endocardium was not 
+analyzed. Quantitative assessment of interstitial fibrosis 
+was performed by calculating myocardial CVF using 
+computerized histomorphometry, expressed as the 
+percentage of interstitial collagen area relative to the total 
+myocardial area analyzed in each sample.
+Figure 3 –  Segmental native and post-contrast T1 measurements and corresponding relaxation curves. Short-axis views and native T1 
+relaxation curves in a representative study participant.
+Post-contrast T1 Native T1
+4
+
+Arq Bras Cardiol. 2026; 123(2):e20250203Original Article
+Bello et al.
+Myocardial Fibrosis in Aortic Valve Disease
+Statistical analysis
+Descriptive statistics are presented as absolute and 
+relative frequencies for categorical variables. Continuous 
+variables are reported as mean ± SD when normally 
+distributed and as median (interquartile range [IQR]) when 
+non-normally distributed.
+Normality of continuous variables was assessed using the 
+Shapiro–Wilk test, and subsequent statistical testing was 
+selected accordingly. Associations between CMR-derived fibrosis metrics (T1 mapping–based measures and LGE) 
+and histopathology were evaluated using linear regression 
+and Pearson or Spearman correlation coefficients, as 
+appropriate. Assumptions for linear regression were 
+examined. Although statistical testing indicated non-
+normality of residuals in some comparisons, visual 
+inspection did not suggest meaningful deviations. Because 
+of the sample size, the regression model was retained and 
+results were interpreted with appropriate caution.Figure 4 –  T1 mapping and ECV images in a representative study participant. Short-axis views illustrating a graded color scale corresponding 
+to the local measured values. ECV: extracellular volume.
+Post-contrast T1 Native T1 ECV
+Figure 5 –  Initial step of interstitial fibrosis quantification in histology. Picrosirius red–stained field before automated quantification. 
+Interstitial fibrosis appears as dark red; myocytes appear pale with bluish nuclei. The observer selects the red hue to be quantified 
+as fibrosis.
+5
+
+Arq Bras Cardiol. 2026; 123(2):e20250203Original Article
+Bello et al.
+Myocardial Fibrosis in Aortic Valve Disease
+Figure 6 –  Interstitial fibrosis quantification in histology. The same field shown in Figure 5 after automated detection, with collagen 
+areas highlighted in green. Manual fine adjustments were performed when needed.
+The diagnostic performance of CMR for detection of 
+histological fibrosis was assessed using receiver operating 
+characteristic (ROC) curves, with calculation of the area under 
+the curve (AUC) and 95% CIs. Agreement between fibrosis 
+detection methods was evaluated using Bland–Altman analysis 
+and, when applicable, Cohen’s kappa.
+All analyses were performed using Stata/SE 13 (StataCorp 
+LP , College Station, TX, USA). All tests were two-sided, and 
+statistical significance was set at p < 0.05. Additional analyses 
+were conducted within predefined subgroups.
+Results
+Clinical and demographic characteristics
+Of the 108 individuals with severe aortic valve disease, 28 
+(26%) had AR. The median age was 63 years (range 56–70), 
+and 65% of participants were male (Table 1).
+Histological assessment of collagen volume fraction
+The mean myocardial CVF in the study sample was 21.9 ± 
+5.5% (Table 2). Interstitial myocardial fibrosis was considered 
+pathologically increased when CVF exceeded the mean plus 
+2 SD of values observed in a control group, corresponding to a 
+reference value of 9.6%, as previously established.16 However, 
+because mean CVF values in the present cohort were markedly 
+higher than this reference, the median CVF was adopted as the 
+cutoff for abnormal fibrosis (≥ 22.25%), resulting in 54 patients 
+classified as having increased CVF . This threshold is consistent with 
+clinically relevant values reported in prior research.30,31Table 1 –  Preoperative demographic and clinical 
+characteristics (n = 108)
+Variable Value
+Age, years 63 (56–70)
+Male sex 70 (65%)
+Creatinine, mg/dL 1.08 ± 0.3
+Diabetes mellitus 24 (22%)
+Hypertension 71 (66%)
+Coronary artery disease 2 (2%)
+Dyslipidemia 40 (37%)
+Data are presented as mean ± standard deviation for normally 
+distributed continuous variables, median (interquartile range) 
+for non-normally distributed variables, and absolute values and 
+percentages for categorical variables.Using the reference value of 9.6%, 96% of patients (n = 104) 
+in the total sample had increased CVF .
+Late gadolinium enhancement: macroscopic myocardial 
+fibrosis
+Regional myocardial fibrosis detected by LGE was present 
+in 44% of patients (n = 47). The median percentage of LGE 
+relative to total LV mass was 0 (IQR, 0–1.74), with a mean 
+value of 1.3% in the overall sample (Table 2).
+6
+
+Arq Bras Cardiol. 2026; 123(2):e20250203Original Article
+Bello et al.
+Myocardial Fibrosis in Aortic Valve Disease
+Extracellular volume assessment: interstitial fibrosis
+Mean ECV values measured in myocardial regions without 
+LGE were 29 ± 4% (Table 2). Using a reference value of 30%, 
+32% of patients (n = 35) exhibited elevated ECV .
+Correlations between cardiac magnetic resonance-derived 
+fibrosis measures and collagen volume fraction
+Because of the asymmetric distribution of LGE values and 
+the presence of outliers identified in exploratory analysis, 
+Spearman correlation was used to assess the association 
+Table 3 –  Correlation between cardiac magnetic 
+resonance-derived fibrosis parameters and collagen 
+volume fraction
+Parameter ρ/r p-value
+Global LGE (%) 0.44 < 0.001
+Global ECV without LGE (%) 0.36 0.001
+CVF: collagen volume fraction; ECV: extracellular volume; 
+LGE: late gadolinium enhancement.Table 2 –  Fibrosis assessment parameters by preoperative 
+cardiac magnetic resonance and histology
+Parameter Mean/median
+LGE (%) 0 (0–1.74)
+Global ECV without LGE (%) 29 ± 4.20
+CVF (%) 22 ± 5.50
+Data are presented as mean ± standard deviation for normally 
+distributed continuous variables and median (interquartile 
+range) for non-normally distributed variables. CVF: collagen 
+volume fraction; ECV: extracellular volume; LGE: late 
+gadolinium enhancement.between LGE and CVF . A moderate, statistically significant 
+positive correlation was observed between LGE and CVF  
+(p = 0.44; p < 0.001), indicating a monotonic association. 
+A moderate correlation was also observed between ECV and 
+CVF (r = 0.36; p = 0.001) (Table 3; Figure 7).
+Diagnostic performance of cardiac magnetic resonance
+The sensitivity of LGE for detecting histologically confirmed 
+myocardial fibrosis was 64.8%, with a specificity of 77.8%, 
+an accuracy of 71%, and an AUC of 0.73 (Table 4; Figure 8).
+The diagnostic performance of ECV for identifying increased 
+CVF (≥ 22.25%) showed a sensitivity of 40.7%, specificity of 
+74.1%, accuracy of 57%, and an AUC of 0.574. Agreement 
+analysis using the Bland–Altman method demonstrated a 
+mean bias of −0.167 (95% CI, −0.288 to −0.046). The 
+limits of agreement displayed a trapezoidal pattern, indicating 
+proportional bias and increasing variability with higher mean 
+values. Cohen’s kappa coefficient was low (0.171), indicating 
+very weak agreement between ECV and histological fibrosis 
+measures. These findings highlight important limitations in 
+concordance that should be considered when interpreting 
+ECV results (Table 5; Figure 9; Figure 10).
+Discussion
+The findings of this study, summarized in Central Illustration, 
+are consistent with prior research in demonstrating a 
+substantial burden of myocardial fibrosis in patients with severe 
+aortic valve disease. However, an important limitation relates 
+to the biopsy sampling site. Tissue collection was restricted 
+to the interventricular septum, resulting in a limited sample 
+that may have constrained histopathological assessment, given 
+that only a single myocardial fragment was obtained during 
+surgery. Previous studies have reported stronger correlations 
+between ECV and histology when multiple (n = 16) tissue 
+blocks from different myocardial segments were analyzed, 
+such as investigations using explanted hearts from patients 
+with dilated or ischemic cardiomyopathy undergoing cardiac 
+Figure 7 –  Linear regression between LGE and CVF . CVF: collagen volume fraction; ECV: extracellular volume ; LGE: late gadolinium enhancement.
+LGE
+CVF (%)r = 0.44
+p < 0.001
+10 15 20 30 35 25LGE Global (%)20
+15
+5
+010
+CVF (%)10 15 20 25 30 35r = 0.36
+p = 0.00145
+35
+30
+25
+2040ECV (%)Extracellular volume
+7
+
+Arq Bras Cardiol. 2026; 123(2):e20250203Original Article
+Bello et al.
+Myocardial Fibrosis in Aortic Valve Disease
+transplantation.32 In addition, myocardial fibrosis in aortic 
+valve disease is not confined to the interventricular septum, 
+which may further limit the representativeness of a single 
+septal biopsy.16
+The mean CVF observed in this cohort (22 ± 5.5%) 
+reflects an advanced stage of interstitial remodeling. This 
+finding is consistent with earlier studies indicating that chronic 
+hemodynamic overload plays a central role in activating 
+hypertrophic pathways and extracellular matrix deposition 
+in aortic valve disease.10,11
+Quantification of fibrosis by CMR showed moderate 
+correlations between LGE and CVF (r = 0.44; p < 0.001), 
+as well as between ECV and CVF (r = 0.36; p = 0.001). 
+These results are directionally consistent with those reported 
+by Azevedo et al.,16 who demonstrated a strong correlation 
+between LGE and CVF (r = 0.69; p < 0.001). The lower 
+magnitude of correlation observed in the present study may be 
+explained by methodological differences in LGE quantification 
+and by the higher proportion of patients with AS included in 
+this cohort.
+Macroscopic myocardial fibrosis detected by LGE was 
+present in 44% of patients, supporting the concept that 
+collagen deposition in advanced stages of aortic valve disease is 
+heterogeneous and regionally distributed, as described by Nigri 
+et al.15 However, LGE demonstrated a sensitivity of 64.8%, 
+specificity of 77.8%, overall accuracy of 71%, and an AUC of 
+0.73 for the detection of histological fibrosis. These findings 
+indicate that, although LGE is a valuable tool for identifying 
+myocardial fibrosis, it may underestimate the total burden of 
+interstitial fibrosis, particularly in patients without extensive 
+focal collagen deposition.
+ECV showed a moderate correlation with CVF , in contrast to 
+a 2018 study that found no association between ECV and CVF , 
+possibly because that cohort consisted exclusively of patients 
+with AS, unlike the mixed valvular population in the present 
+study. Nevertheless, ECV demonstrated lower diagnostic 
+performance than LGE (AUC = 0.57), with a sensitivity of 
+40.7% and specificity of 74.1%. The reduced sensitivity of 
+ECV may be partly attributable to fibrosis heterogeneity, as 
+this technique quantifies expansion of the extracellular space 
+without directly distinguishing collagen from other interstitial 
+components. Bland–Altman analysis revealed a mean bias 
+of −0.167 (95% CI, −0.288 to −0.046), indicating a slight 
+underestimation of fibrosis by ECV . Agreement analysis yielded 
+a low Cohen’s kappa value (0.171), indicating only weak 
+concordance between ECV and CVF .
+Overall, T1 mapping–derived parameters highlight the role 
+of CMR not only as a noninvasive diagnostic modality but also 
+as a tool for advancing understanding of the pathophysiology 
+of aortic valve disease, particularly mechanisms of myocardial 
+remodeling and fibrosis formation. The moderate correlations 
+observed between CMR-derived parameters and CVF support 
+their applicability for myocardial fibrosis characterization and 
+potentially for longitudinal assessment. Recent studies have also 
+demonstrated associations between ECV and postoperative 
+prognostic outcomes in patients with aortic valve disease, 
+particularly when ECV is indexed to LV mass, which underscores 
+the potential clinical relevance of these measures.23Table 4 –  Diagnostic performance of late gadolinium 
+enhancement for detection of histological fibrosis
+Parameter Estimate (%) 95% CI
+Sensitivity 64.80 50.60–77.30
+Specificity 77.80 64.40–88.00
+Accuracy 71.00 62.00–80.00
+AUC 0.73 0.68–0.78
+AUC: area under the receiver operating characteristic curve.
+Figure 8 –  ROC curve of LGE for prediction of myocardial fibrosis 
+by biopsy. CVF: collagen volume fraction; LGE: late gadolinium 
+enhancement; ROC: receiver operating characteristic.
+Area under ROC curve = 0.731 – Specificity0.00 1.00 0.25 0.75 0.500.00 1.00 0.25 0.75 0.50Sensitivity
+Table 5 –  Receiver operating characteristic (ROC) analysis 
+of extracellular volume for prediction of histological 
+myocardial fibrosis
+Parameter Estimate (%) 95% CI
+Sensitivity 41 28–55
+Specificity 74 60.30–85
+Accuracy 57 48–67
+AUC 0.57 0.49–0.66
+AUC: area under the ROC curve.Conclusion
+CVF is markedly increased in severe aortic valve 
+disease, despite the sampling limitation inherent to 
+biopsy collection restricted to the interventricular septum. 
+These findings highlight the moderate specificity but low 
+sensitivity of ECV for the detection of myocardial fibrosis, 
+indicating that, although ECV may help exclude advanced 
+8
+
+Arq Bras Cardiol. 2026; 123(2):e20250203Original Article
+Bello et al.
+Myocardial Fibrosis in Aortic Valve Disease
+Figure 9 –  Receiver operating characteristic (ROC) curve 
+comparing CVF and ECV. AUC: area under the ROC curve; CVF: 
+collagen volume fraction; ECV: extracellular volume.
+AUC = 0.571 – Specificity0.00 1.00 0.25 0.75 0.500.00 1.00 0.25 0.75 0.50Sensitivity
+Figure 10 –  Bland–Altman agreement analysis between CVF and 
+ECV. CVF: collagen volume fraction; ECV: extracellular volume.
+95% CI upper: -0.046
+95% CI lower: -0.288
+Kappa = 0.17
+Means between ECV and CVF15 40 20 35 30 25-20 20 -10 10 0Difference (ECV-CVF)
+fibrosis, its use as a standalone diagnostic marker for 
+interstitial fibrosis remains limited.
+Overall, our results reinforce that myocardial fibrosis 
+is a multifactorial process and that imaging-based 
+techniques have inherent limitations in its detection and 
+quantification. A combined assessment using LGE and 
+ECV may provide complementary information, particularly 
+for the early identification of interstitial fibrosis. Further 
+studies are warranted to determine the prognostic impact 
+of these measures on the clinical course of aortic valve 
+disease and to evaluate the potential of T1 mapping as a 
+more sensitive marker for early myocardial fibrosis. This 
+study underscores the relevance of CMR in the assessment 
+of myocardial fibrosis and microstructural remodeling, with 
+potential implications for therapeutic decision-making and 
+optimal timing of intervention.
+Author Contributions
+Conception and design of the research: Bello JHM, Demarchi 
+LMMF , Sampaio RO, Aiello VD, Tarasoutchi F , Rochitte CE; 
+Acquisition of data: Bello JHM, Demarchi LMMF , Fonseca 
+RA, Lima GN, Pires LJT, Rosa VEE, Sampaio RO, Gutierrez PS, 
+Tarasoutchi F; Analysis and interpretation of the data: Bello 
+JHM, Demarchi LMMF , Fonseca RA, Pires LJT, Sampaio RO, 
+Gutierrez PS, Aiello VD, Tarasoutchi F , Rochitte CE; Statistical 
+analysis, Writing of the manuscript and Critical revision of the 
+manuscript for content: Bello JHM, Rochitte CE.Potential conflict of interest 
+No potential conflict of interest relevant to this article was 
+reported. 
+Sources of funding 
+There were no external funding sources for this study. 
+Study association 
+This article is part of the thesis of doctoral submitted by 
+Juliana Hiromi Silva Matsumoto Bello, from Faculdade de 
+Medicina da Universidade de São Paulo.
+Ethics approval and consent to participate
+This study was approved by the Ethics Committee of the 
+Comissão de Ética para Análise de Projetos de Pesquisa - CAPPesq 
+under the protocol number 10216613.4.0000.0068. Informed 
+consent was obtained from all participants included in the study.
+Use of Artificial Intelligence
+The authors did not use any artificial intelligence tools in 
+the development of this work.
+Data Availability Statement
+The underlying content of the research text is contained 
+within the manuscript.
+1.  Ancona R, Comenale Pinto S. Epidemiology of Aortic Valve Stenosis (AS) 
+and of Aortic Valve Incompetence (AI): Is The Prevalence of AS/AI Similar in 
+Different Parts of the World? E-Journal Cardiol Pract. 2020;18:26.
+2.  Maurer G. Aortic Regurgitation. Heart. 2006;92(7):994-1000. doi: 10.1136/
+hrt.2004.042614. 3.  Nkomo VT, Gardin JM, Skelton TN, Gottdiener JS, Scott CG, Enriquez-Sarano 
+M. Burden of Valvular Heart Diseases: A Population-Based Study. Lancet. 
+2006;368(9540):1005-11. doi: 10.1016/S0140-6736(06)69208-8. 
+4.  Camm AJ, Lüscher TF , Serruys PW, editors. ESC CardioMed. 3rd ed. Oxford: 
+Oxford University Press; 2018. References
+9
+
+Arq Bras Cardiol. 2026; 123(2):e20250203Original Article
+Bello et al.
+Myocardial Fibrosis in Aortic Valve Disease
+This is an open-access article distributed under the terms of the Creative Commons Attribution License
+5.  Heymans S, Schroen B, Vermeersch P , Milting H, Gao F , Kassner A, et al. Increased 
+Cardiac Expression of Tissue Inhibitor of Metalloproteinase-1 and Tissue Inhibitor 
+of Metalloproteinase-2 is Related to Cardiac Fibrosis and Dysfunction in the 
+Chronic Pressure-Overloaded Human Heart. Circulation. 2005;112(8):1136-
+44. doi: 10.1161/CIRCULATIONAHA.104.516963. 
+6.  Hein S, Arnon E, Kostin S, Schönburg M, Elsässer A, Polyakova V , et al. Progression 
+from Compensated Hypertrophy to Failure in the Pressure-Overloaded Human 
+Heart: Structural Deterioration and Compensatory Mechanisms. Circulation. 
+2003;107(7):984-91. doi: 10.1161/01.cir.0000051865.66123.b7. 
+7.  Krayenbuehl HP , Hess OM, Monrad ES, Schneider J, Mall G, Turina M. Left 
+Ventricular Myocardial Structure in Aortic Valve Disease Before, Intermediate, 
+and Late after Aortic Valve Replacement. Circulation. 1989;79(4):744-55. doi: 
+10.1161/01.cir.79.4.744. 
+8.  Otto CM, Nishimura RA, Bonow RO, Carabello BA, Erwin JP 3rd, Gentile F , et 
+al. 2020 ACC/AHA Guideline for the Management of Patients with Valvular 
+Heart Disease: A Report of the American College of Cardiology/American 
+Heart Association Joint Committee on Clinical Practice Guidelines. Circulation. 
+202;143(5):e72-e227. doi: 10.1161/CIR.0000000000000923. 
+9.  Maron BJ, Ferrans VJ, Roberts WC. Myocardial Ultrastructure in Patients 
+with Chronic Aortic Valve Disease. Am J Cardiol. 1975;35(5):725-39. doi: 
+10.1016/0002-9149(75)90065-x. 
+10.  Lattouf R, Younes R, Lutomski D, Naaman N, Godeau G, Senni K, et al. 
+Picrosirius Red Staining: A Useful Tool to Appraise Collagen Networks in Normal 
+and Pathological Tissues. J Histochem Cytochem. 2014;62(10):751-8. doi: 
+10.1369/0022155414545787. 
+11.  Rittié L. Method for Picrosirius Red-Polarization Detection of Collagen Fibers in 
+Tissue Sections. Methods Mol Biol. 2017;1627:395-407. doi: 10.1007/978-1-
+4939-7113-8_26. 
+12.  Courtoy GE, Leclercq I, Froidure A, Schiano G, Morelle J, Devuyst O, et al. Digital 
+Image Analysis of Picrosirius Red Staining: A Robust Method for Multi-Organ 
+Fibrosis Quantification and Characterization. Biomolecules. 2020;10(11):1585. 
+doi: 10.3390/biom10111585. 
+13.  Debl K, Djavidani B, Buchner S, Lipke C, Nitz W, Feuerbach S, et al. Delayed 
+Hyperenhancement in Magnetic Resonance Imaging of Left Ventricular 
+Hypertrophy Caused by Aortic Stenosis and Hypertrophic Cardiomyopathy: 
+Visualisation of Focal Fibrosis. Heart. 2006;92(10):1447-51. doi: 10.1136/
+hrt.2005.079392. 
+14.  Weidemann F , Herrmann S, Störk S, Niemann M, Frantz S, Lange V , et 
+al. Impact of Myocardial Fibrosis in Patients with Symptomatic Severe 
+Aortic Stenosis. Circulation. 2009;120(7):577-84. doi: 10.1161/
+CIRCULATIONAHA.108.847772. 
+15.  Nigri M, Azevedo CF , Rochitte CE, Schraibman V , Tarasoutchi F , Pommerantzeff 
+PM, et al. Contrast-Enhanced Magnetic Resonance Imaging Identifies Focal 
+Regions of Intramyocardial Fibrosis in Patients with Severe Aortic Valve Disease: 
+Correlation with Quantitative Histopathology. Am Heart J. 2009;157(2):361-8. 
+doi: 10.1016/j.ahj.2008.09.012. 
+16.  Azevedo CF , Nigri M, Higuchi ML, Pomerantzeff PM, Spina GS, Sampaio RO, et al. 
+Prognostic Significance of Myocardial Fibrosis Quantification by Histopathology 
+and Magnetic Resonance Imaging in Patients with Severe Aortic Valve Disease. 
+J Am Coll Cardiol. 2010;56(4):278-87. doi: 10.1016/j.jacc.2009.12.074. 
+17.  Karlsson M, Nordell B. Phantom and in Vivo Study of the Look-Locher T1 
+Mapping Method. Magn Reson Imaging. 1999;17(10):1481-8. doi: 10.1016/
+s0730-725x(99)00078-8. 
+18.  Messroghli DR, Radjenovic A, Kozerke S, Higgins DM, Sivananthan MU, Ridgway 
+JP . Modified Look-Locker Inversion Recovery (MOLLI) for High-Resolution T1 
+Mapping of the Heart. Magn Reson Med. 2004;52(1):141-6. doi: 10.1002/
+mrm.20110. 
+19.  Messroghli DR, Greiser A, Fröhlich M, Dietz R, Schulz-Menger J. Optimization 
+and Validation of a Fully-Integrated Pulse Sequence for Modified Look-Locker Inversion-Recovery (MOLLI) T1 Mapping of the Heart. J Magn Reson Imaging. 
+2007;26(4):1081-6. doi: 10.1002/jmri.21119. 
+20.  Wong TC, Piehler K, Meier CG, Testa SM, Klock AM, Aneizi AA, et al. Association 
+between Extracellular Matrix Expansion Quantified by Cardiovascular Magnetic 
+Resonance and Short-Term Mortality. Circulation. 2012;126(10):1206-16. doi: 
+10.1161/CIRCULATIONAHA.111.089409. 
+21.  Wong TC, Piehler KM, Kang IA, Kadakkal A, Kellman P , Schwartzman DS, et al. 
+Myocardial Extracellular Volume Fraction Quantified by Cardiovascular Magnetic 
+Resonance is Increased in Diabetes and Associated with Mortality and Incident 
+Heart Failure Admission. Eur Heart J. 2014;35(10):657-64. doi: 10.1093/
+eurheartj/eht193. 
+22.  Flett AS, Hayward MP , Ashworth MT, Hansen MS, Taylor AM, Elliott PM, et al. 
+Equilibrium Contrast Cardiovascular Magnetic Resonance for the Measurement 
+of Diffuse Myocardial Fibrosis: Preliminary Validation in Humans. Circulation. 
+2010;122(2):138-44. doi: 10.1161/CIRCULATIONAHA.109.930636. 
+23. Rosa VEE, Ribeiro HB, Sampaio RO, Morais TC, Rosa MEE, Pires LJT, 
+et al. Myocardial Fibrosis in Classical Low-Flow, Low-Gradient Aortic 
+Stenosis. Circ Cardiovasc Imaging. 2019;12(5):e008353. doi: 10.1161/
+CIRCIMAGING.118.008353
+24.  Treibel TA, Kozor R, Schofield R, Benedetti G, Fontana M, Bhuva AN, et al. 
+Reverse Myocardial Remodeling Following Valve Replacement in Patients 
+with Aortic Stenosis. J Am Coll Cardiol. 2018;71(8):860-71. doi: 10.1016/j.
+jacc.2017.12.035. 
+25.  Tarasoutchi F , Montera MW, Grinberg M, Piñeiro DJ, Sánchez CR, Bacelar AC, et 
+al. Brazilian Guidelines for Valve Disease - SBC 2011 / I Guideline Inter-American 
+Valve Disease - 2011 SIAC. Arq Bras Cardiol. 2011;97(5 Suppl 1):1-67. doi: 
+10.1590/s0066-782x2011002000001. 
+26.  Pires LT, Rosa VEE, Morais TC, Bello JHSM, Fernandes JRC, Santis A, et al. 
+Postoperative Myocardial Fibrosis Assessment in Aortic Valvular Heart Diseases-A 
+Cardiovascular Magnetic Resonance Study. Eur Heart J Cardiovasc Imaging. 
+2023;24(7):851-62. doi: 10.1093/ehjci/jead041.
+27.  Kim RJ, Fieno DS, Parrish TB, Harris K, Chen EL, Simonetti O, et al. Relationship 
+of MRI Delayed Contrast Enhancement to Irreversible Injury, Infarct Age, and 
+Contractile Function. Circulation. 1999;100(19):1992-2002. doi: 10.1161/01.
+cir.100.19.1992. 
+28.  Kim RJ, Wu E, Rafael A, Chen EL, Parker MA, Simonetti O, et al. The Use 
+of Contrast-Enhanced Magnetic Resonance Imaging to Identify Reversible 
+Myocardial Dysfunction. N Engl J Med. 2000;343(20):1445-53. doi: 10.1056/
+NEJM200011163432003. 
+29.  Look DC, Locker DR. Time Saving in Measurement of NMR and EPR Relaxation 
+Times. Rev Sci Instrum. 1970;41:250-1. doi: 10.1063/1.1684482.
+30.  Rogers T, Dabir D, Mahmoud I, Voigt T, Schaeffter T, Nagel E, et al. Standardization 
+of T1 Measurements with MOLLI in Differentiation between Health and 
+Disease--The ConSept Study. J Cardiovasc Magn Reson. 2013;15(1):78. doi: 
+10.1186/1532-429X-15-78. 
+31.  Azevedo CF , Nigri M, Higuchi ML, Pomerantzeff PM, Spina GS, Sampaio RO, et al. 
+Prognostic Significance of Myocardial Fibrosis Quantification by Histopathology 
+and Magnetic Resonance Imaging in Patients with Severe Aortic Valve Disease. 
+J Am Coll Cardiol. 2010;56(4):278-87. doi: 10.1016/j.jacc.2009.12.074.
+32.  Cui Y, Cao Y, Song J, Dong N, Kong X, Wang J, et al. Association between 
+Myocardial Extracellular Volume and Strain Analysis Through Cardiovascular 
+Magnetic Resonance with Histological Myocardial Fibrosis in Patients Awaiting 
+Heart Transplantation. J Cardiovasc Magn Reson. 2018;20(1):25. doi: 10.1186/
+s12968-018-0445-z. 
+33.  Treibel TA, López B, González A, Menacho K, Schofield RS, Ravassa S, et al. 
+Reappraising Myocardial Fibrosis in Severe Aortic Stenosis: An Invasive and Non-
+Invasive Study in 133 Patients. Eur Heart J. 2018;39(8):699-709. doi: 10.1093/
+eurheartj/ehx353.
+10
