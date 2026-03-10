@@ -43,4 +43,4 @@ def pdf_para_texto(pdf_path: str):
 
 # ===================== USO =====================
 if __name__ == "__main__":
-    pdf_para_texto(r'C:\Users\Lucas\PycharmProjects\fiap2_fase1_cap1\dataset_texto\Pharmacological_Treatment_for_Heart_Failure.pdf')
+    pdf_para_texto(r'/dataset_texto/Pharmacological_Treatment_for_Heart_Failure.pdf')
