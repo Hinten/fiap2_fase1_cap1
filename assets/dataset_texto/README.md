@@ -194,7 +194,6 @@ Diretriz brasileira (com participação latino-americana via FLAME) dedicada à 
 | **Instituições** | Universidade Federal de São Paulo (UNIFESP), São Paulo, SP – Brazil |
 | **Periódico** | Arquivos Brasileiros de Cardiologia (Arq Bras Cardiol) |
 | **Referência** | Arq Bras Cardiol. 2026; 123(2):e20250558 |
-| **DOI** | https://doi.org/10.36660/abc.20250558 |
 | **Licença / Direitos** | Acesso aberto — Arq Bras Cardiol publica sob licença Creative Commons; consultar site do periódico para termos completos |
 | **Palavras (~)** | 3 003 |
 
@@ -284,7 +283,6 @@ Diretriz brasileira sobre **cardiomiopatia hipertrófica (CMH)**, cobrindo diagn
 | **Instituições** | Instituto do Coração (InCor) do HC-FMUSP; Hospital das Clínicas da FMUSP, São Paulo, SP – Brazil |
 | **Periódico** | Arquivos Brasileiros de Cardiologia (Arq Bras Cardiol) |
 | **Referência** | Arq Bras Cardiol. 2026; 123(2):e20250203 |
-| **DOI** | https://doi.org/10.36660/abc.20250203 |
 | **Recebido / Aceito** | Recebido: 20/03/2025 · Aceito: 19/12/2025 |
 | **Licença / Direitos** | Acesso aberto — Arq Bras Cardiol publica sob licença Creative Commons; consultar site do periódico para termos completos |
 | **Palavras (~)** | 5 426 |
@@ -303,7 +301,6 @@ Artigo original (108 pacientes) que compara métodos histológicos (**fração d
 | **Instituições** | UFVJM (Diamantina, MG); HC-UFMG (Belo Horizonte, MG); Hospital Biocor-Rede D'Or; University of Oxford (UK); et al. |
 | **Periódico** | Arquivos Brasileiros de Cardiologia (Arq Bras Cardiol) |
 | **Referência** | Arq Bras Cardiol. 2026; 123(2):e20240616 |
-| **DOI** | https://doi.org/10.36660/abc.20240616 |
 | **Recebido / Aceito** | Recebido: 10/03/2025 · Aceito: 13/01/2026 |
 | **Licença / Direitos** | Acesso aberto — Arq Bras Cardiol publica sob licença Creative Commons; consultar site do periódico para termos completos |
 | **Palavras (~)** | 6 018 |
@@ -340,7 +337,6 @@ Posicionamento abrangente da SBC sobre **saúde cardiometabólica feminina** ao 
 | **Instituições** | Hospital Israelita Albert Einstein; InCor/HC-FMUSP; Fiocruz; Fleury Medicina e Saúde; múltiplas instituições de todas as regiões do Brasil |
 | **Periódico** | Arquivos Brasileiros de Cardiologia (Arq Bras Cardiol) |
 | **Referência** | Arq Bras Cardiol. 2026; 123(2):e20250628 |
-| **DOI** | https://doi.org/10.36660/abc.20250628 |
 | **Licença / Direitos** | Acesso aberto — Arq Bras Cardiol publica sob licença Creative Commons; consultar site do periódico para termos completos |
 | **Palavras (~)** | 6 203 |
 
