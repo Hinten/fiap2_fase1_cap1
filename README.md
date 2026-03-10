@@ -8,20 +8,20 @@
 
 # CardioIA – Batimentos de Dados
 
-## Nome do grupo
+## Atividade em Grupo: FIAP - 2026/1 - Fase1 Cap1
 
-## 👨‍🎓 Integrantes:
-- <a href="https://www.linkedin.com/in/">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/in/">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/in/">Nome do integrante 3</a>
-- <a href="https://www.linkedin.com/in/">Nome do integrante 4</a>
-- <a href="https://www.linkedin.com/in/">Nome do integrante 5</a>
+## 👨‍🎓 Integrantes: 
+- <a href="">Alice C. M. Assis - RM 566233</a>
+- <a href="">Leonardo S. Souza - RM 563928</a>
+- <a href="">Lucas B. Francelino - RM 561409</a> 
+- <a href="">Pedro L. T. Silva - RM 561644</a> 
+- <a href="">Vitor A. Bezerra - RM 563001</a>
 
 ## 👩‍🏫 Professores:
 ### Tutor(a)
-- <a href="https://www.linkedin.com/in/">Nome do Tutor</a>
+- <a>Caique Nonato da Silva Bezerra</a>
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/in/">Nome do Coordenador</a>
+- <a href="profandre.chiovato@fiap.com.br">André Godoi Chiovato</a>
 
 
 ## 📜 Descrição
@@ -47,8 +47,6 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
   - **assets/dataset_numerico**: dataset numérico clínico (Heart Disease UCI) em formato `.csv`.
   - **assets/dataset_texto**: corpus textual com 26 artigos científicos e diretrizes cardiológicas em formato `.txt`.
   - **assets/dataset_imagens**: amostra local de imagens de segmentos de ECG; o conjunto completo está no Google Drive.
-  - **assets/enunciado**: enunciado resumido da atividade.
-  - **assets/estrutura_readme**: exemplo de estrutura de README fornecido pela FIAP.
 
 - **src**: scripts auxiliares desenvolvidos para preparação dos dados.
 
