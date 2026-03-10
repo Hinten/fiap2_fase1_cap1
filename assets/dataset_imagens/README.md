@@ -7,15 +7,23 @@
 
 ## 📁 Imagens do Dataset
 
-> 🔗 **[Acesse as 100+ imagens hospedadas aqui → https://drive.google.com/drive/u/1/folders/1cN4qdgAq8gQM1BwV_S7LcYx4RL-UHw7j]()**
+> 🔗 **[Acesse as 100+ imagens hospedadas aqui →](https://drive.google.com/drive/u/1/folders/1cN4qdgAq8gQM1BwV_S7LcYx4RL-UHw7j)**
 
 As imagens foram selecionadas a partir do dataset público **ECG Images**, disponível no Kaggle:  
 📦 [https://www.kaggle.com/datasets/analiviafr/ecg-images](https://www.kaggle.com/datasets/analiviafr/ecg-images)
 
 - **Tipo de dado:** Segmentos individuais de batimento cardíaco (single-beat ECG segments)
-- **Formato:**  `.png`
+- **Formato:** `.jpg` / `.png`
 - **Quantidade:** 100+ imagens
 - **Origem:** Dataset público com fins educacionais e de pesquisa
+
+---
+
+## 🖼️ Imagens de Exemplo
+
+A pasta [`exemplo/`](./exemplo/) contém algumas imagens representativas do dataset para referência rápida.
+
+> **Por que não estão todas aqui?** O dataset completo possui centenas de imagens e ultrapassa o limite razoável para versionamento em repositórios Git. Por isso, apenas uma amostra foi incluída nesta pasta. O conjunto completo está disponível no link do Google Drive acima.
 
 > **Nota sobre o dataset:** As imagens representam batimentos individuais isolados — janelas de sinal cardíaco recortadas ao redor do complexo QRS — e não ECGs completos de 12 derivações. Essa característica torna o dataset especialmente adequado para tarefas de classificação morfológica por batimento e detecção de anomalias em nível unitário.
 
