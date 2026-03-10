@@ -26,7 +26,9 @@ O dataset utilizado é:
 
 **Heart Disease Dataset – UCI**
 
-📦 Fonte: [https://www.kaggle.com/datasets/ketangangal/heart-disease-dataset-uci](https://www.kaggle.com/datasets/ketangangal/heart-disease-dataset-uci)
+📦 Fonte original: [https://www.kaggle.com/datasets/ketangangal/heart-disease-dataset-uci](https://www.kaggle.com/datasets/ketangangal/heart-disease-dataset-uci)
+
+📂 Arquivo CSV (link público): [HeartDiseaseTrain-Test.csv](https://github.com/Hinten/fiap2_fase1_cap1/blob/main/assets/dataset_numerico/HeartDiseaseTrain-Test.csv)
 
 Este dataset contém informações clínicas de pacientes utilizadas para prever a presença de doenças cardíacas. Ele é amplamente utilizado em pesquisas acadêmicas e projetos de ciência de dados na área da saúde, sendo originalmente proveniente do repositório público da **UCI Machine Learning Repository**.
 
@@ -116,4 +118,4 @@ Embora o dataset tenha sido coletado em ambiente clínico controlado, as variáv
 
 Dessa forma, o dataset pode representar um **cenário simulado de coleta de dados em um ecossistema hospitalar inteligente**, servindo de base para modelos que futuramente operarão com dados em tempo real.
 
-O arquivo `.csv` do dataset deve ser armazenado externamente (Google Drive, OneDrive ou Dropbox) e referenciado neste documento por meio de link público, conforme indicado na seção 2.
+O arquivo `.csv` do dataset está disponível publicamente no repositório GitHub, conforme link indicado na seção 2.
