@@ -100,6 +100,8 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
 Embora coletado em ambiente clínico controlado, as variáveis do dataset espelham dados que podem ser obtidos por dispositivos IoT na saúde (smartwatches, monitores cardíacos portáteis, medidores digitais de pressão arterial), representando um **cenário simulado de coleta em ecossistema hospitalar inteligente**.
 
+> 📖 Para informações mais detalhadas sobre este dataset — incluindo a estrutura completa das variáveis, análise de relevância clínica e relação com dispositivos IoT — consulte o README específico: **[assets/dataset_numerico/README.md](./assets/dataset_numerico/README.md)**.
+
 
 ## 📄 Parte 2 – Dados Textuais (NLP)
 
@@ -148,6 +150,8 @@ O uso de NLP em saúde cardiovascular permite:
 - Detectar padrões de risco em descrições clínicas antes de exames laboratoriais.
 
 A diversidade de fontes (BVS, SciELO, ACC/AHA, SUS/DATASUS) garante cobertura de vocabulário clínico brasileiro e internacional, enriquecendo o treinamento de modelos de linguagem para o domínio cardiovascular.
+
+> 📖 Para informações mais detalhadas sobre o corpus textual — incluindo a ficha completa de cada um dos 26 documentos (título, autores, periódico, DOI, justificativa de seleção) — consulte o README específico: **[assets/dataset_texto/README.md](./assets/dataset_texto/README.md)**.
 
 
 ## 🖼️ Parte 3 – Dados Visuais (Visão Computacional)
@@ -202,6 +206,8 @@ Arquiteturas como **ResNet**, **EfficientNet** e **MobileNet** conseguem aprende
 | Variabilidade inter-observador na leitura | Padronização e reprodutibilidade da análise |
 | Detecção tardia de arritmias graves | Alertas automáticos em monitores cardíacos |
 | Dados rotulados escassos | Aproveitamento de técnicas semi e não supervisionadas |
+
+> 📖 Para informações mais detalhadas sobre o dataset de imagens — incluindo exemplos de morfologias, análise técnica das técnicas de Visão Computacional e considerações éticas — consulte o README específico: **[assets/dataset_imagens/README.md](./assets/dataset_imagens/README.md)**.
 
 
 ## 🔧 Como executar o código
